@@ -1,0 +1,12 @@
+Get All Scrambles:
+
+SELECT s.competitionId, s.roundTypeId, s.groupId, s.scrambleNum, s.scramble
+FROM Scrambles AS s 
+INNER JOIN (
+    SELECT competitionId, roundTypeId, formatId
+    FROM Results
+    WHERE eventId = 'clock'
+    GROUP BY competitionId, roundTypeId, formatId
+) AS r ON s.competitionId = r.competitionId AND s.roundTypeId = r.roundTypeId
+WHERE s.eventId = 'clock' AND s.isExtra = 0 AND r.formatId = 'a'
+ORDER BY s.competitionId, s.roundTypeId, s.groupId, s.scrambleNum
