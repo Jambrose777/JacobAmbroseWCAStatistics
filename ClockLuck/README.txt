@@ -12,7 +12,7 @@ factor per scramble to have a total calulation for the group.
 #Definitions
 #Lucky Case
 On Clock, A Lucky case is often defined as pieces already being solved relative
-to one another. I've seperated out cases that are dependent on the scramble vs.
+to one another. I've separated out cases that are dependent on the scramble vs.
 cases that are dependent on skill. Here a Scramble's Lucky Case is defined as:
  + 1 Point if a center is solved to an edge (can happen 4 times per side)
  + 1 Point if 2 adjacent edges are solved (can happen 4 times per side)
