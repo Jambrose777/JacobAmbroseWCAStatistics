@@ -14,10 +14,13 @@ struct Scramble{
 	int all=0, s1=0, s2=0, s3=0, s4=0, s5=0, start=0;
 };//ScrambleSet
 
+/*
+ * All scrambles that a delegate has ever held
+ */
 struct Delegate{
 	string name = "";
-	int avg = 0;
-	List<Scramble *> s;
+	double avg = 0;
+	list<Scramble *> s;
 };//Delegate
 
 /*
@@ -26,6 +29,13 @@ struct Delegate{
 bool comp(const Scramble * s1, const Scramble * s2){
 	return s1->all > s2->all;
 }//comp
+
+/*
+ * comparison rule for delegates
+ */
+bool comp2(const Delegate * d1, const Delegate * d2){
+	return d1->avg > d2 ->avg;
+}//comp2
 
 /*
  * find pos after nth s in str
@@ -156,21 +166,21 @@ int main(int argc, char * argv[]){
 				line.substr(0, findnth(line, 0, "|", 1) + 1);
 		else if(delegates.back()->name.compare(
 			line.substr(0, findnth(line, 0, "|", 1) + 1)) != 0){
+			for(Scramble * s: delegates.back()->s) 
+				delegates.back()->avg += s->all;
+			delegates.back()->avg /= (double)delegates.back()->s.size();
 			delegates.push_back(new Delegate);
 			delegates.back()->name = 
 				line.substr(0, findnth(line, 0, "|", 1) + 1);
-
-				//TODO CALC AVERAGE
-
 		}//if else
-		Delegate d = delegates.back();
+		Delegate * d = delegates.back();
 		if(scramNum == 1){
 			Scramble * s = new Scramble();
-			s->start = findnth(line, 0, "|", 4) + 1;
+			s->start = findnth(line, 0, "|", 5) + 1;
 			s->comp = line.substr(0, s->start);
-			d->s->push_back(s);
+			d->s.push_back(s);
 		}//if
-		Scramble * s = d->s->back();
+		Scramble * s = d->s.back();
 	
 		calcLuck(scramNum, line, s);	
 		
@@ -180,20 +190,23 @@ int main(int argc, char * argv[]){
 			cout << s->comp << " " << s->all << endl;
 		} else scramNum ++;
 	}//while
+	for(Scramble * s: delegates.back()->s) 
+		delegates.back()->avg += s->all;
+	delegates.back()->avg /= (double)delegates.back()->s.size();
 
 	cout << "Calcing done" << endl;
 
 	//output order and print average
 	ofstream save;
-	save.open("Results.txt");
+	save.open("ResultsDelegates.txt");
 	
-	ScrambleList.sort(comp);
-	for(Scramble * s : ScrambleList){
-		avg+=s->all;
-		save << s->comp << s->all << endl;
+	delegates.sort(comp2);
+	for(Delegate * d : delegates){
+		save << d->name << " Avg: " << d->avg << endl;
+		d->s.sort(comp);
+		for(Scramble * s: d->s)
+			save << s->comp << s->all << endl;
 	}//for
-
-	save << "Average: " << (avg+0.0)/count << endl;
 
 	save.close();
 	file.close();

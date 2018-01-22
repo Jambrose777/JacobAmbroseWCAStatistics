@@ -1,7 +1,3 @@
-===Database cubing
-
-== Dumping data for table competition_delegates
-
 |Adam Polkowski|BydgoszczSummer2014|c|A|1|UR2- DR4- DL4- UL1+ U4+ R3+ D2- L1+ ALL5- y2 U3- R4- D1+ L0+ ALL3- DR
 |Adam Polkowski|BydgoszczSummer2014|c|A|2|UR1+ DR3+ DL4- UL5- U3+ R6+ D1+ L5- ALL1- y2 U6+ R1+ D2+ L3- ALL4+ UR DL UL
 |Adam Polkowski|BydgoszczSummer2014|c|A|3|UR3+ DR3- DL5+ UL2- U3- R3- D0+ L5- ALL5+ y2 U3- R3- D6+ L4- ALL0+ UR DL
