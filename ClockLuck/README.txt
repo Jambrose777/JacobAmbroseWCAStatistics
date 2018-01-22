@@ -22,7 +22,7 @@ cases that are dependent on skill. Here a Scramble's Lucky Case is defined as:
  - 2 Points if 4 adjacent edges are solved and the center is not relative to them
      (overlap, takes 2 moves to solve, not 0) 
 
-Cases considered to be Skill Lukcy Cases, these can be forced and depend on the method of solving:
+Cases considered to be Skill Lucky Cases, these can be forced and depend on the method of solving:
  - a corner skip
  - a 12 o'clock skip
 
