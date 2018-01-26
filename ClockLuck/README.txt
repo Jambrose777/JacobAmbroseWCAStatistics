@@ -26,20 +26,34 @@ Cases considered to be Skill Lucky Cases, these can be forced and depend on the 
  - a corner skip
  - a 12 o'clock skip
 
-#Results
-#Best
-|LatvianOpen2016|f|A|1|14
-|NacionalesSpeedCubing2017|c|C|1|14
-|ClassicCityShhhhh2017|f|B|1|13
-|Generalforsamlingen2015|d|B|1|13
-|IutopiaOpen2014|f|B|1|13
-|MPEIOpen2016|c|A|1|13
-|ShanghaiWinter2018|f|A|1|13
-#Worst
-|ChinaChampionship2017|d|B|1|0
-|DvinaOHEdition2014|c|B|1|0
-|MiraVe2017|d|B|1|0
-|PolishChampionship2016|f|A|1|0
-|UrdanetaCity2015|f|A|1|0
-#Average
-6.0991
+#Files
+Makefile
+	$make
+		compiles code
+	$make run 
+		compiles and runs the all the files
+	$make clean
+		cleans the code
+results/Results.txt
+	Results of ClockLuck.cpp
+results/ResultsDelegates.txt
+	Results of ClockDelegates.cpp
+results/ResultsSingle.txt
+	Results of ClockLuckSingle.cpp
+src/ClockDelegate.cpp
+	source code for calculating the scramble luck ordered by who generated them.
+src/ClockLuck.cpp
+	inital problem. Calculates the luck for a scramble set and orders them
+src/ClockLuckSingle.cpp
+	calculates the clock luck for a single (not scramble set) scramble.
+resources/Queries.txt
+	Queries used to obtain the other resources files
+resources/RanksAverage.txt
+	NOT USED IN PROJECT
+resources/all.txt
+	all scramble sets in the database
+resources/competition_delegates.txt
+	all scramble sets in the database preceeded by the delegate
+bin/*
+	compiled code
+
