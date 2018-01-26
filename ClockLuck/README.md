@@ -29,12 +29,12 @@ Cases considered to be Skill Lucky Cases, these can be forced and depend on the 
 # Files
 
  - Makefile
-	-- $make
-		---compiles code
-	-- $make run 
-		--- compiles and runs the all the files
-	-- $make clean
-		--- cleans the code
+	$make
+		compiles code
+	$make run 
+		compiles and runs the all the files
+	$make clean
+		cleans the code
  - results/Results.txt
 	Results of ClockLuck.cpp
  - results/ResultsDelegates.txt
