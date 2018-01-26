@@ -1,5 +1,5 @@
 
-#**Clock Luck in a Scramble Set**
+# **Clock Luck in a Scramble Set**
 
 |Competition|Round|Group|1|Luck|
 |--------|--------|--------|--------|--------|
