@@ -1,3 +1,7 @@
+#**Clock Luck in a Scramble Set**
+
+|Competition|Round|Group|1|Luck|
+|--------|--------|--------|--------|--------|
 |LatvianOpen2016|f|A|1|14|
 |NacionalesSpeedCubing2017|c|C|1|14|
 |ClassicCityShhhhh2017|f|B|1|13|
