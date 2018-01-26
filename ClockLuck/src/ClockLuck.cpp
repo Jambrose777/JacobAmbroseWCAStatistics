@@ -164,7 +164,7 @@ int main(int argc, char * argv[]){
 
 	//output order and print average
 	ofstream save;
-	save.open("Results.txt");
+	save.open("results/Results.txt");
 	int avg = 0, count = ScrambleList.size();
 	ScrambleList.sort(comp);
 	for(Scramble * s : ScrambleList){

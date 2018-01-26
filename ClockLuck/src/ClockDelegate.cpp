@@ -198,7 +198,7 @@ int main(int argc, char * argv[]){
 
 	//output order and print average
 	ofstream save;
-	save.open("ResultsDelegates.txt");
+	save.open("results/ResultsDelegates.txt");
 	
 	delegates.sort(comp2);
 	for(Delegate * d : delegates){

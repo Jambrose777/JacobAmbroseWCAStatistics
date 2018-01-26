@@ -28,5 +28,10 @@ $(BIN)/ClockDelegate.o: $(SRC)/ClockDelegate.cpp
 
 .PHONY: clean
 
+run:
+	./bin/ClockLuck resources/all.txt 
+	./bin/ClockLuckSingle resources/all.txt
+	./bin/ClockDelegate resources/competition_delegates.txt
+
 clean:
 	rm -rf bin/*
