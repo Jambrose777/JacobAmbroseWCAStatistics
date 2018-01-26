@@ -1,16 +1,16 @@
-#ClockLuck
+# ClockLuck
 
 Last Updated 1/22/2018
 
-#Description 
+# Description 
 This program takes the results from an sql query on the WCA database to select
 all scrambles for clock. Since properties of the clock puzzle can be calculated 
 from the scramble, it is possible to quantify the round into luck.  It then 
 calculates how many Lucky Cases that scramble has. Finally it adds the luck 
 factor per scramble to have a total calulation for the group.
 
-#Definitions
-#Lucky Case
+# Definitions
+# Lucky Case
 On Clock, A Lucky case is often defined as pieces already being solved relative
 to one another. I've separated out cases that are dependent on the scramble vs.
 cases that are dependent on skill. Here a Scramble's Lucky Case is defined as:
@@ -26,7 +26,7 @@ Cases considered to be Skill Lucky Cases, these can be forced and depend on the 
  - a corner skip
  - a 12 o'clock skip
 
-#Files
+# Files
 Makefile
 	$make
 		compiles code
