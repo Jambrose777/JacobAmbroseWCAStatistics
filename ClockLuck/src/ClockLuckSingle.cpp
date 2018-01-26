@@ -162,9 +162,10 @@ int main(int argc, char * argv[]){
 
 	//output order and print average
 	ofstream save;
-	save.open("results/ResultsSingle.txt");
+	save.open("results/ResultsSingle.md");
 	int avg = 0, count = ScrambleList.size();
 	ScrambleList.sort(comp);
+	save << "# **Clock Luck for each Scramble**\n\n|Competition|Round|Group|Scramble|Luck|\n|--------|--------|--------|--------|--------|" << endl;
 	for(Scramble * s : ScrambleList){
 		avg+=s->all;
 		save << s->comp << s->all << endl;

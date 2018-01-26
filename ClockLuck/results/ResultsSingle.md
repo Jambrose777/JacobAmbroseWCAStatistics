@@ -1,3 +1,7 @@
+# **Clock Luck for each Scramble**
+
+|Competition|Round|Group|Scramble|Luck|
+|--------|--------|--------|--------|--------|
 |Andorra2017|c|B|2|5
 |CanberraSpring2016|c|A|3|5
 |CuberussiainSPB2017|f|A|5|5

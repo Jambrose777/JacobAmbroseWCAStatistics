@@ -1,3 +1,7 @@
+# **Clock Luck sorted by Delegate**
+
+|Delegate|Competition|Round|Group|1|Luck|
+|--------|--------|--------|--------|--------|--------|
 |Radosław Drozdowicz| Avg: 11
 |Radosław Drozdowicz|PolishNationals2017|d|A|1|12
 |Radosław Drozdowicz|PolishNationals2017|f|A|1|11

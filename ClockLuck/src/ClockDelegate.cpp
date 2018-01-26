@@ -202,9 +202,10 @@ int main(int argc, char * argv[]){
 
 	//output order and print average by delegate then by scramble
 	ofstream save;
-	save.open("results/ResultsDelegates.txt");
+	save.open("results/ResultsDelegates.md");
 	
 	delegates.sort(comp2);
+	save << "# **Clock Luck sorted by Delegate**\n\n|Delegate|Competition|Round|Group|1|Luck|\n|--------|--------|--------|--------|--------|--------|" << endl;
 	for(Delegate * d : delegates){
 		save << d->name << " Avg: " << d->avg << endl;
 		d->s.sort(comp);
