@@ -1,7 +1,7 @@
 # **Number of competitions in a year**
 
 |Name|year|numComps|
-|————|————|————|
+| ———— | ———— | ———— |
 |Jacob Ambrose|2017|45
 |Ming Zheng (郑鸣)|2017|41
 |Katie Hull|2017|38
