@@ -53,6 +53,7 @@ int findnth(const string & str, int pos, const string & s, int nth){
  */
 void calcLuck(int scramNum, string line, Scramble * s){
 
+	//gets scramble from line
 	string scram = line.substr(s->start);
 	int luck = 0;
 
@@ -132,7 +133,7 @@ void calcLuck(int scramNum, string line, Scramble * s){
 		&& ((ur + ul + u1 + r1 + l1)%12 == (ur + dr + r1 + d1 + u1)%12))
 		luck--;	
 
-	//increase counter
+	//increase luck for scramble
 	if(scramNum == 1) s->s1 = luck;
 	else if(scramNum == 2) s->s2 = luck;
 	else if(scramNum == 3) s->s3 = luck;
@@ -152,6 +153,7 @@ int main(int argc, char * argv[]){
 	//open file
 	ifstream file(argv[1]);
 
+	//creates delegates
 	list<Delegate *> delegates;
 	string line;
 	int scramNum = 1;
@@ -174,6 +176,8 @@ int main(int argc, char * argv[]){
 				line.substr(0, findnth(line, 0, "|", 1) + 1);
 		}//if else
 		Delegate * d = delegates.back();
+
+		//creates scramble if needed
 		if(scramNum == 1){
 			Scramble * s = new Scramble();
 			s->start = findnth(line, 0, "|", 5) + 1;
@@ -196,7 +200,7 @@ int main(int argc, char * argv[]){
 
 	cout << "Calcing done" << endl;
 
-	//output order and print average
+	//output order and print average by delegate then by scramble
 	ofstream save;
 	save.open("results/ResultsDelegates.txt");
 	

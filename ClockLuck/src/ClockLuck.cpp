@@ -37,6 +37,7 @@ int findnth(const string & str, int pos, const string & s, int nth){
  */
 void calcLuck(int scramNum, string line, Scramble * s){
 
+	//gets scramble from string
 	string scram = line.substr(s->start);
 	int luck = 0;
 
@@ -116,7 +117,7 @@ void calcLuck(int scramNum, string line, Scramble * s){
 		&& ((ur + ul + u1 + r1 + l1)%12 == (ur + dr + r1 + d1 + u1)%12))
 		luck--;	
 
-	//increase counter
+	//increase luck value on specific scramble
 	if(scramNum == 1) s->s1 = luck;
 	else if(scramNum == 2) s->s2 = luck;
 	else if(scramNum == 3) s->s3 = luck;
@@ -126,6 +127,9 @@ void calcLuck(int scramNum, string line, Scramble * s){
 
 }//calcLuck
 
+/*
+ * main
+ */
 int main(int argc, char * argv[]){
 
 	//file specification

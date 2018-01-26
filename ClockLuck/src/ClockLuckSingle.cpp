@@ -37,6 +37,7 @@ int findnth(const string & str, int pos, const string & s, int nth){
  */
 void calcLuck(int scramNum, string line, Scramble * s){
 
+	//gets scramble from line
 	string scram = line.substr(s->start);
 	int luck = 0;
 
@@ -116,7 +117,7 @@ void calcLuck(int scramNum, string line, Scramble * s){
 		&& ((ur + ul + u1 + r1 + l1)%12 == (ur + dr + r1 + d1 + u1)%12))
 		luck--;	
 
-	//increase counter
+	//increase luck for scramble
 	if(scramNum == 1) s->s1 = luck;
 	else if(scramNum == 2) s->s2 = luck;
 	else if(scramNum == 3) s->s3 = luck;
@@ -142,14 +143,11 @@ int main(int argc, char * argv[]){
 
 	//read through file
 	while(getline(file, line)){
-		//creates new scramble set per comp
-		//if(scramNum == 1){
-			Scramble * s = new Scramble();
-			s->start = findnth(line, 0, "|", 4) + 1;
-			s->comp = line.substr(0, s->start);
-			ScrambleList.push_back(s);
-		//}//if
-		//Scramble * s = ScrambleList.back();
+		//creates new scramble set per scramble
+		Scramble * s = new Scramble();
+		s->start = findnth(line, 0, "|", 4) + 1;
+		s->comp = line.substr(0, s->start);
+		ScrambleList.push_back(s);
 	
 		calcLuck(scramNum, line, s);	
 		
