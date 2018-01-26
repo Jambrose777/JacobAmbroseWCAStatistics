@@ -169,10 +169,10 @@ int main(int argc, char * argv[]){
 	ScrambleList.sort(comp);
 	for(Scramble * s : ScrambleList){
 		avg+=s->all;
-		save << s->comp << s->all << endl;
+		save << s->comp << s->all << "|" << endl;
 	}//for
 
-	save << "Average: " << (avg+0.0)/count << endl;
+	cout << "Average: " << (avg+0.0)/count << endl;
 
 	save.close();
 	file.close();
