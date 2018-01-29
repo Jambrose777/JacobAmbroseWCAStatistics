@@ -98,6 +98,7 @@
 |ManchesterOpen2017|d|B|1|10|
 |MantuaSummer2017|c|A|1|10|
 |MaruCubeDay2017|1|B|1|10|
+|MathSocOpen2018|f|A|1|10|
 |Michigan2016|d|D|1|10|
 |MountainViewOpen2017|f|B|1|10|
 |NacionalesSpeedCubing2017|c|A|1|10|
@@ -120,6 +121,7 @@
 |SingaporeOpen2016|c|A|1|10|
 |SlovakianOpen2017|c|B|1|10|
 |SpanishChampionship2014|f|B|1|10|
+|SpeedinColors2018|d|A|1|10|
 |SpringComes2015|f|A|1|10|
 |StaszicOpen2017|f|A|1|10|
 |TaiwanChampionship2016|f|A|1|10|
@@ -210,6 +212,7 @@
 |LvivSpringDays2016|f|A|1|9|
 |MarrsMixupWinter2017|c|B|1|9|
 |MathSocOpen2016|c|C|1|9|
+|MathSocOpen2018|1|A|1|9|
 |Meadowlands2017|d|B|1|9|
 |MegaMinnesotaWinter2016|d|D|1|9|
 |MelakaOpen2014|f|A|1|9|
@@ -221,6 +224,7 @@
 |N8W8Summer2016|c|B|1|9|
 |NanjingSpring2016|f|A|1|9|
 |NorthLondonOpen2016|c|A|1|9|
+|NorthStarCubingChallenge2018|f|A|1|9|
 |NottinghamSummer2014|d|A|1|9|
 |OsijekOpen2017|c|A|1|9|
 |OxfordOpen2014|d|A|1|9|
@@ -421,6 +425,7 @@
 |NanjingAutumn2015|f|A|1|8|
 |NanjingSpring2017|d|A|1|8|
 |Norrkubing2015|f|A|1|8|
+|NorthernLightsOpen2018|f|A|1|8|
 |NorthLondonOpen2016|c|B|1|8|
 |NorwegianChampionship2016|f|A|1|8|
 |NottinghamSummer2014|d|B|1|8|
@@ -446,6 +451,7 @@
 |SaintPetersburgWelcomeTo2016|c|C|1|8|
 |SantaClausCubeRace2015|d|A|1|8|
 |SantaClausCubeRace2016|c|A|1|8|
+|SantaTeclaCuboDesafio2018|c|F|1|8|
 |SCMUOpen2016|c|A|1|8|
 |SESCSantos2015|f|A|1|8|
 |ShaastraCubeOpen2018|c|D|1|8|
@@ -734,6 +740,8 @@
 |NanjingAutumn2017|f|A|1|7|
 |NanjingSpring2014|f|A|1|7|
 |NationalCubingRegion2015|c|A|1|7|
+|NorthernLightsOpen2018|f|B|1|7|
+|NorthStarCubingChallenge2018|d|B|1|7|
 |NorwegianChampionship2017|c|A|1|7|
 |OdessaOpen2017|f|A|1|7|
 |OktoberBrest2014|d|A|1|7|
@@ -811,6 +819,7 @@
 |SPBSummerOpen2015|d|A|1|7|
 |SpeedDayLublin2016|1|A|1|7|
 |SpeedDaysKrasnik2017|d|B|1|7|
+|SpeedinColors2018|f|A|1|7|
 |SPOpen2014|1|A|1|7|
 |SSL1Jonkoping2017|c|A|1|7|
 |SSL1Jonkoping2017|c|B|1|7|
@@ -855,6 +864,7 @@
 |WC2015|f|B|1|7|
 |WelcometoSaratov2017|f|B|1|7|
 |WelwynGardenCity2014|f|A|1|7|
+|WhaleSounds2018|f|B|1|7|
 |WindsorClassic2017|d|B|1|7|
 |WinterWestUkraine2015|1|B|1|7|
 |Wiscube2014|f|A|1|7|
@@ -1120,6 +1130,7 @@
 |NewcastleunderLyme2017|c|B|1|6|
 |NewportCubeDay2014|f|B|1|6|
 |NewZealandNationals2014|f|A|1|6|
+|NorthStarCubingChallenge2018|d|A|1|6|
 |NovosibirskPlanetariumOpen2017|f|A|1|6|
 |OktoberBrest2014|d|B|1|6|
 |OktoberBrest2014|f|B|1|6|
@@ -1162,6 +1173,7 @@
 |SanFranciscoBayOpen2017|f|A|1|6|
 |SantaClausRace2014|c|A|1|6|
 |SantaFe2017|c|A|1|6|
+|SantaTeclaCuboDesafio2018|c|D|1|6|
 |SaratovWinterOpen2017|f|B|1|6|
 |SCMU2016|d|C|1|6|
 |SCMU2016|f|A|1|6|
@@ -1542,6 +1554,8 @@
 |SaintPetersburgWelcomeTo2016|c|B|1|5|
 |SanFranciscoBayOpen2017|d|C|1|5|
 |SanFranciscoBayOpen2017|f|B|1|5|
+|SantaTeclaCuboDesafio2018|c|B|1|5|
+|SantaTeclaCuboDesafio2018|c|E|1|5|
 |SchwandorfOpen2016|d|B|1|5|
 |SCMU2015|d|B|1|5|
 |SCMU2015|f|B|1|5|
@@ -1634,6 +1648,7 @@
 |WelcometoSaratov2017|f|A|1|5|
 |WelwynGardenCity2015|d|A|1|5|
 |WelwynGardenCity2015|d|B|1|5|
+|WhaleSounds2018|f|A|1|5|
 |WhiteCityCubing2017|f|A|1|5|
 |WhiteCityCubing2017|f|B|1|5|
 |WiehnachtswurfelazBarn2016|c|A|1|5|
@@ -1792,6 +1807,7 @@
 |MaruCubeDay2017|1|A|1|4|
 |MasdosReturns2017|c|A|1|4|
 |MasdosReturns2017|c|C|1|4|
+|MathSocOpen2018|1|B|1|4|
 |MegaMinnesotaWinter2016|d|C|1|4|
 |MegaMinnesotaWinter2016|f|A|1|4|
 |Michigan2017|c|B|1|4|
@@ -1836,6 +1852,7 @@
 |RubiksCubeMumbaiOpen2017|c|A|1|4|
 |RubikZamora2017|d|B|1|4|
 |SantaFe2017|c|C|1|4|
+|SantaTeclaCuboDesafio2018|c|C|1|4|
 |SCMU2016|d|D|1|4|
 |SCMU2017|f|A|1|4|
 |SebraOpen2016|f|B|1|4|
@@ -1857,6 +1874,7 @@
 |SPBChampionship2017|f|A|1|4|
 |SPCSStanfordSpring2015|f|A|1|4|
 |SpeedDaysKielce2017|f|A|1|4|
+|SpeedinColors2018|d|B|1|4|
 |SPOpen2014|1|B|1|4|
 |SSL3Kungsbacka2017|d|B|1|4|
 |SSNCubeOpen2017|f|E|1|4|
@@ -1890,6 +1908,7 @@
 |VSUOpen2016|f|B|1|4|
 |WelcomeBackToGuildford2015|d|A|1|4|
 |WelwynGardenCity2014|d|A|1|4|
+|WhaleSounds2018|f|C|1|4|
 |WinterWestUkraine2015|1|A|1|4|
 |Wiscube2016|d|B|1|4|
 |Wiscube2016|d|C|1|4|
@@ -2005,6 +2024,7 @@
 |RubikZamora2017|f|A|1|3|
 |RumiaOpen2014|c|B|1|3|
 |SantaClausRace2014|c|B|1|3|
+|SantaTeclaCuboDesafio2018|c|A|1|3|
 |SchwandorfOpen2016|d|A|1|3|
 |SCMU2017|d|B|1|3|
 |SCMUOpen2016|c|E|1|3|

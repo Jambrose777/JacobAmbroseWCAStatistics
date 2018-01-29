@@ -17,12 +17,6 @@
 |Casey Tharpe| Avg: 9
 |Casey Tharpe|SanMarcosAcademyWinter2015|c|A|1|11
 |Casey Tharpe|SanMarcosAcademyWinter2015|c|B|1|7
-|Jorge Miguel Trigo| Avg: 9
-|Jorge Miguel Trigo|YoRubik20SC2017|c|A|1|9
-|Kristopher De Asis| Avg: 8.66667
-|Kristopher De Asis|EdmontonOpenWinter2016|c|A|1|11
-|Kristopher De Asis|EdmontonLimitedSummer2016|c|A|1|8
-|Kristopher De Asis|EdmontonLimitedSummer2016|c|B|1|7
 |Matias Rasmussen| Avg: 8.5
 |Matias Rasmussen|VestegnenOpen2017|c|A|1|11
 |Matias Rasmussen|DanishOpen2017|c|B|1|10
@@ -64,6 +58,12 @@
 |Dene Beardsley|GreatSouthOpen2016|f|A|1|10
 |Dene Beardsley|AustralianNationals2014|c|B|1|9
 |Dene Beardsley|AustralianNationals2014|c|A|1|4
+|Kristopher De Asis| Avg: 7.6
+|Kristopher De Asis|EdmontonOpenWinter2016|c|A|1|11
+|Kristopher De Asis|EdmontonLimitedSummer2016|c|A|1|8
+|Kristopher De Asis|CubingUndertheStars2018|c|B|1|7
+|Kristopher De Asis|EdmontonLimitedSummer2016|c|B|1|7
+|Kristopher De Asis|CubingUndertheStars2018|c|A|1|5
 |Kārlis Iskrovs| Avg: 7.57143
 |Kārlis Iskrovs|LatvianOpen2016|f|A|1|14
 |Kārlis Iskrovs|LatvianOpen2017|c|B|1|8
@@ -72,6 +72,11 @@
 |Kārlis Iskrovs|LatvianOpen2016|f|B|1|7
 |Kārlis Iskrovs|LatvianOpen2014|f|A|1|5
 |Kārlis Iskrovs|LatvianOpen2017|c|A|1|5
+|Jorge Miguel Trigo| Avg: 7.5
+|Jorge Miguel Trigo|SpeedinColors2018|d|A|1|10
+|Jorge Miguel Trigo|YoRubik20SC2017|c|A|1|9
+|Jorge Miguel Trigo|SpeedinColors2018|f|A|1|7
+|Jorge Miguel Trigo|SpeedinColors2018|d|B|1|4
 |Jun-Yi Guo (郭君逸)| Avg: 7.5
 |Jun-Yi Guo (郭君逸)|TaiwanChampionship2016|f|A|1|10
 |Jun-Yi Guo (郭君逸)|CrossstraitCubing2015|f|A|1|8
@@ -79,13 +84,6 @@
 |Jun-Yi Guo (郭君逸)|TaiwanChampionship2016|d|B|1|7
 |Jun-Yi Guo (郭君逸)|CrossstraitCubing2015|f|B|1|6
 |Jun-Yi Guo (郭君逸)|TaiwanChampionship2016|d|C|1|6
-|Katie Hull| Avg: 7.5
-|Katie Hull|RockyTop2017|1|B|1|10
-|Katie Hull|RockyTop2017|f|A|1|9
-|Katie Hull|ClassicCity4Charity2017|1|B|1|8
-|Katie Hull|ClassicCity4Charity2017|1|A|1|7
-|Katie Hull|ClassicCity4Charity2017|f|A|1|7
-|Katie Hull|RockyTop2017|1|A|1|4
 |Sebastian Robbins| Avg: 7.5
 |Sebastian Robbins|CanberraSpring2017|c|A|1|9
 |Sebastian Robbins|CanberraSpring2017|c|B|1|6
@@ -104,20 +102,10 @@
 |Chris Braiedy|FabulousMinnesotaCompetition2015|1|A|1|6
 |Chris Braiedy|Cubetcha2015|c|B|1|5
 |Chris Braiedy|IowaCornLovers2014|c|A|1|5
-|Slater Metz| Avg: 7.4
-|Slater Metz|Wiscube2017|2|B|1|12
-|Slater Metz|Wiscube2017|d|B|1|8
-|Slater Metz|Wiscube2017|2|A|1|6
-|Slater Metz|Wiscube2017|d|A|1|6
-|Slater Metz|Wiscube2017|f|A|1|5
 |Arash Maslehatjoo (آرش مصلحت جو)| Avg: 7.33333
 |Arash Maslehatjoo (آرش مصلحت جو)|IranOpen2016|f|A|1|10
 |Arash Maslehatjoo (آرش مصلحت جو)|IranOpen2017|f|A|1|8
 |Arash Maslehatjoo (آرش مصلحت جو)|SummerwithCubers2014|f|A|1|4
-|Brandon Mikel| Avg: 7.33333
-|Brandon Mikel|HeartlandChampionships2017|c|A|1|8
-|Brandon Mikel|HeartlandChampionships2017|c|B|1|8
-|Brandon Mikel|HeartlandChampionships2017|c|C|1|6
 |Stefano Bevacqua| Avg: 7.33333
 |Stefano Bevacqua|ItalianChampionship2015|c|A|1|10
 |Stefano Bevacqua|ItalianChampionship2014|c|A|1|6
@@ -149,6 +137,20 @@
 |Ilkyoo Choi (최일규)|KoreanChampionship2017|c|C|1|5
 |Ilkyoo Choi (최일규)|KoreaWinter2015|f|A|1|5
 |Ilkyoo Choi (최일규)|KAISTSpring2017|f|A|1|3
+|Slater Metz| Avg: 7.14286
+|Slater Metz|Wiscube2017|2|B|1|12
+|Slater Metz|BigCheeseOpen2018|c|B|1|9
+|Slater Metz|Wiscube2017|d|B|1|8
+|Slater Metz|Wiscube2017|2|A|1|6
+|Slater Metz|Wiscube2017|d|A|1|6
+|Slater Metz|Wiscube2017|f|A|1|5
+|Slater Metz|BigCheeseOpen2018|c|A|1|4
+|Brandon Mikel| Avg: 7
+|Brandon Mikel|BigCheeseOpen2018|c|B|1|9
+|Brandon Mikel|HeartlandChampionships2017|c|A|1|8
+|Brandon Mikel|HeartlandChampionships2017|c|B|1|8
+|Brandon Mikel|HeartlandChampionships2017|c|C|1|6
+|Brandon Mikel|BigCheeseOpen2018|c|A|1|4
 |Corey Sakowski| Avg: 7
 |Corey Sakowski|EZCubesSpring2017|c|A|1|8
 |Corey Sakowski|EZCubesSpring2017|c|B|1|8
@@ -259,6 +261,16 @@
 |Swaminathan Chandrasekaran|IndianNationals2014|d|A|1|4
 |Swaminathan Chandrasekaran|IndianNationals2014|d|D|1|4
 |Swaminathan Chandrasekaran|IndianNationals2014|d|B|1|3
+|Katie Hull| Avg: 6.77778
+|Katie Hull|RockyTop2017|1|B|1|10
+|Katie Hull|RockyTop2017|f|A|1|9
+|Katie Hull|ClassicCity4Charity2017|1|B|1|8
+|Katie Hull|ClassicCity4Charity2017|1|A|1|7
+|Katie Hull|ClassicCity4Charity2017|f|A|1|7
+|Katie Hull|WhaleSounds2018|f|B|1|7
+|Katie Hull|WhaleSounds2018|f|A|1|5
+|Katie Hull|RockyTop2017|1|A|1|4
+|Katie Hull|WhaleSounds2018|f|C|1|4
 |Petra Kobal Vogrinec| Avg: 6.77778
 |Petra Kobal Vogrinec|SlovenianOpen2016|f|A|1|11
 |Petra Kobal Vogrinec|LentOpen2015|d|B|1|10
@@ -605,66 +617,6 @@
 |Rui-Jun Liu (劉睿鈞)|TaipeiOpen2015|d|B|1|4
 |Rui-Jun Liu (劉睿鈞)|MagicRevenge2015|1|B|1|3
 |Rui-Jun Liu (劉睿鈞)|TaipeiOpen2015|f|A|1|1
-|Jacob Ambrose| Avg: 6.52542
-|Jacob Ambrose|ClassicCityShhhhh2017|f|B|1|13
-|Jacob Ambrose|AthensFallLateNight2016|c|A|1|12
-|Jacob Ambrose|MountainViewOpen2017|f|B|1|10
-|Jacob Ambrose|RockyTop2017|1|B|1|10
-|Jacob Ambrose|CarolinaClockStravaganza2017|1|A|1|9
-|Jacob Ambrose|CarolinaClockStravaganza2017|f|A|1|9
-|Jacob Ambrose|ClassicCityShhhhh2017|f|A|1|9
-|Jacob Ambrose|CrossroadsCubing2017|f|D|1|9
-|Jacob Ambrose|MountainViewOpen2017|d|A|1|9
-|Jacob Ambrose|RockyTop2017|f|A|1|9
-|Jacob Ambrose|AthensFallLateNight2016|c|B|1|8
-|Jacob Ambrose|CarolinaClockStravaganza2017|2|A|1|8
-|Jacob Ambrose|CarolinaClockStravaganza2017|2|B|1|8
-|Jacob Ambrose|ClassicCity4Charity2017|1|B|1|8
-|Jacob Ambrose|ClassicCityShenanigans2017|d|C|1|8
-|Jacob Ambrose|CrossroadsCubingSpring2017|c|B|1|8
-|Jacob Ambrose|EZCubesSpring2017|c|A|1|8
-|Jacob Ambrose|EZCubesSpring2017|c|B|1|8
-|Jacob Ambrose|VirginiaOpenWinter2017|f|B|1|8
-|Jacob Ambrose|ClassicCity4Charity2017|1|A|1|7
-|Jacob Ambrose|ClassicCity4Charity2017|f|A|1|7
-|Jacob Ambrose|ClassicCityShenanigans2017|f|B|1|7
-|Jacob Ambrose|ClassicCitySpooks2017|1|A|1|7
-|Jacob Ambrose|ClassicCitySpooks2017|f|A|1|7
-|Jacob Ambrose|CrossroadsCubing2017|d|A|1|7
-|Jacob Ambrose|HendersonvilleFall2017|d|C|1|7
-|Jacob Ambrose|HendersonvilleFall2017|f|A|1|7
-|Jacob Ambrose|MountainViewOpen2017|f|A|1|7
-|Jacob Ambrose|WindsorClassic2017|d|B|1|7
-|Jacob Ambrose|ClassicCityShenanigans2017|d|B|1|6
-|Jacob Ambrose|ClassicCityShenanigans2017|f|A|1|6
-|Jacob Ambrose|ClassicCityShhhhh2017|1|A|1|6
-|Jacob Ambrose|ClassicCityShhhhh2017|1|B|1|6
-|Jacob Ambrose|ClassicCitySpooks2017|f|B|1|6
-|Jacob Ambrose|HendersonvilleSpring2017|d|A|1|6
-|Jacob Ambrose|HendersonvilleSpring2017|f|B|1|6
-|Jacob Ambrose|MountainViewOpen2017|d|B|1|6
-|Jacob Ambrose|SouthCarolina2017|1|A|1|6
-|Jacob Ambrose|VirginiaOpenWinter2017|f|A|1|6
-|Jacob Ambrose|VirginiaOpenWinter2017|f|C|1|6
-|Jacob Ambrose|WindsorClassic2017|d|A|1|6
-|Jacob Ambrose|ClassicCitySpooks2017|1|B|1|5
-|Jacob Ambrose|CrossroadsCubing2017|2|A|1|5
-|Jacob Ambrose|HendersonvilleFall2017|d|A|1|5
-|Jacob Ambrose|UnionvilleOpenSpring2017|c|A|1|5
-|Jacob Ambrose|WindsorClassic2017|f|A|1|5
-|Jacob Ambrose|ClassicCityShenanigans2017|d|A|1|4
-|Jacob Ambrose|CrossroadsCubingSpring2017|c|A|1|4
-|Jacob Ambrose|HendersonvilleFall2017|2|A|1|4
-|Jacob Ambrose|HendersonvilleFall2017|2|B|1|4
-|Jacob Ambrose|HendersonvilleFall2017|d|B|1|4
-|Jacob Ambrose|HendersonvilleSpring2017|d|B|1|4
-|Jacob Ambrose|RockyTop2017|1|A|1|4
-|Jacob Ambrose|SouthCarolina2017|1|B|1|4
-|Jacob Ambrose|SouthCarolina2017|f|A|1|4
-|Jacob Ambrose|CarolinaClockStravaganza2017|1|B|1|3
-|Jacob Ambrose|CrossroadsCubing2017|d|B|1|3
-|Jacob Ambrose|HendersonvilleSpring2017|f|A|1|3
-|Jacob Ambrose|UnionvilleOpenSpring2017|c|B|1|2
 |Hari Anirudh| Avg: 6.52381
 |Hari Anirudh|ShaastraCubeOpen2018|c|B|1|11
 |Hari Anirudh|CarteBlancheKubeOpen2017|c|A|1|10
@@ -810,6 +762,69 @@
 |James Hildreth|Wiscube2016|d|B|1|4
 |James Hildreth|Wiscube2016|d|C|1|4
 |James Hildreth|MCCAlpha2017|c|B|1|3
+|Jacob Ambrose| Avg: 6.46774
+|Jacob Ambrose|ClassicCityShhhhh2017|f|B|1|13
+|Jacob Ambrose|AthensFallLateNight2016|c|A|1|12
+|Jacob Ambrose|MountainViewOpen2017|f|B|1|10
+|Jacob Ambrose|RockyTop2017|1|B|1|10
+|Jacob Ambrose|CarolinaClockStravaganza2017|1|A|1|9
+|Jacob Ambrose|CarolinaClockStravaganza2017|f|A|1|9
+|Jacob Ambrose|ClassicCityShhhhh2017|f|A|1|9
+|Jacob Ambrose|CrossroadsCubing2017|f|D|1|9
+|Jacob Ambrose|MountainViewOpen2017|d|A|1|9
+|Jacob Ambrose|RockyTop2017|f|A|1|9
+|Jacob Ambrose|AthensFallLateNight2016|c|B|1|8
+|Jacob Ambrose|CarolinaClockStravaganza2017|2|A|1|8
+|Jacob Ambrose|CarolinaClockStravaganza2017|2|B|1|8
+|Jacob Ambrose|ClassicCity4Charity2017|1|B|1|8
+|Jacob Ambrose|ClassicCityShenanigans2017|d|C|1|8
+|Jacob Ambrose|CrossroadsCubingSpring2017|c|B|1|8
+|Jacob Ambrose|EZCubesSpring2017|c|A|1|8
+|Jacob Ambrose|EZCubesSpring2017|c|B|1|8
+|Jacob Ambrose|VirginiaOpenWinter2017|f|B|1|8
+|Jacob Ambrose|ClassicCity4Charity2017|1|A|1|7
+|Jacob Ambrose|ClassicCity4Charity2017|f|A|1|7
+|Jacob Ambrose|ClassicCityShenanigans2017|f|B|1|7
+|Jacob Ambrose|ClassicCitySpooks2017|1|A|1|7
+|Jacob Ambrose|ClassicCitySpooks2017|f|A|1|7
+|Jacob Ambrose|CrossroadsCubing2017|d|A|1|7
+|Jacob Ambrose|HendersonvilleFall2017|d|C|1|7
+|Jacob Ambrose|HendersonvilleFall2017|f|A|1|7
+|Jacob Ambrose|MountainViewOpen2017|f|A|1|7
+|Jacob Ambrose|WhaleSounds2018|f|B|1|7
+|Jacob Ambrose|WindsorClassic2017|d|B|1|7
+|Jacob Ambrose|ClassicCityShenanigans2017|d|B|1|6
+|Jacob Ambrose|ClassicCityShenanigans2017|f|A|1|6
+|Jacob Ambrose|ClassicCityShhhhh2017|1|A|1|6
+|Jacob Ambrose|ClassicCityShhhhh2017|1|B|1|6
+|Jacob Ambrose|ClassicCitySpooks2017|f|B|1|6
+|Jacob Ambrose|HendersonvilleSpring2017|d|A|1|6
+|Jacob Ambrose|HendersonvilleSpring2017|f|B|1|6
+|Jacob Ambrose|MountainViewOpen2017|d|B|1|6
+|Jacob Ambrose|SouthCarolina2017|1|A|1|6
+|Jacob Ambrose|VirginiaOpenWinter2017|f|A|1|6
+|Jacob Ambrose|VirginiaOpenWinter2017|f|C|1|6
+|Jacob Ambrose|WindsorClassic2017|d|A|1|6
+|Jacob Ambrose|ClassicCitySpooks2017|1|B|1|5
+|Jacob Ambrose|CrossroadsCubing2017|2|A|1|5
+|Jacob Ambrose|HendersonvilleFall2017|d|A|1|5
+|Jacob Ambrose|UnionvilleOpenSpring2017|c|A|1|5
+|Jacob Ambrose|WhaleSounds2018|f|A|1|5
+|Jacob Ambrose|WindsorClassic2017|f|A|1|5
+|Jacob Ambrose|ClassicCityShenanigans2017|d|A|1|4
+|Jacob Ambrose|CrossroadsCubingSpring2017|c|A|1|4
+|Jacob Ambrose|HendersonvilleFall2017|2|A|1|4
+|Jacob Ambrose|HendersonvilleFall2017|2|B|1|4
+|Jacob Ambrose|HendersonvilleFall2017|d|B|1|4
+|Jacob Ambrose|HendersonvilleSpring2017|d|B|1|4
+|Jacob Ambrose|RockyTop2017|1|A|1|4
+|Jacob Ambrose|SouthCarolina2017|1|B|1|4
+|Jacob Ambrose|SouthCarolina2017|f|A|1|4
+|Jacob Ambrose|WhaleSounds2018|f|C|1|4
+|Jacob Ambrose|CarolinaClockStravaganza2017|1|B|1|3
+|Jacob Ambrose|CrossroadsCubing2017|d|B|1|3
+|Jacob Ambrose|HendersonvilleSpring2017|f|A|1|3
+|Jacob Ambrose|UnionvilleOpenSpring2017|c|B|1|2
 |Anders Berggren| Avg: 6.46154
 |Anders Berggren|SSL3Kungsbacka2017|f|A|1|11
 |Anders Berggren|SSL4Mora2017|f|A|1|11
@@ -840,6 +855,27 @@
 |Juan Camilo Vargas|TorneoNacionalColombia2016|c|B|1|7
 |Juan Camilo Vargas|RubiKolombia2015|1|A|1|5
 |Juan Camilo Vargas|TorneoJorgeTadeoLozano2017|c|B|1|3
+|Walker Welch| Avg: 6.4
+|Walker Welch|MarrsMixupWinter2017|c|B|1|9
+|Walker Welch|MegaMinnesotaWinter2016|d|D|1|9
+|Walker Welch|NorthStarCubingChallenge2018|f|A|1|9
+|Walker Welch|HeartlandChampionships2017|c|A|1|8
+|Walker Welch|HeartlandChampionships2017|c|B|1|8
+|Walker Welch|MegaMinnesotaWinter2016|d|B|1|7
+|Walker Welch|MiniMinnesotaFall2017|f|A|1|7
+|Walker Welch|NorthStarCubingChallenge2018|d|B|1|7
+|Walker Welch|RacetheClock2017|c|B|1|7
+|Walker Welch|FabulousMNCompetition2017|f|A|1|6
+|Walker Welch|HeartlandChampionships2017|c|C|1|6
+|Walker Welch|MarrsMixupWinter2017|c|A|1|6
+|Walker Welch|MegaMinnesotaWinter2016|d|A|1|6
+|Walker Welch|NorthStarCubingChallenge2018|d|A|1|6
+|Walker Welch|RacetheClock2017|c|A|1|6
+|Walker Welch|FabulousMNCompetition2017|1|B|1|5
+|Walker Welch|FabulousMNCompetition2017|1|A|1|4
+|Walker Welch|MegaMinnesotaWinter2016|d|C|1|4
+|Walker Welch|MegaMinnesotaWinter2016|f|A|1|4
+|Walker Welch|MiniMinnesotaFall2017|f|B|1|4
 |Jim Mertens| Avg: 6.38462
 |Jim Mertens|USNationals2015|d|C|1|11
 |Jim Mertens|USNationals2015|d|D|1|10
@@ -1089,24 +1125,6 @@
 |Sakae Tokuda (徳田栄)|JapanOpen2015|c|A|1|6
 |Sakae Tokuda (徳田栄)|CherryBlossomViewing2016|f|A|1|5
 |Sakae Tokuda (徳田栄)|JapanOpen2016|c|A|1|4
-|Walker Welch| Avg: 6.23529
-|Walker Welch|MarrsMixupWinter2017|c|B|1|9
-|Walker Welch|MegaMinnesotaWinter2016|d|D|1|9
-|Walker Welch|HeartlandChampionships2017|c|A|1|8
-|Walker Welch|HeartlandChampionships2017|c|B|1|8
-|Walker Welch|MegaMinnesotaWinter2016|d|B|1|7
-|Walker Welch|MiniMinnesotaFall2017|f|A|1|7
-|Walker Welch|RacetheClock2017|c|B|1|7
-|Walker Welch|FabulousMNCompetition2017|f|A|1|6
-|Walker Welch|HeartlandChampionships2017|c|C|1|6
-|Walker Welch|MarrsMixupWinter2017|c|A|1|6
-|Walker Welch|MegaMinnesotaWinter2016|d|A|1|6
-|Walker Welch|RacetheClock2017|c|A|1|6
-|Walker Welch|FabulousMNCompetition2017|1|B|1|5
-|Walker Welch|FabulousMNCompetition2017|1|A|1|4
-|Walker Welch|MegaMinnesotaWinter2016|d|C|1|4
-|Walker Welch|MegaMinnesotaWinter2016|f|A|1|4
-|Walker Welch|MiniMinnesotaFall2017|f|B|1|4
 |Chan Tak Chuen (陳德泉)| Avg: 6.22222
 |Chan Tak Chuen (陳德泉)|HongKongCubeDay2017|f|A|1|9
 |Chan Tak Chuen (陳德泉)|HongKongSpring2015|f|A|1|8
@@ -1430,6 +1448,34 @@
 |Björn Korbanka|GermanNationals2015|d|A|1|5
 |Björn Korbanka|GermanNationals2014|f|A|1|4
 |Björn Korbanka|GermanNationals2015|f|A|1|4
+|Olli Vikstedt| Avg: 6.11111
+|Olli Vikstedt|FinnishChampionship2017|d|A|1|10
+|Olli Vikstedt|FinnishChampionship2017|d|D|1|10
+|Olli Vikstedt|Pulmapelipaivat2017|1|B|1|10
+|Olli Vikstedt|FinnishChampionship2017|f|A|1|8
+|Olli Vikstedt|NorthernLightsOpen2018|f|A|1|8
+|Olli Vikstedt|FinnishChampionship2017|2|A|1|7
+|Olli Vikstedt|KirkkonummiOpen2017|d|C|1|7
+|Olli Vikstedt|KirkkonummiOpen2017|f|B|1|7
+|Olli Vikstedt|NorthernLightsOpen2018|f|B|1|7
+|Olli Vikstedt|Pulmapelipaivat2017|f|A|1|7
+|Olli Vikstedt|Pulmapelipaivat2017|f|B|1|7
+|Olli Vikstedt|TietomaaOpen2017|f|A|1|7
+|Olli Vikstedt|KirkkonummiOpen2017|d|A|1|6
+|Olli Vikstedt|KirkkonummiOpen2017|f|A|1|6
+|Olli Vikstedt|TietomaaOpen2017|1|B|1|6
+|Olli Vikstedt|FinnishChampionship2017|2|B|1|5
+|Olli Vikstedt|FinnishChampionship2017|d|C|1|5
+|Olli Vikstedt|KirkkonummiOpen2017|d|B|1|5
+|Olli Vikstedt|OuluOpen2017|1|A|1|5
+|Olli Vikstedt|OuluOpen2017|f|A|1|5
+|Olli Vikstedt|TietomaaOpen2017|1|A|1|5
+|Olli Vikstedt|TietomaaOpen2017|f|B|1|5
+|Olli Vikstedt|FinnishChampionship2017|d|B|1|4
+|Olli Vikstedt|OuluOpen2017|1|B|1|4
+|Olli Vikstedt|OuluOpen2017|f|B|1|4
+|Olli Vikstedt|FinnishChampionship2017|f|B|1|3
+|Olli Vikstedt|Pulmapelipaivat2017|1|A|1|2
 |Philippe Lucien| Avg: 6.09091
 |Philippe Lucien|BarbyCubeAutomne2017|c|B|1|10
 |Philippe Lucien|ChamberyOpen2016|c|A|1|9
@@ -1484,7 +1530,7 @@
 |Gaurav Taneja|IndianNationals2015|f|A|1|4
 |Gaurav Taneja|IndianNationals2014|d|B|1|3
 |Gaurav Taneja|IndianNationals2015|d|C|1|2
-|Tomi Ronkainen| Avg: 6.0137
+|Tomi Ronkainen| Avg: 6.05333
 |Tomi Ronkainen|CubeNMeme2016|f|B|1|12
 |Tomi Ronkainen|FinnishChampionship2017|d|A|1|10
 |Tomi Ronkainen|FinnishChampionship2017|d|D|1|10
@@ -1501,6 +1547,7 @@
 |Tomi Ronkainen|HelsinkiSideEvents2016|1|B|1|8
 |Tomi Ronkainen|HelsinkiSideEvents2017|1|B|1|8
 |Tomi Ronkainen|HelsinkiSideEvents2017|f|A|1|8
+|Tomi Ronkainen|NorthernLightsOpen2018|f|A|1|8
 |Tomi Ronkainen|VeikkolaOpen2017|f|B|1|8
 |Tomi Ronkainen|FinnishChampionship2017|2|A|1|7
 |Tomi Ronkainen|HelsinkiOpen2017|1|B|1|7
@@ -1510,6 +1557,7 @@
 |Tomi Ronkainen|KirkkonummiOpen2016|d|A|1|7
 |Tomi Ronkainen|KirkkonummiOpen2017|d|C|1|7
 |Tomi Ronkainen|KirkkonummiOpen2017|f|B|1|7
+|Tomi Ronkainen|NorthernLightsOpen2018|f|B|1|7
 |Tomi Ronkainen|Pulmapelipaivat2017|f|A|1|7
 |Tomi Ronkainen|Pulmapelipaivat2017|f|B|1|7
 |Tomi Ronkainen|TietomaaOpen2017|f|A|1|7
@@ -1622,32 +1670,6 @@
 |Nikolay Masson|MuffinWinter2017|f|B|1|5
 |Nikolay Masson|SvetlyeGoryOpen2017|c|B|1|4
 |Nikolay Masson|SvetlyeGoryOpen2017|c|A|1|3
-|Olli Vikstedt| Avg: 6
-|Olli Vikstedt|FinnishChampionship2017|d|A|1|10
-|Olli Vikstedt|FinnishChampionship2017|d|D|1|10
-|Olli Vikstedt|Pulmapelipaivat2017|1|B|1|10
-|Olli Vikstedt|FinnishChampionship2017|f|A|1|8
-|Olli Vikstedt|FinnishChampionship2017|2|A|1|7
-|Olli Vikstedt|KirkkonummiOpen2017|d|C|1|7
-|Olli Vikstedt|KirkkonummiOpen2017|f|B|1|7
-|Olli Vikstedt|Pulmapelipaivat2017|f|A|1|7
-|Olli Vikstedt|Pulmapelipaivat2017|f|B|1|7
-|Olli Vikstedt|TietomaaOpen2017|f|A|1|7
-|Olli Vikstedt|KirkkonummiOpen2017|d|A|1|6
-|Olli Vikstedt|KirkkonummiOpen2017|f|A|1|6
-|Olli Vikstedt|TietomaaOpen2017|1|B|1|6
-|Olli Vikstedt|FinnishChampionship2017|2|B|1|5
-|Olli Vikstedt|FinnishChampionship2017|d|C|1|5
-|Olli Vikstedt|KirkkonummiOpen2017|d|B|1|5
-|Olli Vikstedt|OuluOpen2017|1|A|1|5
-|Olli Vikstedt|OuluOpen2017|f|A|1|5
-|Olli Vikstedt|TietomaaOpen2017|1|A|1|5
-|Olli Vikstedt|TietomaaOpen2017|f|B|1|5
-|Olli Vikstedt|FinnishChampionship2017|d|B|1|4
-|Olli Vikstedt|OuluOpen2017|1|B|1|4
-|Olli Vikstedt|OuluOpen2017|f|B|1|4
-|Olli Vikstedt|FinnishChampionship2017|f|B|1|3
-|Olli Vikstedt|Pulmapelipaivat2017|1|A|1|2
 |Petri Vanhala| Avg: 6
 |Petri Vanhala|FinnishChampionship2014|f|A|1|6
 |Radu Făciu| Avg: 6
@@ -2021,13 +2043,6 @@
 |Daniel Lo|PugetSoundWinter2017|d|B|1|5
 |Daniel Lo|PugetSoundWinterTwo2017|d|A|1|5
 |Daniel Lo|PugetSoundWinterTwo2017|f|A|1|4
-|Joel Hernández| Avg: 5.83333
-|Joel Hernández|GuatemalaChampionship2017|f|B|1|9
-|Joel Hernández|GuatemalaChampionship2017|d|A|1|6
-|Joel Hernández|GuatemalaChampionship2017|d|B|1|6
-|Joel Hernández|GuatemalaNationals2017|c|B|1|6
-|Joel Hernández|GuatemalaChampionship2017|f|A|1|5
-|Joel Hernández|GuatemalaNationals2017|c|A|1|3
 |Sébastien Auroux| Avg: 5.82278
 |Sébastien Auroux|Cubelonia2017|f|A|1|10
 |Sébastien Auroux|GermanNationals2017|f|A|1|10
@@ -2108,6 +2123,52 @@
 |Sébastien Auroux|GBCO2015|d|B|1|2
 |Sébastien Auroux|N8W8Summer2015|d|A|1|2
 |Sébastien Auroux|VelbertEasterOpen2014|1|A|1|2
+|Akash Rupela| Avg: 5.82222
+|Akash Rupela|IndianNationals2014|f|B|1|12
+|Akash Rupela|MathSocOpen2018|f|A|1|10
+|Akash Rupela|IndianNationals2017|d|E|1|9
+|Akash Rupela|IndianNationals2017|f|A|1|9
+|Akash Rupela|MathSocOpen2018|1|A|1|9
+|Akash Rupela|IndianNationals2015|d|D|1|8
+|Akash Rupela|IndianNationals2017|d|D|1|8
+|Akash Rupela|SNUOpen2017|f|B|1|8
+|Akash Rupela|IndianCubeChallenge2017|f|A|1|7
+|Akash Rupela|IndianNationals2014|d|C|1|7
+|Akash Rupela|IndianNationals2017|d|B|1|7
+|Akash Rupela|NationalCubingRegion2015|c|A|1|7
+|Akash Rupela|SNUOpen2017|d|B|1|7
+|Akash Rupela|SNUOpen2017|d|C|1|7
+|Akash Rupela|SNUOpen2017|f|A|1|7
+|Akash Rupela|CityofJoyOpen2017|c|A|1|6
+|Akash Rupela|IndianNationals2014|f|A|1|6
+|Akash Rupela|IndianNationals2015|d|A|1|6
+|Akash Rupela|IndianNationals2017|f|B|1|6
+|Akash Rupela|MumbaiOpen2014|f|B|1|6
+|Akash Rupela|NCROpen2017|d|A|1|6
+|Akash Rupela|SNUOpen2017|d|A|1|6
+|Akash Rupela|SNUOpen2017|d|D|1|6
+|Akash Rupela|IndianCubeChallenge2017|1|A|1|5
+|Akash Rupela|IndianCubeChallenge2017|1|B|1|5
+|Akash Rupela|IndianNationals2015|d|B|1|5
+|Akash Rupela|IndianNationals2017|d|C|1|5
+|Akash Rupela|MumbaiOpen2014|d|A|1|5
+|Akash Rupela|NationalCubingRegion2015|c|B|1|5
+|Akash Rupela|NCROpen2017|d|B|1|5
+|Akash Rupela|NCROpen2017|d|C|1|5
+|Akash Rupela|NCROpen2017|f|A|1|5
+|Akash Rupela|PBSmashathon2015|c|B|1|5
+|Akash Rupela|IndianNationals2014|d|A|1|4
+|Akash Rupela|IndianNationals2014|d|D|1|4
+|Akash Rupela|IndianNationals2015|f|A|1|4
+|Akash Rupela|MathSocOpen2018|1|B|1|4
+|Akash Rupela|MumbaiOpen2014|d|B|1|4
+|Akash Rupela|MumbaiOpen2014|f|A|1|4
+|Akash Rupela|NationalCubingRegion2015|c|C|1|4
+|Akash Rupela|IndianNationals2014|d|B|1|3
+|Akash Rupela|IndianNationals2017|d|A|1|3
+|Akash Rupela|MumbaiOpen2014|d|C|1|3
+|Akash Rupela|PBSmashathon2015|c|A|1|3
+|Akash Rupela|IndianNationals2015|d|C|1|2
 |Ilya Tsiareshka| Avg: 5.78906
 |Ilya Tsiareshka|LETIOpen2017|c|A|1|12
 |Ilya Tsiareshka|CCCEndofSummer2015|f|A|1|11
@@ -2237,6 +2298,16 @@
 |Ilya Tsiareshka|SPBOpen2014|c|B|1|2
 |Ilya Tsiareshka|150thCubeMeetinginBrest2017|c|B|1|1
 |Ilya Tsiareshka|DvinaOHEdition2014|c|B|1|0
+|James LaChance| Avg: 5.77778
+|James LaChance|WinterWarmup2018|f|A|1|9
+|James LaChance|FloridaFeast2015|c|A|1|8
+|James LaChance|WinterWarmup2018|f|B|1|8
+|James LaChance|Cubetoberfest2015|c|B|1|7
+|James LaChance|PeachState2015|f|A|1|6
+|James LaChance|Cubetoberfest2015|c|A|1|5
+|James LaChance|FloridaFeast2017|c|A|1|4
+|James LaChance|FloridaCubingSpringQualifier2017|c|B|1|3
+|James LaChance|FloridaCubingSpringQualifier2017|c|A|1|2
 |Kit Clement| Avg: 5.77778
 |Kit Clement|AtomicCubing2016|c|A|1|11
 |Kit Clement|Oregon2016|d|B|1|11
@@ -2311,6 +2382,52 @@
 |Reto Bubendorf|SwissNationals2017|c|B|1|4
 |Reto Bubendorf|SwissOpen2017|f|A|1|4
 |Reto Bubendorf|SwisscubingCupFinal2017|c|A|1|3
+|Xiaobo Jin (金晓波)| Avg: 5.77778
+|Xiaobo Jin (金晓波)|ShanghaiWinter2018|f|A|1|13
+|Xiaobo Jin (金晓波)|CubeEliteUnionCafe2014|f|B|1|10
+|Xiaobo Jin (金晓波)|NanjingSpring2015|d|A|1|10
+|Xiaobo Jin (金晓波)|NanjingSpring2016|f|A|1|9
+|Xiaobo Jin (金晓波)|CubeEliteUnionCafe2014|f|A|1|8
+|Xiaobo Jin (金晓波)|NanjingAutumn2015|f|A|1|8
+|Xiaobo Jin (金晓波)|NanjingSpring2017|d|A|1|8
+|Xiaobo Jin (金晓波)|ShanghaiLoveInECNU2017|d|A|1|8
+|Xiaobo Jin (金晓波)|ShanghaiWinter2018|d|A|1|8
+|Xiaobo Jin (金晓波)|HangzhouAutumn2016|c|A|1|7
+|Xiaobo Jin (金晓波)|HefeiOpen2017|f|A|1|7
+|Xiaobo Jin (金晓波)|JinhuaNewYearsDay2018|d|A|1|7
+|Xiaobo Jin (金晓波)|NanjingAutumn2017|f|A|1|7
+|Xiaobo Jin (金晓波)|NanjingSpring2014|f|A|1|7
+|Xiaobo Jin (金晓波)|ShanghaiWinterisComing2016|f|A|1|7
+|Xiaobo Jin (金晓波)|HDUOpen2017|d|B|1|6
+|Xiaobo Jin (金晓波)|HefeiOpen2017|d|A|1|6
+|Xiaobo Jin (金晓波)|HefeiOpen2017|d|B|1|6
+|Xiaobo Jin (金晓波)|HefeiSpring2014|c|A|1|6
+|Xiaobo Jin (金晓波)|ShanghaiSpring2017|d|A|1|6
+|Xiaobo Jin (金晓波)|ShanghaiWinterisComing2016|d|A|1|6
+|Xiaobo Jin (金晓波)|JinhuaNewYearsDay2018|d|B|1|5
+|Xiaobo Jin (金晓波)|NanjingAutumn2015|d|A|1|5
+|Xiaobo Jin (金晓波)|NanjingAutumn2017|d|A|1|5
+|Xiaobo Jin (金晓波)|NanjingSpring2014|1|A|1|5
+|Xiaobo Jin (金晓波)|NanjingSpring2014|1|B|1|5
+|Xiaobo Jin (金晓波)|NanjingSpring2015|f|A|1|5
+|Xiaobo Jin (金晓波)|NanjingSpring2016|d|A|1|5
+|Xiaobo Jin (金晓波)|NanjingSpring2017|f|A|1|5
+|Xiaobo Jin (金晓波)|ShanghaiFudanSpring2015|1|A|1|5
+|Xiaobo Jin (金晓波)|ShanghaiLoveInECNU2017|d|B|1|5
+|Xiaobo Jin (金晓波)|ShanghaiSpring2016|d|A|1|5
+|Xiaobo Jin (金晓波)|ShanghaiSpring2016|d|B|1|5
+|Xiaobo Jin (金晓波)|ShanghaiSpring2016|f|A|1|5
+|Xiaobo Jin (金晓波)|ShanghaiWinter2018|d|B|1|5
+|Xiaobo Jin (金晓波)|ChangshuOpen2017|c|A|1|4
+|Xiaobo Jin (金晓波)|HDUOpen2017|d|A|1|4
+|Xiaobo Jin (金晓波)|JinhuaNewYearsDay2018|f|A|1|4
+|Xiaobo Jin (金晓波)|SuzhouOpen2016|f|A|1|4
+|Xiaobo Jin (金晓波)|NanjingAutumn2017|d|B|1|3
+|Xiaobo Jin (金晓波)|ShanghaiFudanSpring2015|f|A|1|3
+|Xiaobo Jin (金晓波)|ShanghaiSpring2017|f|A|1|3
+|Xiaobo Jin (金晓波)|SuzhouOpen2016|d|A|1|3
+|Xiaobo Jin (金晓波)|HDUOpen2017|f|A|1|1
+|Xiaobo Jin (金晓波)|ShanghaiLoveInECNU2017|f|A|1|1
 |Alexander Olleta del Molino| Avg: 5.75862
 |Alexander Olleta del Molino|SpanishChampionship2014|f|B|1|10
 |Alexander Olleta del Molino|CerbunaOpen2015|f|B|1|9
@@ -2587,49 +2704,6 @@
 |Jeremy Fleischman|BerkeleyFall2017|c|E|1|4
 |Jeremy Fleischman|BerkeleySpring2014|f|A|1|4
 |Jeremy Fleischman|SPCSStanfordSpring2015|f|A|1|4
-|Akash Rupela| Avg: 5.69048
-|Akash Rupela|IndianNationals2014|f|B|1|12
-|Akash Rupela|IndianNationals2017|d|E|1|9
-|Akash Rupela|IndianNationals2017|f|A|1|9
-|Akash Rupela|IndianNationals2015|d|D|1|8
-|Akash Rupela|IndianNationals2017|d|D|1|8
-|Akash Rupela|SNUOpen2017|f|B|1|8
-|Akash Rupela|IndianCubeChallenge2017|f|A|1|7
-|Akash Rupela|IndianNationals2014|d|C|1|7
-|Akash Rupela|IndianNationals2017|d|B|1|7
-|Akash Rupela|NationalCubingRegion2015|c|A|1|7
-|Akash Rupela|SNUOpen2017|d|B|1|7
-|Akash Rupela|SNUOpen2017|d|C|1|7
-|Akash Rupela|SNUOpen2017|f|A|1|7
-|Akash Rupela|CityofJoyOpen2017|c|A|1|6
-|Akash Rupela|IndianNationals2014|f|A|1|6
-|Akash Rupela|IndianNationals2015|d|A|1|6
-|Akash Rupela|IndianNationals2017|f|B|1|6
-|Akash Rupela|MumbaiOpen2014|f|B|1|6
-|Akash Rupela|NCROpen2017|d|A|1|6
-|Akash Rupela|SNUOpen2017|d|A|1|6
-|Akash Rupela|SNUOpen2017|d|D|1|6
-|Akash Rupela|IndianCubeChallenge2017|1|A|1|5
-|Akash Rupela|IndianCubeChallenge2017|1|B|1|5
-|Akash Rupela|IndianNationals2015|d|B|1|5
-|Akash Rupela|IndianNationals2017|d|C|1|5
-|Akash Rupela|MumbaiOpen2014|d|A|1|5
-|Akash Rupela|NationalCubingRegion2015|c|B|1|5
-|Akash Rupela|NCROpen2017|d|B|1|5
-|Akash Rupela|NCROpen2017|d|C|1|5
-|Akash Rupela|NCROpen2017|f|A|1|5
-|Akash Rupela|PBSmashathon2015|c|B|1|5
-|Akash Rupela|IndianNationals2014|d|A|1|4
-|Akash Rupela|IndianNationals2014|d|D|1|4
-|Akash Rupela|IndianNationals2015|f|A|1|4
-|Akash Rupela|MumbaiOpen2014|d|B|1|4
-|Akash Rupela|MumbaiOpen2014|f|A|1|4
-|Akash Rupela|NationalCubingRegion2015|c|C|1|4
-|Akash Rupela|IndianNationals2014|d|B|1|3
-|Akash Rupela|IndianNationals2017|d|A|1|3
-|Akash Rupela|MumbaiOpen2014|d|C|1|3
-|Akash Rupela|PBSmashathon2015|c|A|1|3
-|Akash Rupela|IndianNationals2015|d|C|1|2
 |Tim Reynolds| Avg: 5.68293
 |Tim Reynolds|USNationals2015|d|C|1|11
 |Tim Reynolds|USNationals2015|d|D|1|10
@@ -2761,49 +2835,6 @@
 |Felix Lee|BerkeleySpring2017|c|A|1|4
 |Felix Lee|BerkeleySpring2017|c|C|1|4
 |Felix Lee|SlowNSteadyWinter2016|c|B|1|4
-|Xiaobo Jin (金晓波)| Avg: 5.57143
-|Xiaobo Jin (金晓波)|CubeEliteUnionCafe2014|f|B|1|10
-|Xiaobo Jin (金晓波)|NanjingSpring2015|d|A|1|10
-|Xiaobo Jin (金晓波)|NanjingSpring2016|f|A|1|9
-|Xiaobo Jin (金晓波)|CubeEliteUnionCafe2014|f|A|1|8
-|Xiaobo Jin (金晓波)|NanjingAutumn2015|f|A|1|8
-|Xiaobo Jin (金晓波)|NanjingSpring2017|d|A|1|8
-|Xiaobo Jin (金晓波)|ShanghaiLoveInECNU2017|d|A|1|8
-|Xiaobo Jin (金晓波)|HangzhouAutumn2016|c|A|1|7
-|Xiaobo Jin (金晓波)|HefeiOpen2017|f|A|1|7
-|Xiaobo Jin (金晓波)|JinhuaNewYearsDay2018|d|A|1|7
-|Xiaobo Jin (金晓波)|NanjingAutumn2017|f|A|1|7
-|Xiaobo Jin (金晓波)|NanjingSpring2014|f|A|1|7
-|Xiaobo Jin (金晓波)|ShanghaiWinterisComing2016|f|A|1|7
-|Xiaobo Jin (金晓波)|HDUOpen2017|d|B|1|6
-|Xiaobo Jin (金晓波)|HefeiOpen2017|d|A|1|6
-|Xiaobo Jin (金晓波)|HefeiOpen2017|d|B|1|6
-|Xiaobo Jin (金晓波)|HefeiSpring2014|c|A|1|6
-|Xiaobo Jin (金晓波)|ShanghaiSpring2017|d|A|1|6
-|Xiaobo Jin (金晓波)|ShanghaiWinterisComing2016|d|A|1|6
-|Xiaobo Jin (金晓波)|JinhuaNewYearsDay2018|d|B|1|5
-|Xiaobo Jin (金晓波)|NanjingAutumn2015|d|A|1|5
-|Xiaobo Jin (金晓波)|NanjingAutumn2017|d|A|1|5
-|Xiaobo Jin (金晓波)|NanjingSpring2014|1|A|1|5
-|Xiaobo Jin (金晓波)|NanjingSpring2014|1|B|1|5
-|Xiaobo Jin (金晓波)|NanjingSpring2015|f|A|1|5
-|Xiaobo Jin (金晓波)|NanjingSpring2016|d|A|1|5
-|Xiaobo Jin (金晓波)|NanjingSpring2017|f|A|1|5
-|Xiaobo Jin (金晓波)|ShanghaiFudanSpring2015|1|A|1|5
-|Xiaobo Jin (金晓波)|ShanghaiLoveInECNU2017|d|B|1|5
-|Xiaobo Jin (金晓波)|ShanghaiSpring2016|d|A|1|5
-|Xiaobo Jin (金晓波)|ShanghaiSpring2016|d|B|1|5
-|Xiaobo Jin (金晓波)|ShanghaiSpring2016|f|A|1|5
-|Xiaobo Jin (金晓波)|ChangshuOpen2017|c|A|1|4
-|Xiaobo Jin (金晓波)|HDUOpen2017|d|A|1|4
-|Xiaobo Jin (金晓波)|JinhuaNewYearsDay2018|f|A|1|4
-|Xiaobo Jin (金晓波)|SuzhouOpen2016|f|A|1|4
-|Xiaobo Jin (金晓波)|NanjingAutumn2017|d|B|1|3
-|Xiaobo Jin (金晓波)|ShanghaiFudanSpring2015|f|A|1|3
-|Xiaobo Jin (金晓波)|ShanghaiSpring2017|f|A|1|3
-|Xiaobo Jin (金晓波)|SuzhouOpen2016|d|A|1|3
-|Xiaobo Jin (金晓波)|HDUOpen2017|f|A|1|1
-|Xiaobo Jin (金晓波)|ShanghaiLoveInECNU2017|f|A|1|1
 |Felipe Baldívio Freires| Avg: 5.55556
 |Felipe Baldívio Freires|Brasileiro2016|d|A|1|11
 |Felipe Baldívio Freires|Brasileiro2017|f|A|1|8
@@ -2863,6 +2894,19 @@
 |Clément Gallet| Avg: 5.5
 |Clément Gallet|FrenchChampionship2014|c|B|1|9
 |Clément Gallet|FrenchChampionship2014|c|A|1|2
+|Joel Hernández| Avg: 5.5
+|Joel Hernández|GuatemalaChampionship2017|f|B|1|9
+|Joel Hernández|SantaTeclaCuboDesafio2018|c|F|1|8
+|Joel Hernández|GuatemalaChampionship2017|d|A|1|6
+|Joel Hernández|GuatemalaChampionship2017|d|B|1|6
+|Joel Hernández|GuatemalaNationals2017|c|B|1|6
+|Joel Hernández|SantaTeclaCuboDesafio2018|c|D|1|6
+|Joel Hernández|GuatemalaChampionship2017|f|A|1|5
+|Joel Hernández|SantaTeclaCuboDesafio2018|c|B|1|5
+|Joel Hernández|SantaTeclaCuboDesafio2018|c|E|1|5
+|Joel Hernández|SantaTeclaCuboDesafio2018|c|C|1|4
+|Joel Hernández|GuatemalaNationals2017|c|A|1|3
+|Joel Hernández|SantaTeclaCuboDesafio2018|c|A|1|3
 |Marlon de V. Marques| Avg: 5.5
 |Marlon de V. Marques|Brasileiro2017|f|A|1|8
 |Marlon de V. Marques|Brasileiro2017|d|B|1|5
@@ -3001,6 +3045,30 @@
 |Philippe Virouleau|FrenchChampionship2014|c|A|1|2
 |Philippe Virouleau|AixenProvenceOpen2017|c|A|1|1
 |Philippe Virouleau|ToulonOpen2017|c|A|1|1
+|Ron van Bruchem| Avg: 5.26087
+|Ron van Bruchem|DutchOpen2017|f|B|1|8
+|Ron van Bruchem|Euro2014|d|A|1|8
+|Ron van Bruchem|NorthernLightsOpen2018|f|A|1|8
+|Ron van Bruchem|DutchWinter2017|f|A|1|7
+|Ron van Bruchem|HNYCubingDordrecht2018|c|A|1|7
+|Ron van Bruchem|NorthernLightsOpen2018|f|B|1|7
+|Ron van Bruchem|WC2015|f|B|1|7
+|Ron van Bruchem|Euro2014|f|A|1|6
+|Ron van Bruchem|WC2015|d|B|1|6
+|Ron van Bruchem|WC2015|d|E|1|6
+|Ron van Bruchem|DutchOpen2015|f|A|1|5
+|Ron van Bruchem|Euro2014|d|B|1|5
+|Ron van Bruchem|Euro2014|d|D|1|5
+|Ron van Bruchem|HNYCubingDordrecht2018|c|B|1|5
+|Ron van Bruchem|WC2015|d|A|1|5
+|Ron van Bruchem|WC2015|d|C|1|5
+|Ron van Bruchem|DutchOpen2016|f|A|1|4
+|Ron van Bruchem|Euro2014|d|C|1|4
+|Ron van Bruchem|DutchOpen2015|f|B|1|3
+|Ron van Bruchem|DutchOpen2016|f|B|1|3
+|Ron van Bruchem|DutchWinter2017|f|B|1|3
+|Ron van Bruchem|WC2015|d|D|1|2
+|Ron van Bruchem|WC2015|f|A|1|2
 |Fangyuan Chang (常方圆)| Avg: 5.25
 |Fangyuan Chang (常方圆)|BeijingTenYearsOpen2017|c|B|1|10
 |Fangyuan Chang (常方圆)|BeijingOpen2015|c|A|1|8
@@ -3076,28 +3144,6 @@
 |Leandro Vasconcellos Alleoni|Brasileiro2016|d|B|1|3
 |Leandro Vasconcellos Alleoni|WC2015|d|D|1|2
 |Leandro Vasconcellos Alleoni|WC2015|f|A|1|2
-|Ron van Bruchem| Avg: 5.04762
-|Ron van Bruchem|DutchOpen2017|f|B|1|8
-|Ron van Bruchem|Euro2014|d|A|1|8
-|Ron van Bruchem|DutchWinter2017|f|A|1|7
-|Ron van Bruchem|HNYCubingDordrecht2018|c|A|1|7
-|Ron van Bruchem|WC2015|f|B|1|7
-|Ron van Bruchem|Euro2014|f|A|1|6
-|Ron van Bruchem|WC2015|d|B|1|6
-|Ron van Bruchem|WC2015|d|E|1|6
-|Ron van Bruchem|DutchOpen2015|f|A|1|5
-|Ron van Bruchem|Euro2014|d|B|1|5
-|Ron van Bruchem|Euro2014|d|D|1|5
-|Ron van Bruchem|HNYCubingDordrecht2018|c|B|1|5
-|Ron van Bruchem|WC2015|d|A|1|5
-|Ron van Bruchem|WC2015|d|C|1|5
-|Ron van Bruchem|DutchOpen2016|f|A|1|4
-|Ron van Bruchem|Euro2014|d|C|1|4
-|Ron van Bruchem|DutchOpen2015|f|B|1|3
-|Ron van Bruchem|DutchOpen2016|f|B|1|3
-|Ron van Bruchem|DutchWinter2017|f|B|1|3
-|Ron van Bruchem|WC2015|d|D|1|2
-|Ron van Bruchem|WC2015|f|A|1|2
 |Hoe Zi Yang| Avg: 5
 |Hoe Zi Yang|MYCACubeDay2017|c|B|1|8
 |Hoe Zi Yang|MalaysiaCubeOpen2017|d|B|1|7
@@ -3106,14 +3152,6 @@
 |Hoe Zi Yang|MalaysiaCubeOpen2017|f|A|1|4
 |Hoe Zi Yang|MalaysianCubeOpen2015|f|A|1|4
 |Hoe Zi Yang|MYCACubeDay2017|c|A|1|4
-|James LaChance| Avg: 5
-|James LaChance|FloridaFeast2015|c|A|1|8
-|James LaChance|Cubetoberfest2015|c|B|1|7
-|James LaChance|PeachState2015|f|A|1|6
-|James LaChance|Cubetoberfest2015|c|A|1|5
-|James LaChance|FloridaFeast2017|c|A|1|4
-|James LaChance|FloridaCubingSpringQualifier2017|c|B|1|3
-|James LaChance|FloridaCubingSpringQualifier2017|c|A|1|2
 |Jean-Louis Mathieu| Avg: 5
 |Jean-Louis Mathieu|WC2017|1|B|1|9
 |Jean-Louis Mathieu|WC2017|1|A|1|3
