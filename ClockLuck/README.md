@@ -28,33 +28,33 @@ Cases considered to be Skill Lucky Cases, these can be forced and depend on the 
 
 # Files
 
- - Makefile
+ - [Makefile](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/Makefile)
 	$make
 		compiles code
 	$make run 
 		compiles and runs the all the files
 	$make clean
 		cleans the code
- - results/Results.txt
+ - [results/Results.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/Results.md)
 	Results of ClockLuck.cpp
- - results/ResultsDelegates.txt
+ - [results/ResultsDelegates.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/ResultsDelegates.md)
 	Results of ClockDelegates.cpp
- - results/ResultsSingle.txt
+ - [results/ResultsSingle.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/ResultsSingle.md)
 	Results of ClockLuckSingle.cpp
- - src/ClockDelegate.cpp
+ - [src/ClockDelegate.cpp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/src/ClockDelegate.cpp)
 	source code for calculating the scramble luck ordered by who generated them.
- - src/ClockLuck.cpp
+ - [src/ClockLuck.cpp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/src/ClockLuck.cpp)
 	inital problem. Calculates the luck for a scramble set and orders them
- - src/ClockLuckSingle.cpp
+ - [src/ClockLuckSingle.cpp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/src/ClockLuckSingle.cpp)
 	calculates the clock luck for a single (not scramble set) scramble.
- - resources/Queries.txt
+ - [resources/Queries.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/resources/Queries.txt)
 	Queries used to obtain the other resources files
- - resources/RanksAverage.txt
+ - [resources/RanksAverage.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/resources/RanksAverage.txt)
 	NOT USED IN PROJECT
- - resources/all.txt
+ - [resources/all.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/resources/all.txt)
 	all scramble sets in the database
- - resources/competition_delegates.txt
+ - [resources/competition_delegates.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/resources/competition_delegates.txt)
 	all scramble sets in the database preceeded by the delegate
- - bin/*
+ - [bin/* ](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/tree/master/ClockLuck/bin)
 	compiled code
 
