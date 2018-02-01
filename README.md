@@ -13,6 +13,6 @@ Statistics made by Jacob Ambrose
  - [Top-100](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumComps/Results.md)
  - [All](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumComps/AllResults.md)
 
-[6to7Ratio](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/tree/master/6to7Ratio) - 6x6 to 7x7 ratio at a competition plotted on a graph.
+[6to7Ratio](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/6to7Ratio/README.md) - 6x6 to 7x7 ratio at a competition plotted on a graph.
 
  - [Graph](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/6to7Ratio/Results.png)
