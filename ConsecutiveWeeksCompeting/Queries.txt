@@ -1,1 +1,5 @@
-q
+SELECT r.personId, r.competitionId, c.start_date
+FROM Results r
+INNER JOIN Competitions c ON r.competitionId = c.id
+GROUP BY r.personId, r.competitionId
+ORDER BY r.personId, c.start_date
