@@ -16,3 +16,7 @@ Statistics made by Jacob Ambrose
 [6to7Ratio](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/6to7Ratio/README.md) - 6x6 to 7x7 ratio at a competition plotted on a graph.
 
  - [Graph](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/6to7Ratio/Results.png)
+
+[MostSolvesInAYearPerEvent](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/README.md) -Most solves done in an event over the span of a year.
+
+ - [Top-10s](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/Results.md)
