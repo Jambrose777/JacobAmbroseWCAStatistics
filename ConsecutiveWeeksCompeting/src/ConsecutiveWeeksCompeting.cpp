@@ -16,11 +16,16 @@ struct Date{
 	int day = 0;
 	int totDays = 0;
 
+	static int month_days[];
+
 	void setTotDays(){
-		
+		int leapyears = year / 4;
+		if(year % 4 == 0 && month < 3) leapyears--;
+		totDays = year*365 + month_days[month-1] + day + leapyears;
 	}//setTotDays
 
 };//date
+int Date::month_days[] = {0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334};
 
 /*
  * Competition's details
@@ -104,10 +109,12 @@ int main(int argc, char * argv[]){
 		c->start->year = stoi(sdate.substr(0, 4));
 		c->start->month = stoi(sdate.substr(5, 2));
 		c->start->day = stoi(sdate.substr(8, 2));
+		c->start->setTotDays();
 		c->end->year = stoi(edate.substr(0, 4));
 		c->end->month = stoi(edate.substr(5, 2));
 		c->end->day = stoi(edate.substr(8, 2));
-	
+		c->end->setTotDays();
+		cout << c->start->totDays << endl;
 	}//while
 
 	//calculate streaks	
