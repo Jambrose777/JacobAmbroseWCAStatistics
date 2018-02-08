@@ -33,8 +33,8 @@ int Date::month_days[] = {0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334}
 struct Competition{
 	string name = "";
 	Date * start = new Date();
-	Date * end = new Date();
-	bool hasSuccessor = false;
+	//Date * end = new Date();
+	int week = 0;	
 };//Competition
 
 /*
@@ -46,13 +46,24 @@ struct Person{
 	list<Competition *> comps;
 };//Person
 
-//TODO
+/*
+ * Streak
+ */
+struct Streak{
+	Person * p;
+	Competition * begin;
+	Competition * end;
+	int numComps = 0;
+	int numWeeks = 0;
+};//Streak
+
 /*
  * comparison rule for Scrambles
  */
-//bool comp(const Scramble * s1, const Scramble * s2){
-//	return s1->all > s2->all;
-//}//comp
+bool comparison(const Streak * s1, const Streak * s2){
+	if(s1->numWeeks == s2->numWeeks) return s1->numComps > s2->numComps;
+	else return s1->numWeeks > s2->numWeeks;
+}//comp
 
 /*
  * main
@@ -72,25 +83,23 @@ int main(int argc, char * argv[]){
 
 	persons.push_back(new Person());
 
-	getline(file, line);
-	cout << line << endl;
-	
 	//inserts data into objects	
+	cout << "Importing Data" << endl;
 	while(getline(file, line)){
 		//parse line
 		string id = line.substr(1, line.find("|", 1)-1);
-		cout << id << endl;	
+		//cout << id << endl;	
 		line = line.substr(line.find("|", 1));
 		string name = line.substr(1, line.find("|", 1)-1);
-		cout << name << endl;
+		//cout << name << endl;
 		line = line.substr(line.find("|", 1));
 		string comp = line.substr(1, line.find("|", 1)-1);
-		cout << comp << endl;
+		//cout << comp << endl;
 		line = line.substr(line.find("|", 1));
 		string sdate = line.substr(1, line.find("|", 1)-1);
-		cout << sdate << endl;
-		string edate = line.substr(line.find("|", 1)+1);
-		cout << edate << endl;
+		//cout << sdate << endl;
+		//string edate = line.substr(line.find("|", 1)+1);
+		//cout << edate << endl;
 	
 		//creates new person if needed
 		if(persons.back()->id.compare("") == 0){
@@ -110,19 +119,58 @@ int main(int argc, char * argv[]){
 		c->start->month = stoi(sdate.substr(5, 2));
 		c->start->day = stoi(sdate.substr(8, 2));
 		c->start->setTotDays();
-		c->end->year = stoi(edate.substr(0, 4));
-		c->end->month = stoi(edate.substr(5, 2));
-		c->end->day = stoi(edate.substr(8, 2));
-		c->end->setTotDays();
-		cout << c->start->totDays << endl;
+		//c->end->year = stoi(edate.substr(0, 4));
+		//c->end->month = stoi(edate.substr(5, 2));
+		//c->end->day = stoi(edate.substr(8, 2));
+		//c->end->setTotDays();
+		c->week = (c->start->totDays + 2) / 7;
 	}//while
 
 	//calculate streaks	
+	cout << "Calculating Streaks" << endl;
+	list<Streak *> s;
+	Streak * current;
 	for(Person * p : persons){
-		
+		int week = 0;
+		for(Competition * c : p->comps){
+			if(c->week == week){
+				current->numComps++;
+				current->end = c;
+			}else if(c->week == week + 1){
+				current->numComps++;
+				current->end = c;
+				current->numWeeks++;
+				week++;
+			}else{				
+				s.push_back(new Streak);
+				current = s.back();
+				current->p = p;
+				week = c->week;
+				current->begin = c;
+				current->end = c;
+				current->numComps++;
+				current->numWeeks++;
+			}
+		}//for
 	}//for
 	
-	//save.close();
+	//sort
+	s.sort(comparison);
+
+	//output to Results.md
+	cout << "Exporting data" << endl;
+	ofstream save;
+	save.open("results/Results.md");
+	save << "# **Most Consecutive Weeks Competing**\n\n|Rank|Person|NumWeeks|NumComps|StartComp|EndComp\n|--|--|--|--|--|--|" << endl;
+	int rank = 0;
+	for(Streak * ss : s){
+		if(ss->numWeeks >= 5){
+			rank++;
+			save << "|" << rank << "|[" << ss->p->name << "](https://www.worldcubeassociation.org/person/" << ss->p->id << ")|" << ss->numWeeks << "|" << ss->numComps << "|" << ss->begin->name << "|" << ss->end->name << endl;
+		}//if
+	}//for
+
+	save.close();
 	file.close();
 
 }//main
