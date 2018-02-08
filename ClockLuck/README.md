@@ -9,8 +9,7 @@ from the scramble, it is possible to quantify the round into luck.  It then
 calculates how many Lucky Cases that scramble has. Finally it adds the luck 
 factor per scramble to have a total calulation for the group.
 
-# Definitions
-# Lucky Case
+# Lucky Case Definition
 On Clock, A Lucky case is often defined as pieces already being solved relative
 to one another. I've separated out cases that are dependent on the scramble vs.
 cases that are dependent on skill. Here a Scramble's Lucky Case is defined as:
