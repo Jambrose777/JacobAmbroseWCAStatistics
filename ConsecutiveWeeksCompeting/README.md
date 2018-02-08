@@ -20,7 +20,7 @@ This program takes calculates the number of consecutive weeks that a competitor 
 	source code for calculating the number of weeks someone has comepted in.
  - [resources/Queries.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/resources/Queries.txt)
 	Queries used to obtain the other resources files
- - [resources/data.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/resources/all.txt)
+ - [resources/data.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/resources/data.txt)
 	data extracted from query
  - [bin/* ](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/tree/master/ConsecutiveWeeksCompeting/bin)
 	compiled code
