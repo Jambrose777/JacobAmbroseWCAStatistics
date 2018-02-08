@@ -20,3 +20,8 @@ Statistics made by Jacob Ambrose
 [MostSolvesInAYearPerEvent](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/README.md) -Most solves done in an event over the span of a year.
 
  - [Top-10s](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/Results.md)
+
+[ConsecutiveWeeksCompeting](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/README.md) -Most Weeks competing in a row.
+
+ - [Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/results/Results.md)
+
