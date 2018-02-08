@@ -166,7 +166,7 @@ int main(int argc, char * argv[]){
 	for(Streak * ss : s){
 		if(ss->numWeeks >= 5){
 			rank++;
-			save << "|" << rank << "|[" << ss->p->name << "](https://www.worldcubeassociation.org/person/" << ss->p->id << ")|" << ss->numWeeks << "|" << ss->numComps << "|" << ss->begin->name << "|" << ss->end->name << endl;
+			save << "|" << rank << "|[" << ss->p->name << "](https://www.worldcubeassociation.org/persons/" << ss->p->id << ")|" << ss->numWeeks << "|" << ss->numComps << "|" << ss->begin->name << "|" << ss->end->name << endl;
 		}//if
 	}//for
 
