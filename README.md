@@ -25,3 +25,6 @@ Statistics made by Jacob Ambrose
 
  - [Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/results/Results.md)
 
+[NumDelegatesAtComp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumDelegatesAtComp/README.md) -Most Current Delegates attending a competition.
+
+ - [Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumDelegatesAtComp/Results.md)
