@@ -1,6 +1,6 @@
 # ClockLuck
 
-Last Updated 1/22/2018
+Last Updated 1/29/2018
 
 # Description 
 This program takes the results from an sql query on the WCA database to select
