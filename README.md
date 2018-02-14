@@ -32,3 +32,4 @@ Statistics made by Jacob Ambrose
 [FMCSingles](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/README.md) -Number of times an FMC Single has occured
 
  - [Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/Results.md)
+ - [Graph](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/ResultGraph.jpg) - Provided by Jonatan Klosko
