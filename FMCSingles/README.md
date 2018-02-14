@@ -1,7 +1,5 @@
 # **FMCSingles**
-
-# Last Computed
-2/14/18
+Last Computed 2/14/18
 
 # Description
 This statistic gives the number of times a single result has been acheived for every FMC attempt.
