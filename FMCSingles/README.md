@@ -7,3 +7,4 @@ This statistic gives the number of times a single result has been acheived for e
 # Files
  - [query.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/query.txt) gives the query for the statistic
  - [Results.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/Results.md) gives results of the statistic
+ - [ResultGraph.jpeg](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/ResultGraph.jpg) graph of results, proided by Jonatan Klosko
