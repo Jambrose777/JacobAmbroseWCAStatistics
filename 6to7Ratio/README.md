@@ -1,4 +1,5 @@
 # **NumComps**
+Last Computed 2/1/18
 
 # Description
 This statistic gives a graphical representation of how fast someones 
