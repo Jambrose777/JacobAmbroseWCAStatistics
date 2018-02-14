@@ -28,3 +28,7 @@ Statistics made by Jacob Ambrose
 [NumDelegatesAtComp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumDelegatesAtComp/README.md) -Most Current Delegates attending a competition.
 
  - [Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumDelegatesAtComp/Results.md)
+
+[FMCSingles](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/README.md) -Number of times an FMC Single has occured
+
+ - [Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/Results.md)
