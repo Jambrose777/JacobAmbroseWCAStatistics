@@ -33,3 +33,7 @@ Statistics made by Jacob Ambrose
 
  - [Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/Results.md)
  - [Graph](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/ResultGraph.jpg) - Provided by Jonatan Klosko
+
+[NumStates](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumStates/README.md) -Number of States someone has competed in
+
+ - [Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumStates/Results.md)
