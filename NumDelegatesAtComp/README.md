@@ -1,4 +1,5 @@
 # **NumDelegatesAtComp**
+Last Computed: 2/12/2018
 
 # Description
 This statistic gives the number of *current* delegates who attended a single competition
