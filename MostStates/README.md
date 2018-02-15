@@ -11,5 +11,5 @@ This statistic shows the number of US States that someone has competed in.
 *Note:* This leave out Multiple Citites (Regional FMC compeititons) as a state since it is impossible to determine which state the person competed. This also leads to the sum of the values in List to be less than or equal to Total Comps
 
 # Files
- - [query.sql](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumStates/query.sql) gives the query for the statistic
  - [Results.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumStates/Results.md) gives top-100 results of the statistic
+ - [query.sql](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumStates/query.sql) gives the query for the statistic
