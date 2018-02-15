@@ -1,7 +1,7 @@
 SELECT CONCAT('[', p.name, '](https://www.worldcubeassociation.org/persons/', r.personId, ')') person, 
-     RIGHT(r.competitionId, 4) as Year, 
+     RIGHT(r.competitionId, 4) as InYear, 
      COUNT(DISTINCT r.competitionId) AS comps 
 FROM Results r
 INNER JOIN Persons p ON r.personId = p.id
-GROUP BY r.personId, Year
-ORDER BY comps DESC, Year
+GROUP BY r.personId, InYear
+ORDER BY comps DESC, InYear
