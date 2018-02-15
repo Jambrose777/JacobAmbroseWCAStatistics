@@ -36,7 +36,7 @@ Statistics made by Jacob Ambrose
 
 [MostStates](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostStates/README.md) -Number of States someone has competed in
 
- - [Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostStates/Results.md)
+ - [Top-100 Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostStates/Results.md)
  
  [PotentialFMCAvg](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/PotentialFMCAvg/README.md) -Best Potential FMC means based on the first two solves.
 
