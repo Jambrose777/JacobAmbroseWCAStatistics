@@ -1,4 +1,4 @@
-SELECT CONCAT('[', p.personName, '](https://www.worldcubeassociation.org/persons/', r.personId, ')') person, 
+SELECT CONCAT('[', p.name, '](https://www.worldcubeassociation.org/persons/', r.personId, ')') person, 
      RIGHT(competitionId, 4) as year, 
      COUNT(DISTINCT competitionId) AS comps 
 FROM Results r
