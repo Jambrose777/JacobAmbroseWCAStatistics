@@ -1,4 +1,3 @@
-~~~sql
 SELECT COUNT(*) AS numStates, CONCAT('[', personName, '](https://www.worldcubeassociation.org/persons/', personId, ')') person, GROUP_CONCAT(state) AS States
 FROM 
 (	SELECT SUBSTR(c.cityName, LOCATE(',', c.cityName)+1) AS state, personId, personName
@@ -10,4 +9,3 @@ FROM
 WHERE state != 'Multiple Cities'
 GROUP BY personId
 ORDER BY numStates DESC
-~~~
