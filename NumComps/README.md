@@ -1,5 +1,5 @@
 # **NumComps**
-Last Computed: 1/26/2018
+Last Computed: 1/26/2018 .
 
 # Description
 This statistic computes each person's number of competitions per year and 
