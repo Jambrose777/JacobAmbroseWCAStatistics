@@ -1,3 +1,5 @@
+# **Most States Competed In**
+
 |States|Person|Total Comps|List
 |--|--|--|--|
 |23|[Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01)|99| Arizona (6), California (10), Colorado (2), Connecticut (2), Florida (2), Georgia (4), Illinois (2), Indiana (6), Massachusetts (6), Michigan (8), Minnesota (2), Nebraska (2), Nevada (4), New Jersey (2), New Mexico (2), New York (2), Ohio (8), Oklahoma (8), Oregon (8), South Carolina (2), Texas (58), Utah (2), Washington (2)
