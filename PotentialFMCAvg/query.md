@@ -3,7 +3,7 @@ SELECT CONCAT('[', personName, '](https://www.worldcubeassociation.org/persons/'
 FROM 
   (SELECT personName, personId, competitionId, value1, value2, value3, IF(average > 0, average, IF(average = 0, 81, 82)) as average
   FROM Results
+  WHERE eventId = '333fm' AND value1 > 0 AND value2 > 0
   ) temp
-WHERE eventId = '333fm' AND value1 > 0 AND value2 > 0
 ORDER BY potential, average
 ~~~
