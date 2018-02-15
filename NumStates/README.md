@@ -1,5 +1,5 @@
 # **NumStates**
-Last Computed 2/14/2018 
+Last Computed 2/14/2018 .
 
 # Description
 This statistic shows the number of US States that someone has competed in.
