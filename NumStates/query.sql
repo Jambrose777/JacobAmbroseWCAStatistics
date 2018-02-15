@@ -1,11 +1,24 @@
-SELECT COUNT(*) AS numStates, CONCAT('[', personName, '](https://www.worldcubeassociation.org/persons/', personId, ')') person, GROUP_CONCAT(state) AS States
+SELECT 
+     COUNT(*) AS totStates, 
+     CONCAT('[', name, '](https://www.worldcubeassociation.org/persons/', s.personId, ')') person, 
+     comps,
+     GROUP_CONCAT(state) AS listStates
 FROM 
-(	SELECT SUBSTR(c.cityName, LOCATE(',', c.cityName)+1) AS state, personId, personName
- 	FROM Results r
- 	INNER JOIN Competitions c ON r.competitionId = c.id
- 	WHERE c.countryId = 'USA' 
- 	GROUP BY state, personId
-) s
-WHERE state != 'Multiple Cities'
-GROUP BY personId
-ORDER BY numStates DESC
+    (SELECT CONCAT(SUBSTR(c.cityName, LOCATE(',', c.cityName)+1), ' (', COUNT(*), ')') AS state, r.personId, p.name
+ 	   FROM 
+         (SELECT personId, competitionId
+          FROM Results 
+          GROUP BY personId, competitionId
+         )r
+     INNER JOIN Competitions c ON r.competitionId = c.id
+     INNER JOIN Persons p ON r.personId = p.id
+ 	   WHERE c.countryId = 'USA' AND SUBSTR(c.cityName, LOCATE(',', c.cityName)+1) != 'Multiple Cities'
+    	GROUP BY SUBSTR(c.cityName, LOCATE(',', c.cityName)+1), r.personId
+    )s
+INNER JOIN 
+    (SELECT personId, COUNT(DISTINCT competitionId) AS comps 
+     FROM Results 
+     GROUP BY personId
+    )t ON s.personId = t.personId
+GROUP BY s.personId
+ORDER BY totStates DESC, comps
