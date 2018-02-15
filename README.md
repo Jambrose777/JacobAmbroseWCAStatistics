@@ -2,13 +2,8 @@
 
 Statistics made by Jacob Ambrose
 
-[MostCompsInYear](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostCompsInYear/README.md) - Number of compeititons in a year done by a person
-
- - [Top-100](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostCompsInYear/Results.md)
-
-[MostStates](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostStates/README.md) -Number of States someone has competed in
-
- - [Top-100 Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostStates/Results.md)
+[Most Competitions In a Year](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostCompsInYear/README.md)
+[Most States Competed In](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostStates/README.md)
  
  --
 
