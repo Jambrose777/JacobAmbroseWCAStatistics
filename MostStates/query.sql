@@ -11,7 +11,12 @@ FROM
           GROUP BY personId, competitionId
          )r
      INNER JOIN Competitions c ON r.competitionId = c.id
-     INNER JOIN Persons p ON r.personId = p.id
+     INNER JOIN 
+         (SELECT id, name
+          FROM Persons
+          WHERE subId = 1
+         )p
+     ON r.personId = p.id
      WHERE c.countryId = 'USA' AND SUBSTR(c.cityName, LOCATE(',', c.cityName)+1) != 'Multiple Cities'
      GROUP BY SUBSTR(c.cityName, LOCATE(',', c.cityName)+1), r.personId
     )s
