@@ -170,7 +170,7 @@ int main(int argc, char * argv[]){
 	for(Streak * ss : s){
 		if(ss->numWeeks >= 5){
 			rank++;
-			save << "|" << rank << "|[" << ss->p->name << "](https://www.worldcubeassociation.org/persons/" << ss->p->id << ")|" << ss->numWeeks << "|" << ss->numComps << "|[" << ss->begin->Dname << "](https://www.worldcubeassociation.org/competitions/" << ss->begin->name << "|[" << ss->end->Dname << "](https://www.worldcubeassociation.org/competitions/" << ss->end->name << endl;
+			save << "|" << rank << "|[" << ss->p->name << "](https://www.worldcubeassociation.org/persons/" << ss->p->id << ")|" << ss->numWeeks << "|" << ss->numComps << "|[" << ss->begin->Dname << "](https://www.worldcubeassociation.org/competitions/" << ss->begin->name << ")|[" << ss->end->Dname << "](https://www.worldcubeassociation.org/competitions/" << ss->end->name << ")\n";
 		}//if
 	}//for
 
