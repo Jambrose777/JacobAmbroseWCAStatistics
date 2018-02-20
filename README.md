@@ -3,7 +3,7 @@
 Statistics made by Jacob Ambrose
 
 - [Most Competitions In a Year](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostCompsInYear/README.md)
-[Most Consecutive Weeks Competing In](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/README.md)
+- [Most Consecutive Weeks Competing In](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/README.md)
 - [Most States Competed In](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostStates/README.md)
  
  --
