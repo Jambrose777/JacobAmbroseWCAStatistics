@@ -168,16 +168,14 @@ int main(int argc, char * argv[]){
 	save << "# **Most Consecutive Weeks Competing**\n\n|Rank|Person|NumWeeks|NumComps|StartComp|EndComp\n|--|--|--|--|--|--|" << endl;
 	int rank = 0;
 	int count = 0;
-	Streak * prev;
+	Streak * prev = new Streak();
 	for(Streak * ss : s){
 		if(ss->numWeeks >= 5){
-			if(rank != 0){
-				if(prev->numWeeks == ss->numWeeks && prev->numComps == ss->numComps){
-					count++;
-				} else {
-					rank=rank+count+1;
-					count = 0;
-				}//if else
+			if(prev->numWeeks == ss->numWeeks && prev->numComps == ss->numComps){
+				count++;
+			} else {
+				rank=rank+count+1;
+				count = 0;	
 			}//if else
 			save << "|" << rank << "|[" << ss->p->name << "](https://www.worldcubeassociation.org/persons/" << ss->p->id << ")|" << ss->numWeeks << "|" << ss->numComps << "|[" << ss->begin->Dname << "](https://www.worldcubeassociation.org/competitions/" << ss->begin->name << ")|[" << ss->end->Dname << "](https://www.worldcubeassociation.org/competitions/" << ss->end->name << ")\n";
 			prev = ss;
