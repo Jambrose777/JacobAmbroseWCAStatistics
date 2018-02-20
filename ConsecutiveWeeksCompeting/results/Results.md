@@ -2,69 +2,70 @@
 
 |Rank|Person|NumWeeks|NumComps|StartComp|EndComp
 |--|--|--|--|--|--|
-|1|[Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06)|19|19|AnhuiUniversitySmartOpen2017|WC2017
-|2|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|14|15|ForTheLoveOfCubing2017|CrossroadsCubingSpring2017
-|3|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|9|10|ForTheLoveOfCubing2017|RocketCity2017
-|4|[Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01)|9|10|Michigan2017|FMCAmericas2017
-|5|[Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01)|9|9|AachenSummer2012|SJCSummer2012
-|6|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|9|9|WindsorClassic2017|Michigan2017
-|7|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|8|10|ShenzhenOpen2015|ShanghaiSummerOpen2015
-|8|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|8|9|NanchangOpen2016|Singapore3332016
-|9|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|8|8|XiamenOpen2017|QuanzhouOpen2017
-|10|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|7|9|RallyInTheValley2017|FMCAmericas2017
-|11|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|7|9|RallyInTheValley2017|FMCAmericas2017
-|12|[Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01)|7|8|SanFranciscoBayOpen2017|BerkeleyFall2017
-|13|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|7|8|ShenyangOpen2016|FuzhouOpen2016
-|14|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|7|8|WC2017|HongKongOpen2017
-|15|[Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03)|7|7|AugustBankHolidayCompetition2015|KoreanKAISTstyle2015
-|16|[James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01)|7|7|CanadianOpen2015|GreatLakes2015
-|17|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|7|7|WindsorClassic2017|ClassicCitySummer2017
-|18|[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|6|10|LatAmTourSantiago2017|WC2017
-|19|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|6|10|LatAmTourSantiago2017|WC2017
-|20|[Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01)|6|10|LatAmTourSantiago2017|WC2017
-|21|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|6|8|China10years2017|ZhongshanOpen2017
-|22|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|6|8|LatAmTourSantiago2017|WC2017
-|23|[Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02)|6|7|FeevaleNHOpen2017|PortoAlegreOpen2017
-|24|[Chengzhang Lin (林成璋)](https://www.worldcubeassociation.org/persons/2013LINC02)|6|7|NanningOpen2013|WuxiOpen2013
-|25|[Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01)|6|6|WC2011|SpolsOpen2011
-|26|[Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01)|6|6|DutchOpen2013|GermanNationals2013
-|27|[Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01)|6|6|VancouverOpenSummer2017|WC2017
-|28|[Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01)|6|6|DutchOpen2013|GermanNationals2013
-|29|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|6|6|ZhangzhouSpring2017|NanningOpen2017
-|30|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|6|6|CarolinaClockStravaganza2017|HendersonvilleWinter2018
-|31|[Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01)|6|6|BitCubeOpen2017|TathvaCubeOpen2017
-|32|[Tianlang Han (韩天朗)](https://www.worldcubeassociation.org/persons/2014HANT01)|6|6|ZhangzhouSpring2017|XiamenOpen2017
-|33|[Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01)|5|7|LatinAmericaCubingTourCochab2017|WC2017
-|34|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|5|6|SuzhouOpen2014|CrossstraitCubing2014
-|35|[Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02)|5|6|OpenCidadedaCrianca2016|Capivara2016
-|36|[Xusheng Hong (洪旭升)](https://www.worldcubeassociation.org/persons/2010HONG07)|5|6|SuzhouOpen2014|CrossstraitCubing2014
-|37|[Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02)|5|6|HappyCubingTaiwan2016|ACARO2016
-|38|[Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01)|5|5|NewarkOpen2008|CarnegieMellonFall2008
-|39|[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|5|5|AmstelveenOpen2011|CachanOpen2011
-|40|[Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01)|5|5|AustrianOpen2010|PolishNationals2010
-|41|[Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01)|5|5|HessenOpen2012|TwenteOpen2012
-|42|[Bruce Norskog](https://www.worldcubeassociation.org/persons/2006NORS01)|5|5|TwinCities2009|OhioOpen2009
-|43|[François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01)|5|5|FrenchOpen2011|DanishOpen2011
-|44|[Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01)|5|5|LesFranquesesOpen2017|IrunaOpen2017
-|45|[Chris Tran](https://www.worldcubeassociation.org/persons/2008TRAN02)|5|5|VirginiaOpenSpring2016|MITSpring2016
-|46|[James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01)|5|5|AlpharettaOpen2016|MinnesotaCubeMelt2016
-|47|[Nanbin Zhang (张楠彬)](https://www.worldcubeassociation.org/persons/2009ZHAN52)|5|5|ShenzhenOpen2015|WuxiOpen2015
-|48|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|5|5|ZhuhaiOpen2017|BeijingOpen2017
-|49|[Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02)|5|5|BrasiliaSpring2015|FortalezaOpen2015
-|50|[Ziyuan Lin (林子源)](https://www.worldcubeassociation.org/persons/2010LINZ03)|5|5|ShenzhenOpen2015|WuxiOpen2015
-|51|[Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02)|5|5|HessenOpen2012|TwenteOpen2012
-|52|[Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05)|5|5|SouthEastTexasOpen2018|HowdyPartner2018
-|53|[Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01)|5|5|HsinchuSummerOpen2015|TwistingFingers2015
-|54|[Agnes Maxelino](https://www.worldcubeassociation.org/persons/2011MAXE01)|5|5|BandungOpen2012|SurabayaCubeDay2012
-|55|[Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01)|5|5|Euro2014|BigCubeKrasnik2014
-|56|[Daniel James](https://www.worldcubeassociation.org/persons/2012JAME04)|5|5|VITRubiksCubeChallenge2017|IndianCubeChallenge2017
-|57|[Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01)|5|5|NewmarketOpen2017|WC2017
-|58|[Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01)|5|5|CuberussiainMSK2017|SPBEasterOpen2017
-|59|[Augusto Rosa Esteves](https://www.worldcubeassociation.org/persons/2013ESTE02)|5|5|IIIETECJacarei2017|IICUBIFMA2017
-|60|[Bo Huang (黄镈)](https://www.worldcubeassociation.org/persons/2013HUAN16)|5|5|WuhanNxNOpen2017|ChaozhouOpen2017
-|61|[Lincheng Cai (蔡林成)](https://www.worldcubeassociation.org/persons/2014CAIL01)|5|5|XiamenAutumn2017|NanchangOpen2017
-|62|[Tianlang Han (韩天朗)](https://www.worldcubeassociation.org/persons/2014HANT01)|5|5|ZhuhaiOpen2017|BeijingOpen2017
-|63|[Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03)|5|5|ZurichOpen2017|SuisseToyFastFingers2017
-|64|[Kamil Więcławek](https://www.worldcubeassociation.org/persons/2014WICA01)|5|5|KaliskaOpen2014|PLSGdansk2014
-|65|[Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01)|5|5|PolishNationals2017|CFLSantaClausCubeRace2017
-|66|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|5|5|PetoskeyCubing2016|FantasticManhattan2016
+|1|[Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06)|19|19|[Anhui University Smart Open 2017](https://www.worldcubeassociation.org/competitions/AnhuiUniversitySmartOpen2017|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017
+|2|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|14|15|[For The Love Of Cubing 2017](https://www.worldcubeassociation.org/competitions/ForTheLoveOfCubing2017|[Crossroads Cubing Spring 2017](https://www.worldcubeassociation.org/competitions/CrossroadsCubingSpring2017
+|3|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|9|10|[For The Love Of Cubing 2017](https://www.worldcubeassociation.org/competitions/ForTheLoveOfCubing2017|[Rocket City 2017](https://www.worldcubeassociation.org/competitions/RocketCity2017
+|4|[Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01)|9|10|[Michigan 2017](https://www.worldcubeassociation.org/competitions/Michigan2017|[FMC Americas 2017](https://www.worldcubeassociation.org/competitions/FMCAmericas2017
+|5|[Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01)|9|9|[Aachen Summer Open 2012](https://www.worldcubeassociation.org/competitions/AachenSummer2012|[St. Joseph's College Summer 2012](https://www.worldcubeassociation.org/competitions/SJCSummer2012
+|6|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|9|9|[Windsor Classic 2017](https://www.worldcubeassociation.org/competitions/WindsorClassic2017|[Michigan 2017](https://www.worldcubeassociation.org/competitions/Michigan2017
+|7|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|8|10|[Shenzhen Open 2015](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2015|[Shanghai Summer Open 2015](https://www.worldcubeassociation.org/competitions/ShanghaiSummerOpen2015
+|8|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|8|9|[Nanchang Open 2016](https://www.worldcubeassociation.org/competitions/NanchangOpen2016|[Singapore 333 Cube Competition 2016](https://www.worldcubeassociation.org/competitions/Singapore3332016
+|9|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|8|8|[Xiamen Open 2017](https://www.worldcubeassociation.org/competitions/XiamenOpen2017|[Quanzhou Open 2017](https://www.worldcubeassociation.org/competitions/QuanzhouOpen2017
+|10|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|8|8|[Carolina Clock 'Stravaganza 2017](https://www.worldcubeassociation.org/competitions/CarolinaClockStravaganza2017|[Grind City 2018](https://www.worldcubeassociation.org/competitions/GrindCity2018
+|11|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|7|9|[Rally In The Valley 2017](https://www.worldcubeassociation.org/competitions/RallyInTheValley2017|[FMC Americas 2017](https://www.worldcubeassociation.org/competitions/FMCAmericas2017
+|12|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|7|9|[Rally In The Valley 2017](https://www.worldcubeassociation.org/competitions/RallyInTheValley2017|[FMC Americas 2017](https://www.worldcubeassociation.org/competitions/FMCAmericas2017
+|13|[Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01)|7|8|[San Francisco Bay Open 2017](https://www.worldcubeassociation.org/competitions/SanFranciscoBayOpen2017|[Berkeley Fall 2017](https://www.worldcubeassociation.org/competitions/BerkeleyFall2017
+|14|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|7|8|[Shenyang Open 2016](https://www.worldcubeassociation.org/competitions/ShenyangOpen2016|[Fuzhou Open 2016](https://www.worldcubeassociation.org/competitions/FuzhouOpen2016
+|15|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|7|8|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017|[Hong Kong Open 2017](https://www.worldcubeassociation.org/competitions/HongKongOpen2017
+|16|[Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03)|7|7|[August Bank Holiday Competition 2015](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCompetition2015|[Korean KAIST Style 2015](https://www.worldcubeassociation.org/competitions/KoreanKAISTstyle2015
+|17|[James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01)|7|7|[Canadian Open 2015](https://www.worldcubeassociation.org/competitions/CanadianOpen2015|[Great Lakes Cubing Competition 2015](https://www.worldcubeassociation.org/competitions/GreatLakes2015
+|18|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|7|7|[Windsor Classic 2017](https://www.worldcubeassociation.org/competitions/WindsorClassic2017|[Classic City Summer 2017](https://www.worldcubeassociation.org/competitions/ClassicCitySummer2017
+|19|[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|6|10|[Latin America Cubing Tour - Santiago 2017](https://www.worldcubeassociation.org/competitions/LatAmTourSantiago2017|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017
+|20|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|6|10|[Latin America Cubing Tour - Santiago 2017](https://www.worldcubeassociation.org/competitions/LatAmTourSantiago2017|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017
+|21|[Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01)|6|10|[Latin America Cubing Tour - Santiago 2017](https://www.worldcubeassociation.org/competitions/LatAmTourSantiago2017|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017
+|22|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|6|8|[China's 10th Anniversary Championship 2017](https://www.worldcubeassociation.org/competitions/China10years2017|[Zhongshan Open 2017](https://www.worldcubeassociation.org/competitions/ZhongshanOpen2017
+|23|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|6|8|[Latin America Cubing Tour - Santiago 2017](https://www.worldcubeassociation.org/competitions/LatAmTourSantiago2017|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017
+|24|[Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02)|6|7|[Feevale NH Open 2017](https://www.worldcubeassociation.org/competitions/FeevaleNHOpen2017|[Porto Alegre Open 2017](https://www.worldcubeassociation.org/competitions/PortoAlegreOpen2017
+|25|[Chengzhang Lin (林成璋)](https://www.worldcubeassociation.org/persons/2013LINC02)|6|7|[Nanning Open 2013](https://www.worldcubeassociation.org/competitions/NanningOpen2013|[Wuxi Open 2013](https://www.worldcubeassociation.org/competitions/WuxiOpen2013
+|26|[Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01)|6|6|[World Rubik's Cube Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011|[Spols Open 2011](https://www.worldcubeassociation.org/competitions/SpolsOpen2011
+|27|[Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01)|6|6|[Dutch Open 2013](https://www.worldcubeassociation.org/competitions/DutchOpen2013|[German Nationals 2013](https://www.worldcubeassociation.org/competitions/GermanNationals2013
+|28|[Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01)|6|6|[Vancouver Open Summer 2017](https://www.worldcubeassociation.org/competitions/VancouverOpenSummer2017|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017
+|29|[Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01)|6|6|[Dutch Open 2013](https://www.worldcubeassociation.org/competitions/DutchOpen2013|[German Nationals 2013](https://www.worldcubeassociation.org/competitions/GermanNationals2013
+|30|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|6|6|[Zhangzhou Spring 2017](https://www.worldcubeassociation.org/competitions/ZhangzhouSpring2017|[Nanning Open 2017](https://www.worldcubeassociation.org/competitions/NanningOpen2017
+|31|[Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05)|6|6|[South East Texas Open 2018](https://www.worldcubeassociation.org/competitions/SouthEastTexasOpen2018|[Odd Cubing Day 2018](https://www.worldcubeassociation.org/competitions/OddCubingDay2018
+|32|[Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01)|6|6|[Bit Cube Open 2017](https://www.worldcubeassociation.org/competitions/BitCubeOpen2017|[Tathva Cube Open 2017](https://www.worldcubeassociation.org/competitions/TathvaCubeOpen2017
+|33|[Tianlang Han (韩天朗)](https://www.worldcubeassociation.org/persons/2014HANT01)|6|6|[Zhangzhou Spring 2017](https://www.worldcubeassociation.org/competitions/ZhangzhouSpring2017|[Xiamen Open 2017](https://www.worldcubeassociation.org/competitions/XiamenOpen2017
+|34|[Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01)|5|7|[Latin America Cubing Tour - Cochabamba 2017](https://www.worldcubeassociation.org/competitions/LatinAmericaCubingTourCochab2017|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017
+|35|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|5|6|[Suzhou Open 2014](https://www.worldcubeassociation.org/competitions/SuzhouOpen2014|[Cross-strait Cubing Exchange 2014](https://www.worldcubeassociation.org/competitions/CrossstraitCubing2014
+|36|[Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02)|5|6|[Open Cidade da Criança 2016](https://www.worldcubeassociation.org/competitions/OpenCidadedaCrianca2016|[Capivara 2016](https://www.worldcubeassociation.org/competitions/Capivara2016
+|37|[Xusheng Hong (洪旭升)](https://www.worldcubeassociation.org/persons/2010HONG07)|5|6|[Suzhou Open 2014](https://www.worldcubeassociation.org/competitions/SuzhouOpen2014|[Cross-strait Cubing Exchange 2014](https://www.worldcubeassociation.org/competitions/CrossstraitCubing2014
+|38|[Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02)|5|6|[Happy Cubing Taiwan 2016](https://www.worldcubeassociation.org/competitions/HappyCubingTaiwan2016|[Arnold Classic Asia 2016](https://www.worldcubeassociation.org/competitions/ACARO2016
+|39|[Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01)|5|5|[Newark Open 2008](https://www.worldcubeassociation.org/competitions/NewarkOpen2008|[Carnegie Mellon Fall 2008](https://www.worldcubeassociation.org/competitions/CarnegieMellonFall2008
+|40|[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|5|5|[Amstelveen Open 2011](https://www.worldcubeassociation.org/competitions/AmstelveenOpen2011|[Cachan Open 2011](https://www.worldcubeassociation.org/competitions/CachanOpen2011
+|41|[Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01)|5|5|[Austrian Open 2010](https://www.worldcubeassociation.org/competitions/AustrianOpen2010|[Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010
+|42|[Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01)|5|5|[Hessen Open 2012](https://www.worldcubeassociation.org/competitions/HessenOpen2012|[Twente Open 2012](https://www.worldcubeassociation.org/competitions/TwenteOpen2012
+|43|[Bruce Norskog](https://www.worldcubeassociation.org/persons/2006NORS01)|5|5|[Twin Cities Cubing Classic 2009](https://www.worldcubeassociation.org/competitions/TwinCities2009|[Ohio Open 2009](https://www.worldcubeassociation.org/competitions/OhioOpen2009
+|44|[François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01)|5|5|[French Open 2011](https://www.worldcubeassociation.org/competitions/FrenchOpen2011|[Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011
+|45|[Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01)|5|5|[Les Franqueses Open 2017](https://www.worldcubeassociation.org/competitions/LesFranquesesOpen2017|[Iruña Open 2017](https://www.worldcubeassociation.org/competitions/IrunaOpen2017
+|46|[Chris Tran](https://www.worldcubeassociation.org/persons/2008TRAN02)|5|5|[Virginia Open Spring 2016](https://www.worldcubeassociation.org/competitions/VirginiaOpenSpring2016|[MIT Spring 2016](https://www.worldcubeassociation.org/competitions/MITSpring2016
+|47|[James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01)|5|5|[Alpharetta Open 2016](https://www.worldcubeassociation.org/competitions/AlpharettaOpen2016|[Minnesota Cube Melt 2016](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2016
+|48|[Nanbin Zhang (张楠彬)](https://www.worldcubeassociation.org/persons/2009ZHAN52)|5|5|[Shenzhen Open 2015](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2015|[Wuxi Open 2015](https://www.worldcubeassociation.org/competitions/WuxiOpen2015
+|49|[Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11)|5|5|[Zhuhai Open 2017](https://www.worldcubeassociation.org/competitions/ZhuhaiOpen2017|[Beijing Open 2017](https://www.worldcubeassociation.org/competitions/BeijingOpen2017
+|50|[Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02)|5|5|[Brasilia Spring 2015](https://www.worldcubeassociation.org/competitions/BrasiliaSpring2015|[Fortaleza Open 2015](https://www.worldcubeassociation.org/competitions/FortalezaOpen2015
+|51|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|5|5|[Winter Warmup 2018](https://www.worldcubeassociation.org/competitions/WinterWarmup2018|[Grind City 2018](https://www.worldcubeassociation.org/competitions/GrindCity2018
+|52|[Ziyuan Lin (林子源)](https://www.worldcubeassociation.org/persons/2010LINZ03)|5|5|[Shenzhen Open 2015](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2015|[Wuxi Open 2015](https://www.worldcubeassociation.org/competitions/WuxiOpen2015
+|53|[Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02)|5|5|[Hessen Open 2012](https://www.worldcubeassociation.org/competitions/HessenOpen2012|[Twente Open 2012](https://www.worldcubeassociation.org/competitions/TwenteOpen2012
+|54|[Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01)|5|5|[Hsinchu Summer Open 2015](https://www.worldcubeassociation.org/competitions/HsinchuSummerOpen2015|[Twisting Fingers in New Taipei City 2015](https://www.worldcubeassociation.org/competitions/TwistingFingers2015
+|55|[Agnes Maxelino](https://www.worldcubeassociation.org/persons/2011MAXE01)|5|5|[Bandung Open 2012](https://www.worldcubeassociation.org/competitions/BandungOpen2012|[Surabaya Cube Day 2012](https://www.worldcubeassociation.org/competitions/SurabayaCubeDay2012
+|56|[Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01)|5|5|[Rubik's Cube European Championships 2014](https://www.worldcubeassociation.org/competitions/Euro2014|[Big Cube Krasnik 2014](https://www.worldcubeassociation.org/competitions/BigCubeKrasnik2014
+|57|[Daniel James](https://www.worldcubeassociation.org/persons/2012JAME04)|5|5|[VIT Rubik's Cube Challenge 2017](https://www.worldcubeassociation.org/competitions/VITRubiksCubeChallenge2017|[Indian Cube Challenge 2017](https://www.worldcubeassociation.org/competitions/IndianCubeChallenge2017
+|58|[Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01)|5|5|[Newmarket Open 2017](https://www.worldcubeassociation.org/competitions/NewmarketOpen2017|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017
+|59|[Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01)|5|5|[Cuberussia in MSK 2017](https://www.worldcubeassociation.org/competitions/CuberussiainMSK2017|[SPB Easter Open 2017](https://www.worldcubeassociation.org/competitions/SPBEasterOpen2017
+|60|[Augusto Rosa Esteves](https://www.worldcubeassociation.org/persons/2013ESTE02)|5|5|[III ETEC Jacareí 2017](https://www.worldcubeassociation.org/competitions/IIIETECJacarei2017|[II CUBIFMA 2017](https://www.worldcubeassociation.org/competitions/IICUBIFMA2017
+|61|[Bo Huang (黄镈)](https://www.worldcubeassociation.org/persons/2013HUAN16)|5|5|[Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017|[Chaozhou Open 2017](https://www.worldcubeassociation.org/competitions/ChaozhouOpen2017
+|62|[Lincheng Cai (蔡林成)](https://www.worldcubeassociation.org/persons/2014CAIL01)|5|5|[Xiamen Autumn 2017](https://www.worldcubeassociation.org/competitions/XiamenAutumn2017|[Nanchang Open 2017](https://www.worldcubeassociation.org/competitions/NanchangOpen2017
+|63|[Tianlang Han (韩天朗)](https://www.worldcubeassociation.org/persons/2014HANT01)|5|5|[Zhuhai Open 2017](https://www.worldcubeassociation.org/competitions/ZhuhaiOpen2017|[Beijing Open 2017](https://www.worldcubeassociation.org/competitions/BeijingOpen2017
+|64|[Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03)|5|5|[Zurich Open 2017](https://www.worldcubeassociation.org/competitions/ZurichOpen2017|[Suisse Toy Fast Fingers 2017](https://www.worldcubeassociation.org/competitions/SuisseToyFastFingers2017
+|65|[Kamil Więcławek](https://www.worldcubeassociation.org/persons/2014WICA01)|5|5|[Kaliska Open 2014](https://www.worldcubeassociation.org/competitions/KaliskaOpen2014|[PLS Gdańsk 2014](https://www.worldcubeassociation.org/competitions/PLSGdansk2014
+|66|[Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01)|5|5|[Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017|[CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017
+|67|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|5|5|[Petoskey Cubing 2016](https://www.worldcubeassociation.org/competitions/PetoskeyCubing2016|[Fantastic Manhattan Competition 2016](https://www.worldcubeassociation.org/competitions/FantasticManhattan2016

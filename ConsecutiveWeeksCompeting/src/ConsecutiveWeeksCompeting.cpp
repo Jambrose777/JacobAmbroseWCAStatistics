@@ -32,6 +32,7 @@ int Date::month_days[] = {0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334}
  */
 struct Competition{
 	string name = "";
+	string Dname = "";
 	Date * start = new Date();
 	//Date * end = new Date();
 	int week = 0;	
@@ -96,6 +97,8 @@ int main(int argc, char * argv[]){
 		string comp = line.substr(1, line.find("|", 1)-1);
 		//cout << comp << endl;
 		line = line.substr(line.find("|", 1));
+		string compName = line.substr(1, line.find("|", 1)-1);
+		line = line.substr(line.find("|", 1));
 		string sdate = line.substr(1, line.find("|", 1)-1);
 		//cout << sdate << endl;
 		//string edate = line.substr(line.find("|", 1)+1);
@@ -115,6 +118,7 @@ int main(int argc, char * argv[]){
 		p->comps.push_back(new Competition);
 		Competition * c = p->comps.back();
 		c->name = comp;
+		c->Dname = compName;
 		c->start->year = stoi(sdate.substr(0, 4));
 		c->start->month = stoi(sdate.substr(5, 2));
 		c->start->day = stoi(sdate.substr(8, 2));
@@ -166,7 +170,7 @@ int main(int argc, char * argv[]){
 	for(Streak * ss : s){
 		if(ss->numWeeks >= 5){
 			rank++;
-			save << "|" << rank << "|[" << ss->p->name << "](https://www.worldcubeassociation.org/persons/" << ss->p->id << ")|" << ss->numWeeks << "|" << ss->numComps << "|" << ss->begin->name << "|" << ss->end->name << endl;
+			save << "|" << rank << "|[" << ss->p->name << "](https://www.worldcubeassociation.org/persons/" << ss->p->id << ")|" << ss->numWeeks << "|" << ss->numComps << "|[" << ss->begin->Dname << "](https://www.worldcubeassociation.org/competitions/" << ss->begin->name << "|[" << ss->end->Dname << "](https://www.worldcubeassociation.org/competitions/" << ss->end->name << endl;
 		}//if
 	}//for
 
