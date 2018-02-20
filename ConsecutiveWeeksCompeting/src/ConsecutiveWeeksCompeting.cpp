@@ -62,7 +62,10 @@ struct Streak{
  * comparison rule for Scrambles
  */
 bool comparison(const Streak * s1, const Streak * s2){
-	if(s1->numWeeks == s2->numWeeks) return s1->numComps > s2->numComps;
+	if(s1->numWeeks == s2->numWeeks) 
+		if(s1->numComps == s2->numComps)
+			return s1->begin->start->totDays < s2->begin->start->totDays; 
+		else return s1->numComps > s2->numComps;
 	else return s1->numWeeks > s2->numWeeks;
 }//comp
 
