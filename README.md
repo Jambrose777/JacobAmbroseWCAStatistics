@@ -1,6 +1,6 @@
 # JacobAmbroseWCAStatistics
 
-Statistics made by Jacob Ambrose
+Statistics made by Jacob Ambrose based on official [World Cube Association](https://www.worldcubeassociation.org) results
 
 - [Most Competitions In a Year](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostCompsInYear/README.md)
 - [Most Consecutive Weeks Competed In](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/README.md)
