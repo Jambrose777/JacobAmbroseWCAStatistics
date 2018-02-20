@@ -7,6 +7,8 @@ This program takes calculates the number of consecutive weeks that a competitor 
 
 # Files
 
+ - [results/Results.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/results/Results.md)
+	Results of ConsecutiveWeeksCompeting.cpp
  - [Makefile](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/Makefile)
 	$make
 		compiles code
@@ -14,8 +16,6 @@ This program takes calculates the number of consecutive weeks that a competitor 
 		compiles and runs the all the files
 	$make clean
 		cleans the code
- - [results/Results.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/results/Results.md)
-	Results of ConsecutiveWeeksCompeting.cpp
  - [src/ConsecutiveWeeksCompeting.cpp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/src/ConsecutiveWeeksCompeting.cpp)
 	source code for calculating the number of weeks someone has comepted in.
  - [resources/Queries.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/resources/Queries.txt)
