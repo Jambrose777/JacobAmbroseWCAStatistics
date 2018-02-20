@@ -173,7 +173,7 @@ int main(int argc, char * argv[]){
 	int count = 0;
 	Streak * prev = new Streak();
 	for(Streak * ss : s){
-		if(ss->numWeeks >= 5){
+		if(rank <= 50){
 			if(prev->numWeeks == ss->numWeeks && prev->numComps == ss->numComps){
 				count++;
 			} else {
