@@ -1,9 +1,15 @@
 # ConsecutiveWeeksCompeting
 
-Last Updated 2/7/2018
+Last Computed 2/7/2018
 
 # Description 
 This program takes calculates the number of consecutive weeks that a competitor has competed in. A week is defined by Wednesday - Tuesday. A competitor has competed in a week if they attended a competition that starts within the weeks period. Ordering is based off of number of weeks in a row and if that is tied then the number of competitions competed in during those weeks.
+
+ - Name = of competitor
+ - NumWeeks = Number of consecutive weeks competed in
+ - NumComps = Number of comeptitions competed in during those weeks
+ - StartComp = Competition of start of streak
+ - EndComp = Competition at end of streak
 
 # Files
 
