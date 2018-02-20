@@ -173,16 +173,17 @@ int main(int argc, char * argv[]){
 	int count = 0;
 	Streak * prev = new Streak();
 	for(Streak * ss : s){
-		if(rank <= 50){
+		if(rank != 0){
 			if(prev->numWeeks == ss->numWeeks && prev->numComps == ss->numComps){
 				count++;
 			} else {
 				rank=rank+count+1;
 				count = 0;	
 			}//if else
+		}
+		if(rank <= 50)
 			save << "|" << rank << "|[" << ss->p->name << "](https://www.worldcubeassociation.org/persons/" << ss->p->id << ")|" << ss->numWeeks << "|" << ss->numComps << "|[" << ss->begin->Dname << "](https://www.worldcubeassociation.org/competitions/" << ss->begin->name << ")|[" << ss->end->Dname << "](https://www.worldcubeassociation.org/competitions/" << ss->end->name << ")\n";
-			prev = ss;
-		}//if
+				prev = ss;
 	}//for
 
 	save.close();
