@@ -25,8 +25,15 @@ Cases considered to be Skill Lucky Cases, these can be forced and depend on the 
  - a corner skip
  - a 12 o'clock skip
 
-# Files
+# Result Files
+ - [results/Results.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/Results.md)
+	Results of ClockLuck per scramble set
+ - [results/ResultsDelegates.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/ResultsDelegates.md)
+	Results of ClockLuck on average for a delegate
+ - [results/ResultsSingle.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/ResultsSingle.md)
+	Results of ClockLuck by Single scrambles
 
+# Other Files
  - [Makefile](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/Makefile)
 	$make
 		compiles code
@@ -34,12 +41,6 @@ Cases considered to be Skill Lucky Cases, these can be forced and depend on the 
 		compiles and runs the all the files
 	$make clean
 		cleans the code
- - [results/Results.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/Results.md)
-	Results of ClockLuck.cpp
- - [results/ResultsDelegates.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/ResultsDelegates.md)
-	Results of ClockDelegates.cpp
- - [results/ResultsSingle.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/ResultsSingle.md)
-	Results of ClockLuckSingle.cpp
  - [src/ClockDelegate.cpp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/src/ClockDelegate.cpp)
 	source code for calculating the scramble luck ordered by who generated them.
  - [src/ClockLuck.cpp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/src/ClockLuck.cpp)
