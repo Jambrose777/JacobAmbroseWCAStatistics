@@ -1,6 +1,7 @@
 # ClockLuck
 
 Last Updated 1/29/2018
+- TODO Next Update, added competition Names and Links 
 
 # Description 
 This program takes the results from an sql query on the WCA database to select
