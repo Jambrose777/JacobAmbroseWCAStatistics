@@ -1,4 +1,4 @@
-~~~sql
+
 SELECT result, COUNT(*) AS count
 FROM 
 	(SELECT value1 AS result
@@ -15,4 +15,4 @@ FROM
     ) allSingles
 GROUP BY result 
 ORDER BY count DESC
-~~~
+
