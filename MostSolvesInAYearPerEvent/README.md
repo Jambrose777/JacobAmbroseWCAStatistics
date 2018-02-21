@@ -10,5 +10,5 @@ This statistic shows the top-10 most solves done in an event over the span of a 
 
 # Files
   - [Results.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/Results.md) gives the graph for the statistic
-  - [Queries.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/Queries.txt) gives the query for the statistic
+  - [queries.sql](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/queries.sql) gives the query for the statistic
 
