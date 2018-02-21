@@ -46,7 +46,7 @@ Cases considered to be Skill Lucky Cases, these can be forced and depend on the 
 	inital problem. Calculates the luck for a scramble set and orders them
  - [src/ClockLuckSingle.cpp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/src/ClockLuckSingle.cpp)
 	calculates the clock luck for a single (not scramble set) scramble.
- - [resources/Queries.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/resources/Queries.txt)
+ - [resources/queries.sql](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/resources/Queries.txt)
 	Queries used to obtain the other resources files
  - [resources/RanksAverage.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/resources/RanksAverage.txt)
 	NOT USED IN PROJECT
