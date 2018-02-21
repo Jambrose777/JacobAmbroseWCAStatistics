@@ -14,3 +14,5 @@ Some formats were held best of 2 and thus the third result was unobtainable; the
  - [Results.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/PotentialFMCAvg/Results.md) gives top-100 results of the statistic
  - [query.sql](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/PotentialFMCAvg/query.sql) gives the query for the statistic
 
+# Possible TODO
+- Add Ranking System
