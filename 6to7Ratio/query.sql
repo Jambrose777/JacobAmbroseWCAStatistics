@@ -1,7 +1,15 @@
-SELECT sev.personId, sev.competitionId, comp.start_date, MIN(sev.average) AS 7avg, six.6avg
+SELECT 
+     sev.personId, 
+     sev.competitionId, 
+     comp.start_date, 
+     MIN(sev.average) AS 7avg, 
+     six.6avg
 FROM Results as sev 
 INNER JOIN (
-    SELECT personId, competitionID, MIN(average) AS 6avg 
+    SELECT 
+         personId, 
+         competitionID, 
+         MIN(average) AS 6avg 
     FROM `Results` 
     WHERE eventId = '666' AND average > 0 
     GROUP BY personId, CompetitionId
