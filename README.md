@@ -4,9 +4,12 @@ Statistics made by Jacob Ambrose based on official [World Cube Association](http
 
 - [Most Competitions In a Year](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostCompsInYear/README.md)
 - [Most Consecutive Weeks Competed In](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/README.md)
+- [Most Solves In A Year Per Event](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/README.md)
 - [Most States Competed In](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostStates/README.md)
  
  --
+
+Partially implemented:
 
 [ClockLuck](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/README.md) - Determining how lucky a scramble set is on Clock.
 
@@ -17,10 +20,6 @@ Statistics made by Jacob Ambrose based on official [World Cube Association](http
 [6to7Ratio](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/6to7Ratio/README.md) - 6x6 to 7x7 ratio at a competition plotted on a graph.
 
  - [Graph](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/6to7Ratio/Results.png)
-
-[MostSolvesInAYearPerEvent](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/README.md) -Most solves done in an event over the span of a year.
-
- - [Top-10s](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/Results.md)
 
 [NumDelegatesAtComp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumDelegatesAtComp/README.md) -Most Current Delegates attending a competition.
 
