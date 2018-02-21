@@ -1,6 +1,9 @@
 # **NumDelegatesAtComp**
 Last Computed: 2/12/2018
 
+# TODO
+If possible, calc who was a current delegate. WCA does not keep track of this information
+
 # Description
 This statistic gives the number of *current* delegates who attended a single competition
 
