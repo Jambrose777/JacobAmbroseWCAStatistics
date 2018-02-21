@@ -24,7 +24,7 @@ This program takes calculates the number of consecutive weeks that a competitor 
 		cleans the code
  - [src/ConsecutiveWeeksCompeting.cpp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/src/ConsecutiveWeeksCompeting.cpp)
 	source code for calculating the number of weeks someone has comepted in.
- - [resources/Queries.sql](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/resources/Queries.sql)
+ - [resources/query.sql](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/resources/query.sql)
 	Queries used to obtain the other resources files
  - [resources/data.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/resources/data.txt)
 	data extracted from query
