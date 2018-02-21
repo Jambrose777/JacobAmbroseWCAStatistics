@@ -2,6 +2,7 @@
 
 Statistics made by Jacob Ambrose based on official [World Cube Association](https://www.worldcubeassociation.org) results
 
+- [Best Potential FMC Mean](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/PotentialFMCAvg/README.md)
 - [Most Competitions In a Year](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostCompsInYear/README.md)
 - [Most Consecutive Weeks Competed In](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/README.md)
 - [Most Solves In A Year Per Event](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/README.md)
@@ -29,7 +30,3 @@ Partially implemented:
 
  - [Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/Results.md)
  - [Graph](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/FMCSingles/ResultGraph.jpg) - Provided by Jonatan Klosko
-
- [PotentialFMCAvg](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/PotentialFMCAvg/README.md) -Best Potential FMC means based on the first two solves.
-
- - [Results](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/PotentialFMCAvg/Results.md)
