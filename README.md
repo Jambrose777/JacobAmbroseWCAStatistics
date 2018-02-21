@@ -8,6 +8,8 @@ Statistics made by Jacob Ambrose based on official [World Cube Association](http
 - [Most Solves In A Year Per Event](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/README.md)
 - [Most States Competed In](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostStates/README.md)
 - [Ratio Of 6x6 To 7x7 Times At A Compeititon](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/6to7Ratio/README.md)
+ 
+ 
  --
 
 Partially implemented:
