@@ -4,7 +4,10 @@ SELECT
      comps,
      GROUP_CONCAT(state) AS listStates
 FROM 
-    (SELECT CONCAT(SUBSTR(c.cityName, LOCATE(',', c.cityName)+1), ' (', COUNT(*), ')') AS state, r.personId, p.name
+    (SELECT 
+          CONCAT(SUBSTR(c.cityName, LOCATE(',', c.cityName)+1), ' (', COUNT(*), ')') AS state, 
+          r.personId, 
+          p.name
      FROM 
          (SELECT personId, competitionId
           FROM Results 
@@ -17,11 +20,15 @@ FROM
           WHERE subId = 1
          )p
      ON r.personId = p.id
-     WHERE c.countryId = 'USA' AND SUBSTR(c.cityName, LOCATE(',', c.cityName)+1) != 'Multiple Cities'
+     WHERE 
+          c.countryId = 'USA' 
+          AND SUBSTR(c.cityName, LOCATE(',', c.cityName)+1) != 'Multiple Cities'
      GROUP BY SUBSTR(c.cityName, LOCATE(',', c.cityName)+1), r.personId
     )s
 INNER JOIN 
-    (SELECT personId, COUNT(DISTINCT competitionId) AS comps 
+    (SELECT 
+          personId, 
+          COUNT(DISTINCT competitionId) AS comps 
      FROM Results 
      GROUP BY personId
     )t ON s.personId = t.personId
