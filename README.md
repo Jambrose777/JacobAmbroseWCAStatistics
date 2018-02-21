@@ -7,7 +7,7 @@ Statistics made by Jacob Ambrose based on official [World Cube Association](http
 - [Most Consecutive Weeks Competed In](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ConsecutiveWeeksCompeting/README.md)
 - [Most Solves In A Year Per Event](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostSolvesInAYearPerEvent/README.md)
 - [Most States Competed In](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/MostStates/README.md)
- 
+- [Ratio Of 6x6 To 7x7 Times At A Compeititon](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/6to7Ratio/README.md)
  --
 
 Partially implemented:
@@ -17,10 +17,6 @@ Partially implemented:
  - [List of all Scramble Sets Clock Luck](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/Results.md)
  - [List of all Scrambles Clock Luck](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/ResultsSingle.md)
  - [List of Clock Luck averages by Delegate](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/ClockLuck/results/ResultsDelegates.md)
-
-[6to7Ratio](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/6to7Ratio/README.md) - 6x6 to 7x7 ratio at a competition plotted on a graph.
-
- - [Graph](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/6to7Ratio/Results.png)
 
 [NumDelegatesAtComp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/NumDelegatesAtComp/README.md) -Most Current Delegates attending a competition.
 
