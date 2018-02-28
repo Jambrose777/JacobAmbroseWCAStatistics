@@ -284,6 +284,25 @@ int main(int argc, char * argv[]){
 		} // if else
 
 	}//while
+	persons.back()->sor = 
+		persons.back()->e222 +
+		persons.back()->e333 +
+		persons.back()->e444 +
+		persons.back()->e555 +
+		persons.back()->e666 +
+		persons.back()->e777 +
+		persons.back()->e333bf +
+		persons.back()->e333fm +
+		persons.back()->e333oh +
+		persons.back()->e333ft +
+		persons.back()->eclock +
+		persons.back()->eminx +
+		persons.back()->epyram +
+		persons.back()->eskewb +
+		persons.back()->esq1 +
+		persons.back()->e444bf +
+		persons.back()->e555bf +
+		persons.back()->e333mbf;
 
 	//sort
 	persons.sort(comparison);
