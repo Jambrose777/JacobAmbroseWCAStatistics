@@ -6,6 +6,7 @@
 
 using namespace std;
 
+//global variables for worst rankings
 int w222;
 int w333;
 int w333bf;
@@ -27,6 +28,11 @@ int wsq1;
 
 /*
  * Person's details
+ * first name
+ * event rank
+ * last name per event
+ * id per event
+ * sor = sum of ranks
  */
 struct Person{
 	string fname = "";
@@ -109,9 +115,9 @@ int main(int argc, char * argv[]){
 	cout << "Importing Worst Ranks" << endl;
 	//open Worst Ranks file
 	ifstream file(argv[1]);
-
 	string line;
 
+	//inputting all global variables
 	getline(file, line);
 	w222 = stoi(line.substr(5));
 	getline(file, line);
@@ -184,6 +190,7 @@ int main(int argc, char * argv[]){
 		if(persons.back()->fname.compare("") == 0){
 			persons.back()->fname = fname;
 		}else if(persons.back()->fname.compare(fname) != 0){
+			//calc sor
 			persons.back()->sor = 
 				persons.back()->e222 +
 				persons.back()->e333 +
@@ -208,7 +215,7 @@ int main(int argc, char * argv[]){
 		}//if else
 		Person * p = persons.back();
 
-		//adds event rank
+		//adds event rank/person/id
 		if(event.compare("333")  == 0){
 			p->e333 = stoi(rank);
 			p->lname333 = lname;
@@ -284,6 +291,7 @@ int main(int argc, char * argv[]){
 		} // if else
 
 	}//while
+	//calc sor for last person
 	persons.back()->sor = 
 		persons.back()->e222 +
 		persons.back()->e333 +
