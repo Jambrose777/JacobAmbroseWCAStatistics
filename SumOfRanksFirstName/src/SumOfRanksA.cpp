@@ -274,7 +274,7 @@ int main(int argc, char * argv[]){
 	//output to Results.md
 	cout << "Exporting data" << endl;
 	ofstream save;
-	save.open("results/Results.md");
+	save.open("results/ResultsA.md");
 	save << "# **Sum Of Ranks Per Each First Name**" << endl << endl
 		<< "|Rank|First Name / sor|333|222|444|555|666|777|333bf|333fm|333oh|333ft|clock|minx|pyram|skewb|sq1|\n|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|" << endl;
 	int rank = 0;
