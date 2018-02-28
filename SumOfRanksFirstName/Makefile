@@ -6,18 +6,18 @@ LFLAGS = -Wall $(DEBUG)
 SRC = src
 BIN = bin
 
-All: SumOfRanks
+All: SumOfRanksS
 
-SumOfRanks: $(BIN)/SumOfRanks.o
-	$(CC) $(LFLAGS) -o $(BIN)/SumOfRanks $(BIN)/SumOfRanks.o
+SumOfRanksS: $(BIN)/SumOfRanksS.o
+	$(CC) $(LFLAGS) -o $(BIN)/SumOfRanksS $(BIN)/SumOfRanksS.o
 
-$(BIN)/SumOfRanks.o: $(SRC)/SumOfRanks.cpp
-	$(CC) $(CFLAGS) -o $(BIN)/SumOfRanks.o $(SRC)/SumOfRanks.cpp
+$(BIN)/SumOfRanksS.o: $(SRC)/SumOfRanksS.cpp
+	$(CC) $(CFLAGS) -o $(BIN)/SumOfRanksS.o $(SRC)/SumOfRanksS.cpp
 
 .PHONY: clean
 
 run:
-	./bin/SumOfRanks resources/WorstRanks.txt resources/Ranks.txt 
+	./bin/SumOfRanksS resources/WorstRanksS.txt resources/RanksS.txt 
 
 clean:
 	rm -rf bin/*
