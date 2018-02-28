@@ -26,17 +26,17 @@ Example: for Daniel, in each event the rank is taken from the best ranked Daniel
 		cleans the code
  - [src/SumOfRanksS.cpp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/src/SumOfRanksS.cpp)
 	source code for calculating the Single sor per person.
-   - [src/SumOfRanksA.cpp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/src/SumOfRanksA.cpp)
+- [src/SumOfRanksA.cpp](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/src/SumOfRanksA.cpp)
 	source code for calculating the Average sor per person.
  - [resources/queries.sql](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/resources/queries.sql)
 	Queries used to obtain the other resources files
  - [resources/RanksS.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/resources/RanksS.txt)
 	data extracted from query 1
-   - [resources/WorstRanksS.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/resources/WorstRanksS.txt)
+- [resources/WorstRanksS.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/resources/WorstRanksS.txt)
 	data extracted from query 2
-   - [resources/RanksA.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/resources/RanksA.txt)
+- [resources/RanksA.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/resources/RanksA.txt)
 	data extracted from query 3
-   - [resources/WorstRanksA.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/resources/WorstRanksA.txt)
+- [resources/WorstRanksA.txt](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/resources/WorstRanksA.txt)
 	data extracted from query 4
  - [bin/* ](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/tree/master/SumOfRanksFirstName/bin)
 	compiled code
