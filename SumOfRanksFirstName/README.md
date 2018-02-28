@@ -15,7 +15,7 @@ Example: for Daniel, in each event the rank is taken from the best ranked Daniel
 
  - [results/ResultsS.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/results/ResultsS.md)
 	Results of Single SORs
-   - [results/ResultsA.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/results/ResultsA.md)
+- [results/ResultsA.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/results/ResultsA.md)
 	Results of Average SORs
  - [Makefile](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/SumOfRanksFirstName/Makefile)
 	$make
