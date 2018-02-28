@@ -17,7 +17,7 @@ GROUP BY r.eventId;
 
 #All Average ranks for a first name
 SELECT p.name, p.id, RanksAverage.eventId, RanksAverage.worldRank
-FROM RanksAveraeg
+FROM RanksAverage
 INNER JOIN Persons p ON RanksAverage.personId = p.id
 WHERE (IF(LOCATE(' ',p.name) = 0, p.name, LEFT(p.name, LOCATE(' ',p.name) - 1)), RanksSingle.eventId, RanksSingle.worldRank) IN (
 	SELECT IF(LOCATE(' ',p.name) = 0, p.name, LEFT(p.name, LOCATE(' ',p.name) - 1)), r.eventId, MIN(r.worldRank) as rank
