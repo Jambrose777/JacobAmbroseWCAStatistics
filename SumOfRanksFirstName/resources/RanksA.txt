@@ -1,7 +1,3 @@
-===Database cubing
-
-== Dumping data for table RanksAverage
-
 |A Juro Paglinawan|2016PAGL01|222|10220
 |A Gu De Mu (阿古德木)|2012DEMU01|333|16726
 |A Juro Paglinawan|2016PAGL01|444|13286
