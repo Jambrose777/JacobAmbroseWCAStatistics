@@ -181,10 +181,7 @@ int main(int argc, char * argv[]){
 				persons.back()->eminx +
 				persons.back()->epyram +
 				persons.back()->eskewb +
-				persons.back()->esq1 +
-				persons.back()->e444bf +
-				persons.back()->e555bf +
-				persons.back()->e333mbf;
+				persons.back()->esq1; 
 			persons.push_back(new Person);
 			persons.back()->fname = fname;
 		}//if else
@@ -269,7 +266,7 @@ int main(int argc, char * argv[]){
 		persons.back()->eminx +
 		persons.back()->epyram +
 		persons.back()->eskewb +
-		persons.back()->esq1 +
+		persons.back()->esq1; 
 	
 	//sort
 	persons.sort(comparison);
