@@ -21,7 +21,7 @@ FROM RanksAverage
 INNER JOIN Persons p ON RanksAverage.personId = p.id
 WHERE (IF(LOCATE(' ',p.name) = 0, p.name, LEFT(p.name, LOCATE(' ',p.name) - 1)), RanksAverage.eventId, RanksAverage.worldRank) IN (
 	SELECT IF(LOCATE(' ',p.name) = 0, p.name, LEFT(p.name, LOCATE(' ',p.name) - 1)), r.eventId, MIN(r.worldRank) as rank
-	FROM RanksSingle r
+	FROM RanksAverage r
 	INNER JOIN Persons p ON r.personId = p.id
 	GROUP BY IF(LOCATE(' ',p.name) = 0, p.name, LEFT(p.name, LOCATE(' ',p.name) - 1)), r.eventId
     )
