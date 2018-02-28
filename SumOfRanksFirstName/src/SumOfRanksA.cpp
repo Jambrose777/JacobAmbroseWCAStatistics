@@ -11,12 +11,9 @@ int w333;
 int w333bf;
 int w333fm;
 int w333ft;
-int w333mbf;
 int w333oh;
 int w444;
-int w444bf;
 int w555;
-int w555bf;
 int w666;
 int w777;
 int wclock;
@@ -45,24 +42,15 @@ struct Person{
 	int e333ft = w333ft;
 	string lname333ft;
 	string lid333ft;
-	int e333mbf = w333mbf;
-	string lname333mbf;
-	string lid333mbf;
 	int e333oh = w333oh;
 	string lname333oh;
 	string lid333oh;
 	int e444 = w444;
 	string lname444;
 	string lid444;
-	int e444bf = w444bf;
-	string lname444bf;
-	string lid444bf;
 	int e555 = w555;
 	string lname555;
 	string lid555;
-	int e555bf = w555bf;
-	string lname555bf;
-	string lid555bf;
 	int e666 = w666;
 	string lname666;
 	string lid666;
@@ -123,17 +111,11 @@ int main(int argc, char * argv[]){
 	getline(file, line);
 	w333ft = stoi(line.substr(7));
 	getline(file, line);
-	w333mbf = stoi(line.substr(8));
-	getline(file, line);
 	w333oh = stoi(line.substr(7));
 	getline(file, line);
 	w444 = stoi(line.substr(5));
 	getline(file, line);
-	w444bf = stoi(line.substr(7));
-	getline(file, line);
 	w555 = stoi(line.substr(5));
-	getline(file, line);
-	w555bf = stoi(line.substr(7));
 	getline(file, line);
 	w666 = stoi(line.substr(5));
 	getline(file, line);
@@ -269,18 +251,6 @@ int main(int argc, char * argv[]){
 			p->esq1 = stoi(rank);
 			p->lnamesq1 = lname;
 			p->lidsq1 = id;
-		}else if (event.compare("444bf") == 0){
-			p->e444bf = stoi(rank);
-			p->lname444bf = lname;
-			p->lid444bf = id;
-		}else if (event.compare("555bf") == 0){
-			p->e555bf = stoi(rank);
-			p->lname555bf = lname;
-			p->lid555bf = id;
-		}else if (event.compare("333mbf") == 0){
-			p->e333mbf = stoi(rank);
-			p->lname333mbf = lname;
-			p->lid333mbf = id;
 		} // if else
 
 	}//while
@@ -300,10 +270,7 @@ int main(int argc, char * argv[]){
 		persons.back()->epyram +
 		persons.back()->eskewb +
 		persons.back()->esq1 +
-		persons.back()->e444bf +
-		persons.back()->e555bf +
-		persons.back()->e333mbf;
-
+	
 	//sort
 	persons.sort(comparison);
 
@@ -312,7 +279,7 @@ int main(int argc, char * argv[]){
 	ofstream save;
 	save.open("results/Results.md");
 	save << "# **Sum Of Ranks Per Each First Name**" << endl << endl
-		<< "|Rank|First Name / sor|333|222|444|555|666|777|333bf|333fm|333oh|333ft|clock|minx|pyram|skewb|sq1|444bf|555bf|333mbf\n|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|" << endl;
+		<< "|Rank|First Name / sor|333|222|444|555|666|777|333bf|333fm|333oh|333ft|clock|minx|pyram|skewb|sq1|\n|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|" << endl;
 	int rank = 0;
 	int count = 0;
 	Person * prev = new Person();
@@ -342,9 +309,6 @@ int main(int argc, char * argv[]){
 				<< ")|[" << pp->lnamepyram << "](https://worldcubeassociation.org/persons/" << pp->lidpyram
 				<< ")|[" << pp->lnameskewb << "](https://worldcubeassociation.org/persons/" << pp->lidskewb
 				<< ")|[" << pp->lnamesq1 << "](https://worldcubeassociation.org/persons/" << pp->lidsq1
-				<< ")|[" << pp->lname444bf << "](https://worldcubeassociation.org/persons/" << pp->lid444bf
-				<< ")|[" << pp->lname555bf << "](https://worldcubeassociation.org/persons/" << pp->lid555bf
-				<< ")|[" << pp->lname333mbf << "](https://worldcubeassociation.org/persons/" << pp->lid333mbf 
 				<< ")" << endl
 				<< "||" << pp->sor 
 				<< "|" << pp->e333
@@ -362,9 +326,6 @@ int main(int argc, char * argv[]){
 				<< "|" << pp->epyram
 				<< "|" << pp->eskewb
 				<< "|" << pp->esq1
-				<< "|" << pp->e444bf
-				<< "|" << pp->e555bf
-				<< "|" << pp->e333mbf
 				<< endl;
 		prev = pp;
 	}//for
