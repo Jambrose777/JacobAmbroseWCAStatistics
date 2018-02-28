@@ -345,7 +345,7 @@ int main(int argc, char * argv[]){
 				<< ")|[" << pp->lname444bf << "](https://worldcubeassociation.org/persons/" << pp->lid444bf
 				<< ")|[" << pp->lname555bf << "](https://worldcubeassociation.org/persons/" << pp->lid555bf
 				<< ")|[" << pp->lname333mbf << "](https://worldcubeassociation.org/persons/" << pp->lid333mbf 
-				<< endl
+				<< ")" << endl
 				<< "||" << pp->sor 
 				<< "|" << pp->e333
 				<< "|" << pp->e222
