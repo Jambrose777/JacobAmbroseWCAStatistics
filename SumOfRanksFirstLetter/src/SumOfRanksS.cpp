@@ -175,16 +175,9 @@ int main(int argc, char * argv[]){
 		line = line.substr(line.find("|", 1));
 		string event = line.substr(1, line.find("|", 1)-1);
 		line = line.substr(line.find("|", 1));
-		string rank = line.substr(1, line.find("|", 1)-1);
-		string fname, lname;
-		//check if no last name
-		if(name.find(" ", 0) == -1){
-			fname = name;
-			lname = "";
-		}else{
-			fname = name.substr(0, name.find(" ", 0));
-			lname = name.substr(name.find(" ", 0) + 1);
-		}//if else 
+		string rank = line.substr(1);
+		string fname = name.substr(0, 1);
+		string lname = name;		
 		
 		//creates new person if needed
 		if(persons.back()->fname.compare("") == 0){
@@ -319,8 +312,8 @@ int main(int argc, char * argv[]){
 	cout << "Exporting data" << endl;
 	ofstream save;
 	save.open("results/ResultsS.md");
-	save << "# **Sum Of Single Ranks Per Each First Name**" << endl << endl
-		<< "|Rank|First Name / sor|333|222|444|555|666|777|333bf|333fm|333oh|333ft|clock|minx|pyram|skewb|sq1|444bf|555bf|333mbf\n|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|" << endl;
+	save << "# **Sum Of Single Ranks Per Each First Letter**" << endl << endl
+		<< "|Rank|First Letter / sor|333|222|444|555|666|777|333bf|333fm|333oh|333ft|clock|minx|pyram|skewb|sq1|444bf|555bf|333mbf\n|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|" << endl;
 	int rank = 0;
 	int count = 0;
 	Person * prev = new Person();
