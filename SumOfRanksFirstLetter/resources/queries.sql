@@ -2,7 +2,7 @@
 SELECT p.name, p.id, RanksSingle.eventId, RanksSingle.worldRank
 FROM RanksSingle
 INNER JOIN Persons p ON RanksSingle.personId = p.id
-WHERE LEFT(p.name, 1), RanksSingle.eventId, RanksSingle.worldRank) IN (
+WHERE (LEFT(p.name, 1), RanksSingle.eventId, RanksSingle.worldRank) IN (
 	SELECT LEFT(p.name, 1), r.eventId, MIN(r.worldRank) as rank
 	FROM RanksSingle r
 	INNER JOIN Persons p ON r.personId = p.id
@@ -19,7 +19,7 @@ GROUP BY r.eventId;
 SELECT p.name, p.id, RanksAverage.eventId, RanksAverage.worldRank
 FROM RanksAverage
 INNER JOIN Persons p ON RanksAverage.personId = p.id
-WHERE LEFT(p.name, 1), RanksAverage.eventId, RanksAverage.worldRank) IN (
+WHERE (LEFT(p.name, 1), RanksAverage.eventId, RanksAverage.worldRank) IN (
 	SELECT LEFT(p.name, 1), r.eventId, MIN(r.worldRank) as rank
 	FROM RanksAverage r
 	INNER JOIN Persons p ON r.personId = p.id
