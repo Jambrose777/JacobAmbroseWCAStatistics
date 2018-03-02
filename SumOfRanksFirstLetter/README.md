@@ -1,6 +1,6 @@
-# Sum Of Ranks By First Name
+# Sum Of Ranks By First Letter
 
-Last Computed 2/28/2018
+Last Computed 3/1/2018
 
 # Description 
 This program calculates the sum of ranks by first name for all single and average events.
@@ -8,7 +8,7 @@ Example: for Daniel, in each event the rank is taken from the best ranked Daniel
 
  - every result is on 2 rows of the table
  - Rank = ranking in list
- - First Name / sor = First name on the first row, sum of ranks on the second row
+ - First Letter / sor = First letter on the first row, sum of ranks on the second row
  - each event = last name of competitor w/ link to WCA Profile, competitor's World Rank in the event.
 
 # Files
