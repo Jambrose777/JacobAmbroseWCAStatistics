@@ -1,7 +1,3 @@
-===Database cubing
-
-== Dumping data for table Results
-
 |Alex Tedeschi|2014TEDE01|222|11
 |Antonie Paterakis|2012PATE01|333|8
 |Angelo Zhang|2014ZHAN01|333bf|4
