@@ -36,7 +36,7 @@ SELECT CONCAT("[", personName, "](https://www.worldcubeassociation.org/persons/"
       SELECT r.competitionId, r.personId, r.eventId, r.countryId, c.start_date, r.personName
       FROM Results r
       INNER JOIN Competitions c ON r.competitionId = c.id
-      WHERE r.eventId = '333bf' AND r.best <= 24000 AND r.average > 0
+      WHERE r.eventId = '333bf' AND r.best <= 24000 AND r.best > 0
       UNION
       SELECT r.competitionId, r.personId, r.eventId, r.countryId, c.start_date, r.personName
       FROM Results r
@@ -81,17 +81,17 @@ SELECT CONCAT("[", personName, "](https://www.worldcubeassociation.org/persons/"
       SELECT r.competitionId, r.personId, r.eventId, r.countryId, c.start_date, r.personName
       FROM Results r
       INNER JOIN Competitions c ON r.competitionId = c.id
-      WHERE r.eventId = '444bf' AND r.best <= 60000 AND r.average > 0
+      WHERE r.eventId = '444bf' AND r.best <= 60000 AND r.best > 0
       UNION
       SELECT r.competitionId, r.personId, r.eventId, r.countryId, c.start_date, r.personName
       FROM Results r
       INNER JOIN Competitions c ON r.competitionId = c.id
-      WHERE r.eventId = '555bf' AND r.best <= 120000 AND r.average > 0
+      WHERE r.eventId = '555bf' AND r.best <= 120000 AND r.best > 0
       UNION
       SELECT r.competitionId, r.personId, r.eventId, r.countryId, c.start_date, r.personName
       FROM Results r
       INNER JOIN Competitions c ON r.competitionId = c.id
-      WHERE r.eventId = '333mbf' AND r.best <= '939999999' AND r.average > 0
+      WHERE r.eventId = '333mbf' AND r.best <= '939999999' AND r.best > 0
       ORDER BY start_date
       ) b
     GROUP BY personId, eventId
