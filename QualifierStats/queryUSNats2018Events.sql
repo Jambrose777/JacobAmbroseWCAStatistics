@@ -1,7 +1,4 @@
-
-SELECT CONCAT("[", name, "](https://www.worldcubeassociation.org/competitions/", id, ")"), MAX(numQualify) AS numQualifys
-FROM
- (SELECT name, competitionId AS id, COUNT(*) AS numQualify
+SELECT eventId, COUNT(*) AS numQualify
   FROM 
    (SELECT competitionId, personId, eventId, countryId, name, start_date
     FROM
@@ -101,9 +98,9 @@ FROM
   WHERE countryId = 'USA' AND start_date > '2017-12-22' AND start_date < '2018-06-18'
   GROUP BY competitionId
   UNION 
-  SELECT name, id, 0 AS numQualify
-  FROM Competitions
-  WHERE countryId = 'USA' AND start_date > '2017-12-22' AND start_date < '2018-06-18'
+  SELECT id AS eventId 0 AS numQualify
+  FROM Event
+  WHERE id != '333mbo' AND id != 'magic' AND id != 'mmagic'
  ) c
-GROUP BY id
-ORDER BY MAX(numQualify) DESC, id;
+GROUP BY eventId
+ORDER BY MAX(numQualify) DESC;
