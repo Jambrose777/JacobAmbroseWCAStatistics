@@ -1,7 +1,4 @@
-===Database cubing
-
-== Dumping data for table Competitions
-
+|Competition|Number of Qualifying|
 |[SacCubing III 2018](https://www.worldcubeassociation.org/competitions/SacCubingIII2018)|179
 |[Wolfpack Winter 2018](https://www.worldcubeassociation.org/competitions/WolfpackWinter2018)|80
 |[SCC Winter 2018](https://www.worldcubeassociation.org/competitions/SCCWinter2018)|67
