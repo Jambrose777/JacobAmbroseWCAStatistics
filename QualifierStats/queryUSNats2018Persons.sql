@@ -98,4 +98,4 @@ SELECT CONCAT("[", personName, "](https://www.worldcubeassociation.org/persons/"
     ) a
   WHERE countryId = 'USA' AND start_date > '2017-12-22' AND start_date < '2018-06-18'
   GROUP BY personId
-  ORDER BY numQualify
+  ORDER BY numQualify DESC
