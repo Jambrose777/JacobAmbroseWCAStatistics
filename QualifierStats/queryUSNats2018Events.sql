@@ -102,7 +102,7 @@ FROM
   UNION 
   SELECT id AS eventId, 0 AS numQualify
   FROM Events
-  WHERE id != '333mbfo' AND id != 'magic' AND id != 'mmagic'
+  WHERE id != '333mbo' AND id != 'magic' AND id != 'mmagic'
  ) c
 GROUP BY eventId
 ORDER BY MAX(numQualify) DESC, eventId;
