@@ -1,0 +1,23 @@
+===Database cubing
+
+== Dumping data for table Competitions
+
+|333|320
+|222|209
+|444|177
+|pyram|96
+|skewb|96
+|333oh|73
+|555|38
+|sq1|19
+|666|14
+|333bf|13
+|777|10
+|clock|10
+|minx|10
+|333mbf|7
+|333fm|5
+|555bf|3
+|333ft|2
+|444bf|2
+|333mbo|0
