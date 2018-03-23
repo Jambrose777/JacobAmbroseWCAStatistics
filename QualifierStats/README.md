@@ -16,9 +16,9 @@ The 4 competitions having Qualifying times are:
 - Persons, Only Persons with USA nationality
 
 # Files 
- - [USNats2018Comps.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/QualifierStats/queryUSNats2018Comps.md) 
- - [USNats2018Events.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/QualifierStats/queryUSNats2018Events.md) 
- - [USNats2018Persons.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/QualifierStats/queryUSNats2018Persons.md) 
+ - [USNats2018Comps.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/QualifierStats/USNats2018Comps.md) 
+ - [USNats2018Events.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/QualifierStats/USNats2018Events.md) 
+ - [USNats2018Persons.md](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/QualifierStats/USNats2018Persons.md) 
  - [queryUSNats2018Comps.sql](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/QualifierStats/queryUSNats2018Comps.sql) 
  - [queryUSNats2018Events.sql](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/QualifierStats/queryUSNats2018Events.sql) 
  - [queryUSNats2018Persons.sql](https://github.com/Jambrose777/JacobAmbroseWCAStatistics/blob/master/QualifierStats/queryUSNats2018Persons.sql) 
