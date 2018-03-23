@@ -1,7 +1,5 @@
-===Database cubing
-
-== Dumping data for table Competitions
-
+|Event|Number Qualified|
+|--|--|
 |333|320
 |222|209
 |444|177
@@ -20,4 +18,3 @@
 |555bf|3
 |333ft|2
 |444bf|2
-|333mbo|0
