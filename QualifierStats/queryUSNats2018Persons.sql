@@ -1,5 +1,5 @@
 
-SELECT CONCAT("[", personName, "](https://www.worldcubeassociation.org/competitions/", personid, ")"), COUNT(*) AS numQualify
+SELECT CONCAT("[", personName, "](https://www.worldcubeassociation.org/persons/", personid, ")"), COUNT(*) AS numQualify
   FROM 
    (SELECT competitionId, personId, eventId, countryId, personName, start_date
     FROM
