@@ -103,7 +103,7 @@ FROM
   UNION 
   SELECT name, id, 0 AS numQualify
   FROM Competitions
-  WHERE countryId = 'USA' AND start_date > '2017-12-22' AND start_date < '2018-06-18'
+  WHERE countryId = 'USA' AND start_date > '2017-12-22' AND start_date < '2018-06-18' AND results_posted_at IS NOT NULL
  ) c
 GROUP BY id
 ORDER BY MAX(numQualify) DESC, id;
