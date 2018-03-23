@@ -98,7 +98,7 @@ SELECT eventId, COUNT(*) AS numQualify
   WHERE countryId = 'USA' AND start_date > '2017-12-22' AND start_date < '2018-06-18'
   GROUP BY competitionId
   UNION 
-  SELECT id AS eventId 0 AS numQualify
+  SELECT id AS eventId, 0 AS numQualify
   FROM Event
   WHERE id != '333mbo' AND id != 'magic' AND id != 'mmagic'
  ) c
