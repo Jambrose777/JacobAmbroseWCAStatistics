@@ -1,4 +1,6 @@
-SELECT eventId, COUNT(*) AS numQualify
+SELECT eventId, MAX(numQualify) AS numQualifys
+FROM
+ (SELECT eventId, COUNT(*) AS numQualify
   FROM 
    (SELECT competitionId, personId, eventId, countryId, name, start_date
     FROM
@@ -96,11 +98,11 @@ SELECT eventId, COUNT(*) AS numQualify
     GROUP BY personId, eventId
     ) a
   WHERE countryId = 'USA' AND start_date > '2017-12-22' AND start_date < '2018-06-18'
-  GROUP BY competitionId
+  GROUP BY eventId
   UNION 
   SELECT id AS eventId, 0 AS numQualify
-  FROM Event
-  WHERE id != '333mbo' AND id != 'magic' AND id != 'mmagic'
+  FROM Events
+  WHERE id != '333mbfo' AND id != 'magic' AND id != 'mmagic'
  ) c
 GROUP BY eventId
-ORDER BY MAX(numQualify) DESC;
+ORDER BY MAX(numQualify) DESC, eventId;
