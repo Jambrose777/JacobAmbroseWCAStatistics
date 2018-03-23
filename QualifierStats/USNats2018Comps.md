@@ -1,7 +1,5 @@
-===Database cubing
-
-== Dumping data for table Competitions
-
+|Competition|Number of Qualified|
+|--|--|
 |[Incredible Pencil Mania 2018](https://www.worldcubeassociation.org/competitions/IncrediblePencilMania2018)|214
 |[SacCubing III 2018](https://www.worldcubeassociation.org/competitions/SacCubingIII2018)|180
 |[Berkeley Winter 2018](https://www.worldcubeassociation.org/competitions/BerkeleyWinter2018)|126
