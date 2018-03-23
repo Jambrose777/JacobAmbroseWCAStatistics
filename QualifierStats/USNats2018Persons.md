@@ -1,4 +1,5 @@
 |Person|Events Qualified|
+|--|--|
 |[Caleb Tate](https://www.worldcubeassociation.org/persons/2018TATE01)|6
 |[Ian Southa](https://www.worldcubeassociation.org/persons/2018SOUT01)|6
 |[Kian Kwa](https://www.worldcubeassociation.org/persons/2018KWAK01)|6
