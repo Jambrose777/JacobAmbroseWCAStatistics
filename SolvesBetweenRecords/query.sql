@@ -1,5 +1,5 @@
 #Average Records
-SELECT eventId, CONCAT('[', personName, '](https://www.worldcubeassociation.org/persons/', personId, ')') person, average, CONCAT('[', c.name, '](https://www.worldcubeassociation.org/competitions/', competitionId, ')') comp, solves
+SELECT eventId, CONCAT('[', personName, '](https://www.worldcubeassociation.org/persons/', personId, ')') person, average, CONCAT('[', name, '](https://www.worldcubeassociation.org/competitions/', competitionId, ')') comp, solves
 FROM (
     SELECT r.eventId, personName, personId, average, c.name, competitionId, (numSolves - @dec) AS solves, 	
     	(@dec:= numSolves)
@@ -23,7 +23,7 @@ FROM (
 )p;
 
 #Single Records
-SELECT eventId, CONCAT('[', personName, '](https://www.worldcubeassociation.org/persons/', personId, ')') person, average, CONCAT('[', c.name, '](https://www.worldcubeassociation.org/competitions/', competitionId, ')') comp, solves
+SELECT eventId, CONCAT('[', personName, '](https://www.worldcubeassociation.org/persons/', personId, ')') person, average, CONCAT('[', name, '](https://www.worldcubeassociation.org/competitions/', competitionId, ')') comp, solves
 FROM (
     SELECT r.eventId, personName, personId, best, c.name, competitionId, (numSolves - @dec) AS solves, 	
     	(@dec:= numSolves)
