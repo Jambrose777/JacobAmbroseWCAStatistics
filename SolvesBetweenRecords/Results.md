@@ -1,6 +1,6 @@
 # 2x2x2 Cube
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|1087|[Swedish Cube Day competition 2004](https://www.worldcubeassociation.org/competitions/Sweden2004)|
 |[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|845|[SveKub Annual Meeting competition 2005](https://www.worldcubeassociation.org/competitions/Svekub2005)|284
@@ -35,7 +35,7 @@
 
 # 3x3x3 Cube
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Dan Knights](https://www.worldcubeassociation.org/persons/2003KNIG01)|2000|[World Rubik's Games Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003)|
 |[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|1653|[Caltech Winter competition 2004](https://www.worldcubeassociation.org/competitions/CaltechWinter2004)|204
@@ -66,7 +66,7 @@
 
 # 3x3x3 Blindfolded
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01)|17929|[Caltech Spring competition 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005)|
 |[Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02)|14146|[Northern California Fall Open 2005](https://www.worldcubeassociation.org/competitions/NorthernCA2005)|298
@@ -99,7 +99,7 @@
 
 # 3x3x3 Fewest Moves
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02)|4067|[Clermont Open 2009](https://www.worldcubeassociation.org/competitions/ClermontOpen2009)|
 |[Hong Zhang (张宏)](https://www.worldcubeassociation.org/persons/2008ZHAN13)|3567|[PKU Fewest Moves 2010](https://www.worldcubeassociation.org/competitions/PKUFMC2010)|2960
@@ -124,7 +124,7 @@
 
 # 3x3x3 With Feet
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Will Arnold](https://www.worldcubeassociation.org/persons/2005ARNO01)|26510|[Caltech Spring competition 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005)|
 |[Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01)|8814|[SveKub Annual Meeting competition 2006](https://www.worldcubeassociation.org/competitions/Svekub2006)|16
@@ -145,7 +145,7 @@
 
 # 3x3x3 One-Handed
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|4778|[Caltech Spring competition 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004)|
 |[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|3925|[Caltech Fall competition 2004](https://www.worldcubeassociation.org/competitions/CaltechFall2004)|46
@@ -189,7 +189,7 @@
 
 # 4x4x4 Cube
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[David Wesley](https://www.worldcubeassociation.org/persons/2003WESL01)|9057|[World Rubik's Games Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003)|
 |[Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01)|7554|[US Nationals 2004](https://www.worldcubeassociation.org/competitions/US2004)|428
@@ -234,7 +234,7 @@
 
 # 5x5x5 Cube
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Masayuki Akimoto (秋元正行)](https://www.worldcubeassociation.org/persons/2003AKIM01)|17045|[World Rubik's Games Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003)|
 |[David Wesley](https://www.worldcubeassociation.org/persons/2003WESL01)|17068|[World Rubik's Games Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003)|55
@@ -281,7 +281,7 @@
 
 # 6x6x6 Cube
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Claes Hedin](https://www.worldcubeassociation.org/persons/2009HEDI01)|24430|[Norrköping Open 2009](https://www.worldcubeassociation.org/competitions/NorrkopingOpen2009)|
 |[Dan Cen](https://www.worldcubeassociation.org/persons/2007COHE01)|18140|[Newark Winter 2009](https://www.worldcubeassociation.org/competitions/NewarkWinter2009)|2517
@@ -313,7 +313,7 @@
 
 # 7x7x7 Cube
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09)|29257|[Taiwan Winter Open 2009](https://www.worldcubeassociation.org/competitions/TaiwanWinterOpen2009)|
 |[Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01)|27126|[EPGY Stanford Winter 2009](https://www.worldcubeassociation.org/competitions/EPGYStanfordWinter2009)|3548
@@ -354,7 +354,7 @@
 
 # Clock
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|1161|[German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004)|
 |[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|1078|[European Rubik's Games Championship 2004](https://www.worldcubeassociation.org/competitions/Euro2004)|40
@@ -382,7 +382,7 @@
 
 # Megaminx
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|9376|[German Open 2006](https://www.worldcubeassociation.org/competitions/GermanOpen2006)|
 |[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|8806|[Dutch Open 2006](https://www.worldcubeassociation.org/competitions/DutchOpen2006)|21
@@ -408,7 +408,7 @@
 
 # Pyraminx
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|1655|[SveKub Annual Meeting competition 2005](https://www.worldcubeassociation.org/competitions/Svekub2005)|
 |[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|1481|[Swedish Open 2005](https://www.worldcubeassociation.org/competitions/SwedishOpen2005)|570
@@ -442,7 +442,7 @@
 
 # Skewb
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Abhishek Sathyanarayanan](https://www.worldcubeassociation.org/persons/2012SATH01)|1370|[Telesis Open 2014](https://www.worldcubeassociation.org/competitions/TelesisOpen2014)|
 |[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|816|[Houston Winter Open 2014](https://www.worldcubeassociation.org/competitions/HoustonWinterOpen2014)|11097
@@ -469,7 +469,7 @@
 
 # Square-1
 
-|Person|Average|Competition|Days Since Last Record|
+|Person|Average|Competition|Solves Since Last Record|
 |--|--|--|--|
 |[Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01)|3321|[Dutch Open 2004](https://www.worldcubeassociation.org/competitions/DutchOpen2004)|
 |[Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01)|3201|[German Open 2006](https://www.worldcubeassociation.org/competitions/GermanOpen2006)|54
