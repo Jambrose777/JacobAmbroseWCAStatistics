@@ -1,8 +1,8 @@
-# 2x2x2
+# 2x2x2 Cube
 
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|1087|[Swedish Cube Day competition 2004](https://www.worldcubeassociation.org/competitions/Sweden2004)|321
+|[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|1087|[Swedish Cube Day competition 2004](https://www.worldcubeassociation.org/competitions/Sweden2004)|
 |[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|845|[SveKub Annual Meeting competition 2005](https://www.worldcubeassociation.org/competitions/Svekub2005)|284
 |[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|662|[Caltech Spring competition 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005)|35
 |[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|629|[Horace Mann Spring competition 2005](https://www.worldcubeassociation.org/competitions/HoraceMann2005)|122
@@ -33,9 +33,11 @@
 |[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|142|[Munich Open 2017](https://www.worldcubeassociation.org/competitions/MunichOpen2017)|93941
 |[Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01)|135|[Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|132143
 
+# 3x3x3 Cube
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Dan Knights](https://www.worldcubeassociation.org/persons/2003KNIG01)|2000|[World Rubik's Games Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003)|440
+|[Dan Knights](https://www.worldcubeassociation.org/persons/2003KNIG01)|2000|[World Rubik's Games Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003)|
 |[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|1653|[Caltech Winter competition 2004](https://www.worldcubeassociation.org/competitions/CaltechWinter2004)|204
 |[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|1538|[Caltech Spring competition 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004)|151
 |[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|1452|[Caltech Fall competition 2004](https://www.worldcubeassociation.org/competitions/CaltechFall2004)|207
@@ -62,9 +64,11 @@
 |[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|597|[Latin America Cubing Tour - Chía 2017](https://www.worldcubeassociation.org/competitions/LatinAmericaCubingTourChia2017)|14678
 |[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|580|[Malaysia Cube Open 2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017)|62574
 
+# 3x3x3 Blindfolded
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01)|17929|[Caltech Spring competition 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005)|237
+|[Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01)|17929|[Caltech Spring competition 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005)|
 |[Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02)|14146|[Northern California Fall Open 2005](https://www.worldcubeassociation.org/competitions/NorthernCA2005)|298
 |[Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01)|11168|[Chattahoochee Spring competition 2006](https://www.worldcubeassociation.org/competitions/Chattahoochee2006)|3014
 |[Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01)|10379|[San Diego competition 2006](https://www.worldcubeassociation.org/competitions/SanDiego2006)|639
@@ -93,9 +97,11 @@
 |[Ishaan Agrawal](https://www.worldcubeassociation.org/persons/2015AGRA03)|2267|[6.25 Bay Area 2017](https://www.worldcubeassociation.org/competitions/625BayArea2017)|25156
 |[Angelo Zhang](https://www.worldcubeassociation.org/persons/2014ZHAN01)|2236|[Longhorn Cube Day 2017](https://www.worldcubeassociation.org/competitions/LonghornCubeDay2017)|101361
 
+# 3x3x3 Fewest Moves
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02)|4067|[Clermont Open 2009](https://www.worldcubeassociation.org/competitions/ClermontOpen2009)|2363
+|[Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02)|4067|[Clermont Open 2009](https://www.worldcubeassociation.org/competitions/ClermontOpen2009)|
 |[Hong Zhang (张宏)](https://www.worldcubeassociation.org/persons/2008ZHAN13)|3567|[PKU Fewest Moves 2010](https://www.worldcubeassociation.org/competitions/PKUFMC2010)|2960
 |[Jibo Zhao (赵吉波)](https://www.worldcubeassociation.org/persons/2010ZHAO11)|3500|[Beijing Footsteps 2011](https://www.worldcubeassociation.org/competitions/BeijingFootsteps2011)|10225
 |[Mario Laurent](https://www.worldcubeassociation.org/persons/2008LAUR01)|3167|[Dolmen Open 2011](https://www.worldcubeassociation.org/competitions/DolmenOpen2011)|4533
@@ -116,9 +122,11 @@
 |[Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01)|2400|[Only FMC 2017](https://www.worldcubeassociation.org/competitions/OnlyFMC2017)|42939
 |[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|2400|[FMC Americas 2017](https://www.worldcubeassociation.org/competitions/FMCAmericas2017)|4506
 
+# 3x3x3 With Feet
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Will Arnold](https://www.worldcubeassociation.org/persons/2005ARNO01)|26510|[Caltech Spring competition 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005)|3
+|[Will Arnold](https://www.worldcubeassociation.org/persons/2005ARNO01)|26510|[Caltech Spring competition 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005)|
 |[Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01)|8814|[SveKub Annual Meeting competition 2006](https://www.worldcubeassociation.org/competitions/Svekub2006)|16
 |[Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01)|5496|[Helsinki Open 2007](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2007)|1032
 |[Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01)|5246|[Finnish Open 2007](https://www.worldcubeassociation.org/competitions/FinnishOpen2007)|1518
@@ -135,9 +143,11 @@
 |[Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01)|2816|[Mielec Cube Day 2016](https://www.worldcubeassociation.org/competitions/MielecCubeDay2016)|37313
 |[Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01)|2684|[Jeju Open 2017](https://www.worldcubeassociation.org/competitions/JejuOpen2017)|28965
 
+# 3x3x3 One-Handed
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|4778|[Caltech Spring competition 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004)|39
+|[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|4778|[Caltech Spring competition 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004)|
 |[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|3925|[Caltech Fall competition 2004](https://www.worldcubeassociation.org/competitions/CaltechFall2004)|46
 |[Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01)|3576|[Caltech Winter competition 2005](https://www.worldcubeassociation.org/competitions/CaltechWinter2005)|434
 |[Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01)|3159|[Caltech Spring competition 2005](https://www.worldcubeassociation.org/competitions/CaltechSpring2005)|53
@@ -177,9 +187,11 @@
 |[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|1021|[Malaysia Cube Open 2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017)|3045
 |[Max Park](https://www.worldcubeassociation.org/persons/2012PARK03)|999|[Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018)|80300
 
+# 4x4x4 Cube
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[David Wesley](https://www.worldcubeassociation.org/persons/2003WESL01)|9057|[World Rubik's Games Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003)|100
+|[David Wesley](https://www.worldcubeassociation.org/persons/2003WESL01)|9057|[World Rubik's Games Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003)|
 |[Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01)|7554|[US Nationals 2004](https://www.worldcubeassociation.org/competitions/US2004)|428
 |[Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01)|7503|[French Championship 2005](https://www.worldcubeassociation.org/competitions/France2005)|291
 |[Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01)|6497|[Kyoto Rubik's Cube contest 2005](https://www.worldcubeassociation.org/competitions/Kyoto2005)|324
@@ -220,9 +232,11 @@
 |[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|2303|[German Big Cube Open 2017](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2017)|18503
 |[Max Park](https://www.worldcubeassociation.org/persons/2012PARK03)|2255|[SacCubing III 2018](https://www.worldcubeassociation.org/competitions/SacCubingIII2018)|43617
 
+# 5x5x5 Cube
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Masayuki Akimoto (秋元正行)](https://www.worldcubeassociation.org/persons/2003AKIM01)|17045|[World Rubik's Games Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003)|0
+|[Masayuki Akimoto (秋元正行)](https://www.worldcubeassociation.org/persons/2003AKIM01)|17045|[World Rubik's Games Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003)|
 |[David Wesley](https://www.worldcubeassociation.org/persons/2003WESL01)|17068|[World Rubik's Games Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003)|55
 |[Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01)|15035|[European Rubik's Games Championship 2004](https://www.worldcubeassociation.org/competitions/Euro2004)|438
 |[Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01)|14499|[Dutch Open 2004](https://www.worldcubeassociation.org/competitions/DutchOpen2004)|176
@@ -265,9 +279,11 @@
 |[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|4564|[Malaysia Cube Open 2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017)|3303
 |[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|4321|[Melbourne Cube Days 2017](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2017)|7388
 
+# 6x6x6 Cube
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Claes Hedin](https://www.worldcubeassociation.org/persons/2009HEDI01)|24430|[Norrköping Open 2009](https://www.worldcubeassociation.org/competitions/NorrkopingOpen2009)|0
+|[Claes Hedin](https://www.worldcubeassociation.org/persons/2009HEDI01)|24430|[Norrköping Open 2009](https://www.worldcubeassociation.org/competitions/NorrkopingOpen2009)|
 |[Dan Cen](https://www.worldcubeassociation.org/persons/2007COHE01)|18140|[Newark Winter 2009](https://www.worldcubeassociation.org/competitions/NewarkWinter2009)|2517
 |[Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01)|15925|[Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009)|1394
 |[Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01)|15664|[Lublin Open 2009](https://www.worldcubeassociation.org/competitions/LublinOpen2009)|1140
@@ -295,9 +311,11 @@
 |[Max Park](https://www.worldcubeassociation.org/persons/2012PARK03)|8534|[Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018)|4800
 |[Max Park](https://www.worldcubeassociation.org/persons/2012PARK03)|8510|[SacCubing III 2018](https://www.worldcubeassociation.org/competitions/SacCubingIII2018)|2242
 
+# 7x7x7 Cube
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09)|29257|[Taiwan Winter Open 2009](https://www.worldcubeassociation.org/competitions/TaiwanWinterOpen2009)|46
+|[Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09)|29257|[Taiwan Winter Open 2009](https://www.worldcubeassociation.org/competitions/TaiwanWinterOpen2009)|
 |[Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01)|27126|[EPGY Stanford Winter 2009](https://www.worldcubeassociation.org/competitions/EPGYStanfordWinter2009)|3548
 |[Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01)|24199|[Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009)|73
 |[Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03)|24173|[Osaka Open 2009](https://www.worldcubeassociation.org/competitions/OsakaOpen2009)|686
@@ -334,9 +352,11 @@
 |[Max Park](https://www.worldcubeassociation.org/persons/2012PARK03)|13312|[Thanks Four The Invite 2018](https://www.worldcubeassociation.org/competitions/ThanksFourTheInvite2018)
 |[Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01)|12871|[CubingUSA Heartland Championship 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018)|47001
 
+# Clock
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|1161|[German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004)|308
+|[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|1161|[German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004)|
 |[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|1078|[European Rubik's Games Championship 2004](https://www.worldcubeassociation.org/competitions/Euro2004)|40
 |[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|974|[German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005)|354
 |[Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01)|883|[Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007)|369
@@ -359,30 +379,12 @@
 |[Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04)|522|[Quanzhou Side Event 2017](https://www.worldcubeassociation.org/competitions/QuanzhouSideEvent2017)|17313
 |[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|520|[CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017)|35545
 |[Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04)|495|[Shanghai Winter 2018](https://www.worldcubeassociation.org/competitions/ShanghaiWinter2018)|23592
-|magic|[Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01)|244|[German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004)|0
-|magic|[Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01)|292|[German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004)|54
-|magic|[Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01)|160|[European Rubik's Games Championship 2004](https://www.worldcubeassociation.org/competitions/Euro2004)|52
-|magic|[Josef Jelínek](https://www.worldcubeassociation.org/persons/2004JELI01)|152|[Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005)|609
-|magic|[Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01)|148|[Dutch Open 2005](https://www.worldcubeassociation.org/competitions/DutchOpen2005)|138
-|magic|[Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01)|146|[Rubik's World Championship 2005](https://www.worldcubeassociation.org/competitions/WC2005)|278
-|magic|[Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01)|140|[Trumbull Spring competition 2006](https://www.worldcubeassociation.org/competitions/Trumbull2006)
-|magic|[Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01)|140|[Czech Open 2006](https://www.worldcubeassociation.org/competitions/CzechOpen2006)|869
-|magic|[Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01)|134|[US Nationals 2006](https://www.worldcubeassociation.org/competitions/US2006)|124
-|magic|[Gilles van den Peereboom](https://www.worldcubeassociation.org/persons/2005PEER01)|133|[Dutch Open 2006](https://www.worldcubeassociation.org/competitions/DutchOpen2006)|135
-|magic|[Craig Bouchard](https://www.worldcubeassociation.org/persons/2005BOUC01)|115|[Rutgers Fall competition 2006](https://www.worldcubeassociation.org/competitions/RutgersFall2006)|3492
-|magic|[Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01)|96|[Belgian Open 2007](https://www.worldcubeassociation.org/competitions/BelgianOpen2007)|1853
-|magic|[Tang Yiu Chun (鄧耀俊)](https://www.worldcubeassociation.org/persons/2009CHUN07)|90|[Hong Kong Open 2009](https://www.worldcubeassociation.org/competitions/HongKongOpen2009)|0
-|magic|[Lee Chun Hin (李震軒)](https://www.worldcubeassociation.org/persons/2008HINL01)|93|[Hong Kong Open 2009](https://www.worldcubeassociation.org/competitions/HongKongOpen2009)|16591
-|magic|[Patrick Jameson](https://www.worldcubeassociation.org/persons/2007JAME01)|90|[MIT Fall 2009](https://www.worldcubeassociation.org/competitions/MITFall2009)|5411
-|magic|[Henrik Bui](https://www.worldcubeassociation.org/persons/2009BUIH02)|87|[Swedish Cube Day competition 2009](https://www.worldcubeassociation.org/competitions/SwedishCubeDay2009)|14506
-|magic|[Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13)|80|[Nanjing Spring Open 2010](https://www.worldcubeassociation.org/competitions/NanjingSpringOpen2010)|3495
-|magic|[Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13)|80|[Beijing No Cubes 2010](https://www.worldcubeassociation.org/competitions/BeijingNoCubes2010)|11570
-|magic|[Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13)|79|[Taiyuan 2011](https://www.worldcubeassociation.org/competitions/Taiyuan2011)|3355
-|magic|[Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13)|76|[Beijing Summer Open 2011](https://www.worldcubeassociation.org/competitions/BeijingSummer2011)|5568
+
+# Megaminx
 
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|9376|[German Open 2006](https://www.worldcubeassociation.org/competitions/GermanOpen2006)|1117
+|[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|9376|[German Open 2006](https://www.worldcubeassociation.org/competitions/GermanOpen2006)|
 |[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|8806|[Dutch Open 2006](https://www.worldcubeassociation.org/competitions/DutchOpen2006)|21
 |[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|7916|[World Rubik's Cube Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007)|354
 |[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|7886|[Dutch Open 2007](https://www.worldcubeassociation.org/competitions/DutchOpen2007)|1121
@@ -403,20 +405,12 @@
 |[Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01)|3725|[Busan Winter 2016](https://www.worldcubeassociation.org/competitions/BusanWinter2016)|16756
 |[Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30)|3515|[Latin America Cubing Tour - Santiago 2017](https://www.worldcubeassociation.org/competitions/LatAmTourSantiago2017)|3216
 |[Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01)|3203|[CWR Winter 2018](https://www.worldcubeassociation.org/competitions/CWRWinter2018)|15503
-|mmagic|[Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01)|354|[Caltech Dallas Summer competition 2005](https://www.worldcubeassociation.org/competitions/CaltechDallas2005)|40
-|mmagic|[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|336|[Dutch Open 2005](https://www.worldcubeassociation.org/competitions/DutchOpen2005)|35
-|mmagic|[Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01)|321|[Belgian Open 2006](https://www.worldcubeassociation.org/competitions/BelgianOpen2006)|988
-|mmagic|[Craig Bouchard](https://www.worldcubeassociation.org/persons/2005BOUC01)|315|[Rutgers Fall competition 2006](https://www.worldcubeassociation.org/competitions/RutgersFall2006)|89
-|mmagic|[Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01)|227|[Belgian Open 2007](https://www.worldcubeassociation.org/competitions/BelgianOpen2007)|122
-|mmagic|[Máté Horváth](https://www.worldcubeassociation.org/persons/2007HORV01)|215|[German Open 2007](https://www.worldcubeassociation.org/competitions/GermanOpen2007)|1880
-|mmagic|[Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01)|209|[Swedish Open 2007](https://www.worldcubeassociation.org/competitions/SwedishOpen2007)|2237
-|mmagic|[Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01)|196|[Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007)|218
-|mmagic|[Máté Horváth](https://www.worldcubeassociation.org/persons/2007HORV01)|195|[European Championship 2008](https://www.worldcubeassociation.org/competitions/Euro2008)|2548
-|mmagic|[Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01)|175|[United States National Championships 2011](https://www.worldcubeassociation.org/competitions/USNationals2011)|1299
+
+# Pyraminx
 
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|1655|[SveKub Annual Meeting competition 2005](https://www.worldcubeassociation.org/competitions/Svekub2005)|109
+|[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|1655|[SveKub Annual Meeting competition 2005](https://www.worldcubeassociation.org/competitions/Svekub2005)|
 |[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|1481|[Swedish Open 2005](https://www.worldcubeassociation.org/competitions/SwedishOpen2005)|570
 |[Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01)|1122|[Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005)|29
 |[Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01)|846|[Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006)|899
@@ -446,9 +440,11 @@
 |[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|204|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017)|4437
 |[Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02)|202|[GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017)|78981
 
+# Skewb
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Abhishek Sathyanarayanan](https://www.worldcubeassociation.org/persons/2012SATH01)|1370|[Telesis Open 2014](https://www.worldcubeassociation.org/competitions/TelesisOpen2014)|37256
+|[Abhishek Sathyanarayanan](https://www.worldcubeassociation.org/persons/2012SATH01)|1370|[Telesis Open 2014](https://www.worldcubeassociation.org/competitions/TelesisOpen2014)|
 |[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|816|[Houston Winter Open 2014](https://www.worldcubeassociation.org/competitions/HoustonWinterOpen2014)|11097
 |[Jn Brechon](https://www.worldcubeassociation.org/persons/2010BREC01)|746|[Blizzard Town 2014](https://www.worldcubeassociation.org/competitions/BlizzardTown2014)|6339
 |[Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01)|734|[Milan Winter Open 2014](https://www.worldcubeassociation.org/competitions/MilanWinterOpen2014)|3285
@@ -471,9 +467,11 @@
 |[Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01)|251|[Speed Days Kielce 2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKielce2017)|7202
 |[Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01)|203|[CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017)|7253
 
+# Square-1
+
 |Person|Average|Competition|Days Since Last Record|
 |--|--|--|--|
-|[Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01)|3321|[Dutch Open 2004](https://www.worldcubeassociation.org/competitions/DutchOpen2004)|74
+|[Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01)|3321|[Dutch Open 2004](https://www.worldcubeassociation.org/competitions/DutchOpen2004)|
 |[Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01)|3201|[German Open 2006](https://www.worldcubeassociation.org/competitions/GermanOpen2006)|54
 |[Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01)|3185|[European Rubik's Cube Championship 2006](https://www.worldcubeassociation.org/competitions/Euro2006)|374
 |[Michael Fung](https://www.worldcubeassociation.org/persons/2005FUNG01)|2814|[Dutch Open 2006](https://www.worldcubeassociation.org/competitions/DutchOpen2006)|96
