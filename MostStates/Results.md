@@ -2,7 +2,6 @@
 
 |States|Person|Total Comps|List
 |--|--|--|--|
-
 |23|[Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01)|99| Arizona (3), California (5), Colorado (1), Connecticut (1), Florida (1), Georgia (2), Illinois (1), Indiana (3), Massachusetts (3), Michigan (4), Minnesota (1), Nebraska (1), Nevada (2), New Jersey (1), New Mexico (1), New York (1), Ohio (4), Oklahoma (4), Oregon (4), South Carolina (1), Texas (29), Utah (1), Washington (1)
 |23|[Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01)|109| California (4), Florida (1), Georgia (1), Idaho (3), Illinois (4), Indiana (7), Iowa (1), Kansas (1), Massachusetts (1), Michigan (19), Minnesota (2), Nebraska (1), Nevada (4), New Jersey (1), New York (1), Ohio (6), Oregon (18), Pennsylvania (3), South Carolina (1), Utah (2), Virginia (1), Washington (9), Wisconsin (1)
 |22|[Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19)|92| California (4), Connecticut (7), Illinois (1), Indiana (1), Iowa (1), Maryland (3), Massachusetts (22), Michigan (1), Minnesota (2), Missouri (1), Nebraska (1), Nevada (1), New Hampshire (1), New Jersey (19), New York (11), Ohio (3), Oregon (2), Pennsylvania (2), South Carolina (1), Texas (6), Virginia (1), Washington (1)
