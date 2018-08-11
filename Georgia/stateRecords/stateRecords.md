@@ -1,6 +1,6 @@
 |Event|Type|Person|Time|Competition|WR|CR|NR
 |--|--|--|--|--|--|--|--|
-|3x3x3 Cube|Single|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|523|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|**28**|12|**10**
+|<span style="color:blue">3x3x3 Cube</span>|Single|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|523|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|**28**|12|**10**
 |3x3x3 Cube|Average|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|728|[GA Cubers Summer Blast 2018](https://www.worldcubeassociation.org/competitions/GACubersSummerBlast2018)|**41**|18|15
 |2x2x2 Cube|Single|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|91|[GA Cubers Summer Blast 2018](https://www.worldcubeassociation.org/competitions/GACubersSummerBlast2018)|**88**|25|13
 |2x2x2 Cube|Average|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|169|[Classic City Spooks 2017](https://www.worldcubeassociation.org/competitions/ClassicCitySpooks2017)|**27**|**10**|**10**
