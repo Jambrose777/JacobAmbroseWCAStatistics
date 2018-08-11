@@ -1,6 +1,5 @@
 |Event|Type|Person|Time|Competition|WR|CR|NR
 |--|--|--|--|--|--|--|--|
-
 |3x3x3 Cube|Single|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|5.23|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|**28**|12|**10**
 |3x3x3 Cube|Average|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|7.28|[GA Cubers Summer Blast 2018](https://www.worldcubeassociation.org/competitions/GACubersSummerBlast2018)|**41**|18|15
 |2x2x2 Cube|Single|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|0.91|[GA Cubers Summer Blast 2018](https://www.worldcubeassociation.org/competitions/GACubersSummerBlast2018)|**88**|25|13
