@@ -1,0 +1,999 @@
+[
+  {
+    "id": "333",
+    "first": [
+      {
+        "person": "Luke Garrett",
+        "result": "7.21"
+      }
+    ],
+    "second": [
+      {
+        "person": "Zeke Mackay",
+        "result": "7.40"
+      }
+    ],
+    "third": [
+      {
+        "person": "Stanley Chapel",
+        "result": "8.05"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "8.05"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "9.30"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "8.05"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "8.60"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "222",
+    "first": [
+      {
+        "person": "Carter Kucala",
+        "result": "1.82"
+      }
+    ],
+    "second": [
+      {
+        "person": "Luke Garrett",
+        "result": "2.16"
+      }
+    ],
+    "third": [
+      {
+        "person": "Peter Weyers",
+        "result": "2.48"
+      }
+    ],
+    "Southeast": {
+      "person": "Justin Barker",
+      "result": "2.64"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "4.18"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "DNF"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "2.64"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "444",
+    "first": [
+      {
+        "person": "Luke Garrett",
+        "result": "28.62"
+      }
+    ],
+    "second": [
+      {
+        "person": "Vishwa Sankar",
+        "result": "31.15"
+      }
+    ],
+    "third": [
+      {
+        "person": "Peter Weyers",
+        "result": "31.89"
+      }
+    ],
+    "Southeast": {
+      "person": "Vishwa Sankar",
+      "result": "31.15"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "31.15"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "32.30"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "40.50"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "555",
+    "first": [
+      {
+        "person": "Peter Weyers",
+        "result": "53.83"
+      }
+    ],
+    "second": [
+      {
+        "person": "Jacob Nokes",
+        "result": "53.84"
+      }
+    ],
+    "third": [
+      {
+        "person": "Carter Bitz",
+        "result": "56.24"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "1:62.79"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "1:64.50"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "1:62.79"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "1:90.79"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "666",
+    "first": [
+      {
+        "person": "Jacob Nokes",
+        "result": "1:100.63"
+      }
+    ],
+    "second": [
+      {
+        "person": "Peter Weyers",
+        "result": "1:102.67"
+      }
+    ],
+    "third": [
+      {
+        "person": "Kate Grahame",
+        "result": "1:106.58"
+      }
+    ],
+    "Southeast": {
+      "person": "Vishwa Sankar",
+      "result": "1:111.43"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "1:111.43"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "1:118.49"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "3:182.67"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "777",
+    "first": [
+      {
+        "person": "Kate Grahame",
+        "result": "2:159.03"
+      }
+    ],
+    "second": [
+      {
+        "person": "Jacob Nokes",
+        "result": "2:162.94"
+      }
+    ],
+    "third": [
+      {
+        "person": "Carter Bitz",
+        "result": "2:165.83"
+      }
+    ],
+    "Southeast": {
+      "person": "Vishwa Sankar",
+      "result": "2:178.40"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "2:178.40"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "3:182.95"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "0.00"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "333bf",
+    "first": [
+      {
+        "person": "Stanley Chapel",
+        "result": "22.45"
+      }
+    ],
+    "second": [
+      {
+        "person": "Adel Mosallami",
+        "result": "25.70"
+      }
+    ],
+    "third": [
+      {
+        "person": "Mark Boyanowski",
+        "result": "28.43"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "22.45"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "DNF"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "22.45"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "5:307.85"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "333fm",
+    "first": [
+      {
+        "person": "Cale Schoon",
+        "result": "22.33"
+      }
+    ],
+    "second": [
+      {
+        "person": "James Quinn",
+        "result": "24.33"
+      }
+    ],
+    "third": [
+      {
+        "person": "Walker Welch",
+        "result": "26.00"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "27.67"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "DNF"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "27.67"
+    },
+    "South Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "333oh",
+    "first": [
+      {
+        "person": "Luke Garrett",
+        "result": "9.77"
+      }
+    ],
+    "second": [
+      {
+        "person": "Carter Kucala",
+        "result": "11.94"
+      }
+    ],
+    "third": [
+      {
+        "person": "Stanley Chapel",
+        "result": "13.71"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "13.71"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "17.04"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "13.71"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "21.62"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "clock",
+    "first": [
+      {
+        "person": "Vishwa Sankar",
+        "result": "5.64"
+      }
+    ],
+    "second": [
+      {
+        "person": "Carter Thomas",
+        "result": "5.71"
+      }
+    ],
+    "third": [
+      {
+        "person": "Jake Buckley",
+        "result": "6.07"
+      }
+    ],
+    "Southeast": {
+      "person": "Vishwa Sankar",
+      "result": "5.64"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "5.64"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "DNF"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "16.18"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "minx",
+    "first": [
+      {
+        "person": "Stanley Chapel",
+        "result": "44.78"
+      }
+    ],
+    "second": [
+      {
+        "person": "Luke Garrett",
+        "result": "44.85"
+      }
+    ],
+    "third": [
+      {
+        "person": "Vishwa Sankar",
+        "result": "46.67"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "44.78"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "46.67"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "44.78"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "0.00"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "pyram",
+    "first": [
+      {
+        "person": "Harsha Paladugu",
+        "result": "2.28"
+      }
+    ],
+    "second": [
+      {
+        "person": "Simon Kellum",
+        "result": "3.20"
+      }
+    ],
+    "third": [
+      {
+        "person": "Carter Kucala",
+        "result": "3.40"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "3.92"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "5.96"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "3.92"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "7.47"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "skewb",
+    "first": [
+      {
+        "person": "Carter Kucala",
+        "result": "2.37"
+      }
+    ],
+    "second": [
+      {
+        "person": "Simon Kellum",
+        "result": "2.63"
+      }
+    ],
+    "third": [
+      {
+        "person": "Cale Schoon",
+        "result": "3.38"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "3.98"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "6.83"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "3.98"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "18.25"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "sq1",
+    "first": [
+      {
+        "person": "Ian Southa",
+        "result": "6.94"
+      }
+    ],
+    "second": [
+      {
+        "person": "Stanley Chapel",
+        "result": "9.41"
+      }
+    ],
+    "third": [
+      {
+        "person": "Zeke Mackay",
+        "result": "11.30"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "9.41"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "15.79"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "9.41"
+    },
+    "South Carolina": {
+      "person": "Justin Barker",
+      "result": "30.49"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "444bf",
+    "first": [
+      {
+        "person": "Cale Schoon",
+        "result": "2:137.59"
+      }
+    ],
+    "second": [
+      {
+        "person": "Mark Boyanowski",
+        "result": "4:272.47"
+      }
+    ],
+    "third": [
+      {
+        "person": "Thomas Reinke",
+        "result": "6:360.51"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "DNF"
+    },
+    "Georgia": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "DNF"
+    },
+    "South Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "555bf",
+    "first": [
+      {
+        "person": "Cale Schoon",
+        "result": "5:325.10"
+      }
+    ],
+    "second": [
+      {
+        "person": "Thomas Reinke",
+        "result": "13:818.00"
+      }
+    ],
+    "third": [
+      {
+        "person": "Stanley Chapel",
+        "result": "DNF"
+      },
+      {
+        "person": "James Quinn",
+        "result": "DNF"
+      },
+      {
+        "person": "Walker Welch",
+        "result": "DNF"
+      },
+      {
+        "person": "Mark Boyanowski",
+        "result": "DNF"
+      },
+      {
+        "person": "Carter Kucala",
+        "result": "DNF"
+      },
+      {
+        "person": "Zeke Mackay",
+        "result": "DNF"
+      },
+      {
+        "person": "Kate Grahame",
+        "result": "DNF"
+      },
+      {
+        "person": "Jacob Turrubiartes",
+        "result": "DNF"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "DNF"
+    },
+    "Georgia": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "DNF"
+    },
+    "South Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  },
+  {
+    "id": "333mbf",
+    "first": [
+      {
+        "person": "Mark Boyanowski",
+        "result": "95058:5703509.02"
+      }
+    ],
+    "second": [
+      {
+        "person": "Stanley Chapel",
+        "result": "115053:6903198.09"
+      }
+    ],
+    "third": [
+      {
+        "person": "Cale Schoon",
+        "result": "126724:7603498.05"
+      }
+    ],
+    "Southeast": {
+      "person": "Stanley Chapel",
+      "result": "115053:6903198.09"
+    },
+    "Georgia": {
+      "person": "Vishwa Sankar",
+      "result": "DNF"
+    },
+    "Alabama": {
+      "person": "Stanley Chapel",
+      "result": "115053:6903198.09"
+    },
+    "South Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "North Carolina": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Florida": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Tennessee": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "Puerto Rico": {
+      "person": "None",
+      "result": "DNF"
+    },
+    "United States Virgin Islands": {
+      "person": "None",
+      "result": "DNF"
+    }
+  }
+]
