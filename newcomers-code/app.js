@@ -1,8 +1,8 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const competitionId = 'WyomingSummer2022';
-const Authorization = '';
+const competitionId = 'GaCubersPride2022';
+const Authorization = 'Bearer 5Rk-UMkiXYzMphNUikWwna9XdpjHAFv7Tcg_RFsYeVk';
 
 const getLiveResults = async () => {
   try {
