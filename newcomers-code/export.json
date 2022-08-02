@@ -1,207 +1,422 @@
 [
   {
-    "name": "Caleb Chen",
-    "result": "8.74",
+    "name": "Eli Smith",
+    "result": "12.22",
     "round": "333-r2"
   },
   {
-    "name": "David Ikekhuah",
-    "result": "10.01",
+    "name": "Sulaiman Mohyuddin",
+    "result": "12.39",
     "round": "333-r2"
   },
   {
-    "name": "George Maxwell Leach",
-    "result": "12.15",
+    "name": "Jacob Sherwood",
+    "result": "12.94",
     "round": "333-r2"
   },
   {
-    "name": "Kavin Rajendran",
-    "result": "14.80",
+    "name": "Bryce McCarter",
+    "result": "13.97",
     "round": "333-r2"
   },
   {
-    "name": "James Hatch",
-    "result": "14.96",
+    "name": "Nicolas Stan",
+    "result": "14.35",
     "round": "333-r2"
   },
   {
-    "name": "Aiden Solomon",
-    "result": "15.14",
+    "name": "Jonathan Coleman",
+    "result": "14.65",
     "round": "333-r2"
   },
   {
-    "name": "Tristan Thompson",
-    "result": "16.61",
+    "name": "Mikael Kuada",
+    "result": "16.27",
     "round": "333-r2"
   },
   {
-    "name": "Matthew Lukaszewski",
-    "result": "17.56",
+    "name": "Zion Causey",
+    "result": "16.64",
     "round": "333-r2"
   },
   {
-    "name": "Andrew Lister",
-    "result": "18.15",
+    "name": "Jonathan Michadick",
+    "result": "17.57",
     "round": "333-r2"
   },
   {
-    "name": "James Shay Kelly",
-    "result": "18.16",
-    "round": "333-r2"
-  },
-  {
-    "name": "Hugo Pankoff",
-    "result": "18.35",
-    "round": "333-r2"
-  },
-  {
-    "name": "Ethan Manuel Hamby",
-    "result": "18.41",
-    "round": "333-r2"
-  },
-  {
-    "name": "Zach Alves",
-    "result": "19.57",
-    "round": "333-r2"
-  },
-  {
-    "name": "Uday Sai Varma Sarikonda",
-    "result": "19.88",
-    "round": "333-r2"
-  },
-  {
-    "name": "Nithil Ponraj",
-    "result": "20.55",
-    "round": "333-r2"
-  },
-  {
-    "name": "Ethan Norman Greenberg",
-    "result": "20.57",
-    "round": "333-r2"
-  },
-  {
-    "name": "Tyler Clotfelter",
-    "result": "22.85",
-    "round": "333-r2"
-  },
-  {
-    "name": "Maddie Jessen",
-    "result": "23.02",
-    "round": "333-r2"
-  },
-  {
-    "name": "Henry Schueneman",
-    "result": "23.20",
-    "round": "333-r2"
-  },
-  {
-    "name": "Elijah Doane",
-    "result": "24.85",
-    "round": "333-r2"
-  },
-  {
-    "name": "Davis Paul Prevatte",
-    "result": "26.05",
-    "round": "333-r2"
-  },
-  {
-    "name": "Samuel Pena",
-    "result": "26.42",
-    "round": "333-r2"
-  },
-  {
-    "name": "Owen Allen",
-    "result": "26.70",
-    "round": "333-r2"
-  },
-  {
-    "name": "Cameron Michael Porter",
-    "result": "29.85",
+    "name": "Paul Fagans",
+    "result": "17.89",
     "round": "333-r1"
   },
   {
-    "name": "John Buie",
-    "result": "29.97",
+    "name": "Jacob Colgan",
+    "result": "17.90",
     "round": "333-r1"
   },
   {
-    "name": "Izaac Stich",
-    "result": "30.29",
+    "name": "Bryan Xu",
+    "result": "18.67",
     "round": "333-r1"
   },
   {
-    "name": "Maddox Danger Grimsley",
-    "result": "32.13",
+    "name": "Benjamin Pareja-Hooker",
+    "result": "18.87",
     "round": "333-r1"
   },
   {
-    "name": "Devin Julien",
-    "result": "32.91",
+    "name": "Joshua Miller",
+    "result": "18.92",
     "round": "333-r1"
   },
   {
-    "name": "Asher Doane",
-    "result": "33.99",
+    "name": "Logan Weaver",
+    "result": "19.67",
     "round": "333-r1"
   },
   {
-    "name": "Xavy Joel Lanas Perez",
-    "result": "34.60",
+    "name": "Chase Ambrose Yow",
+    "result": "19.92",
     "round": "333-r1"
   },
   {
-    "name": "Landon Solomon",
-    "result": "37.21",
+    "name": "Ryan Buretz",
+    "result": "20.37",
     "round": "333-r1"
   },
   {
-    "name": "Asher Ebie",
-    "result": "39.32",
+    "name": "Joshua Christian Tsavaris",
+    "result": "20.40",
     "round": "333-r1"
   },
   {
-    "name": "Christopher Stamatelatos",
-    "result": "41.16",
+    "name": "Cody Alexander White",
+    "result": "20.56",
     "round": "333-r1"
   },
   {
-    "name": "Noah Jacobsen",
-    "result": "43.37",
+    "name": "Alaska Whitehead",
+    "result": "20.73",
     "round": "333-r1"
   },
   {
-    "name": "Kitkat Johnson",
-    "result": "44.77",
+    "name": "Moses Robert McKinney",
+    "result": "21.08",
     "round": "333-r1"
   },
   {
-    "name": "Jval Joshipura",
-    "result": "46.58",
+    "name": "Jalen Burke",
+    "result": "21.19",
     "round": "333-r1"
   },
   {
-    "name": "Jared Alejandro Alvarez",
-    "result": "47.54",
+    "name": "Jefferson Zenk",
+    "result": "21.27",
     "round": "333-r1"
   },
   {
-    "name": "Aidan Ries",
-    "result": "51.92",
+    "name": "Easan Peacock",
+    "result": "21.55",
     "round": "333-r1"
   },
   {
-    "name": "Elizabeth Holly Shuman",
-    "result": "55.67",
+    "name": "JJ Pflum",
+    "result": "21.56",
     "round": "333-r1"
   },
   {
-    "name": "Leo Gewirtzman",
-    "result": "1:112.00",
+    "name": "A.J. Slagell",
+    "result": "21.86",
     "round": "333-r1"
   },
   {
-    "name": "Brian Ebie",
-    "result": "DNF",
+    "name": "Hannah Rodriguez",
+    "result": "21.90",
+    "round": "333-r1"
+  },
+  {
+    "name": "Ryan Torabi Sereshki",
+    "result": "22.51",
+    "round": "333-r1"
+  },
+  {
+    "name": "William Linker",
+    "result": "22.72",
+    "round": "333-r1"
+  },
+  {
+    "name": "Michael Gibbs",
+    "result": "22.84",
+    "round": "333-r1"
+  },
+  {
+    "name": "David Hicks",
+    "result": "23.47",
+    "round": "333-r1"
+  },
+  {
+    "name": "Annye Bennett",
+    "result": "23.53",
+    "round": "333-r1"
+  },
+  {
+    "name": "Collin Armstrong",
+    "result": "23.84",
+    "round": "333-r1"
+  },
+  {
+    "name": "Soham Dhavalikar",
+    "result": "24.27",
+    "round": "333-r1"
+  },
+  {
+    "name": "Dante Dieguez",
+    "result": "24.49",
+    "round": "333-r1"
+  },
+  {
+    "name": "John R. Winter",
+    "result": "24.54",
+    "round": "333-r1"
+  },
+  {
+    "name": "Liam Hoff",
+    "result": "24.62",
+    "round": "333-r1"
+  },
+  {
+    "name": "William Patrick Martinez",
+    "result": "24.67",
+    "round": "333-r1"
+  },
+  {
+    "name": "Amichai Gassmann",
+    "result": "25.66",
+    "round": "333-r1"
+  },
+  {
+    "name": "Sebastian Young",
+    "result": "25.82",
+    "round": "333-r1"
+  },
+  {
+    "name": "Lars Trinks",
+    "result": "26.33",
+    "round": "333-r1"
+  },
+  {
+    "name": "John Robert Riddell",
+    "result": "26.35",
+    "round": "333-r1"
+  },
+  {
+    "name": "Ben Ticola",
+    "result": "27.12",
+    "round": "333-r1"
+  },
+  {
+    "name": "Kasen Clary",
+    "result": "27.82",
+    "round": "333-r1"
+  },
+  {
+    "name": "Spencer Price",
+    "result": "27.88",
+    "round": "333-r1"
+  },
+  {
+    "name": "Will Sampson",
+    "result": "27.98",
+    "round": "333-r1"
+  },
+  {
+    "name": "Samuel Taylor",
+    "result": "28.40",
+    "round": "333-r1"
+  },
+  {
+    "name": "David Charles Thomas",
+    "result": "28.71",
+    "round": "333-r1"
+  },
+  {
+    "name": "Jeremy Ou",
+    "result": "28.92",
+    "round": "333-r1"
+  },
+  {
+    "name": "Jackson James Mills",
+    "result": "28.93",
+    "round": "333-r1"
+  },
+  {
+    "name": "David Lee Rose",
+    "result": "29.16",
+    "round": "333-r1"
+  },
+  {
+    "name": "Lucas Liliac",
+    "result": "29.41",
+    "round": "333-r1"
+  },
+  {
+    "name": "Samuel Bailey",
+    "result": "29.42",
+    "round": "333-r1"
+  },
+  {
+    "name": "Jonathan Lee",
+    "result": "29.50",
+    "round": "333-r1"
+  },
+  {
+    "name": "Cade Williams",
+    "result": "30.31",
+    "round": "333-r1"
+  },
+  {
+    "name": "Alexis Medina",
+    "result": "30.64",
+    "round": "333-r1"
+  },
+  {
+    "name": "Reed Morrison",
+    "result": "32.21",
+    "round": "333-r1"
+  },
+  {
+    "name": "Mathias Bohn",
+    "result": "32.29",
+    "round": "333-r1"
+  },
+  {
+    "name": "Connor Poto",
+    "result": "33.05",
+    "round": "333-r1"
+  },
+  {
+    "name": "Logan Husebo",
+    "result": "33.06",
+    "round": "333-r1"
+  },
+  {
+    "name": "Chase Donohoo",
+    "result": "33.20",
+    "round": "333-r1"
+  },
+  {
+    "name": "Memphis McCullough",
+    "result": "33.28",
+    "round": "333-r1"
+  },
+  {
+    "name": "Jason Yang",
+    "result": "36.09",
+    "round": "333-r1"
+  },
+  {
+    "name": "Michael Cuteri",
+    "result": "36.30",
+    "round": "333-r1"
+  },
+  {
+    "name": "Jackson T. Mattoni",
+    "result": "36.35",
+    "round": "333-r1"
+  },
+  {
+    "name": "Logan Ramsey",
+    "result": "37.76",
+    "round": "333-r1"
+  },
+  {
+    "name": "Bryce Porras",
+    "result": "38.01",
+    "round": "333-r1"
+  },
+  {
+    "name": "Ethan William Cox",
+    "result": "38.01",
+    "round": "333-r1"
+  },
+  {
+    "name": "Mason Lindley",
+    "result": "38.12",
+    "round": "333-r1"
+  },
+  {
+    "name": "Jace Steadham",
+    "result": "38.53",
+    "round": "333-r1"
+  },
+  {
+    "name": "Riley Taubel",
+    "result": "38.60",
+    "round": "333-r1"
+  },
+  {
+    "name": "Drew Rosenthal",
+    "result": "41.13",
+    "round": "333-r1"
+  },
+  {
+    "name": "Cameron Maynard",
+    "result": "42.87",
+    "round": "333-r1"
+  },
+  {
+    "name": "Jonathan Tran",
+    "result": "42.89",
+    "round": "333-r1"
+  },
+  {
+    "name": "Sreehari Pillai",
+    "result": "43.69",
+    "round": "333-r1"
+  },
+  {
+    "name": "Elijah Gilbert",
+    "result": "45.32",
+    "round": "333-r1"
+  },
+  {
+    "name": "Timothy Mckinnell",
+    "result": "48.28",
+    "round": "333-r1"
+  },
+  {
+    "name": "Winston Lee Ward",
+    "result": "49.72",
+    "round": "333-r1"
+  },
+  {
+    "name": "Connor McCarthy",
+    "result": "50.00",
+    "round": "333-r1"
+  },
+  {
+    "name": "Sawyer Simpson",
+    "result": "50.65",
+    "round": "333-r1"
+  },
+  {
+    "name": "Collins Davidson",
+    "result": "51.80",
+    "round": "333-r1"
+  },
+  {
+    "name": "Amelia Young",
+    "result": "55.92",
+    "round": "333-r1"
+  },
+  {
+    "name": "Peyton Edwards",
+    "result": "56.93",
+    "round": "333-r1"
+  },
+  {
+    "name": "Joshua Bivens",
+    "result": "1:68.44",
     "round": "333-r1"
   }
 ]

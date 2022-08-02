@@ -2,27 +2,27 @@ const axios = require('axios');
 const fs = require('fs');
 const stateMap = require('./StateMap.json')
 
-const competitionId = 'HeartlandChampionship2022';
+const competitionId = 'SoutheastChampionship2022';
 const Authorization = '';
 
 const EVENTS = [
-  {id: '333', resultType: 'average'},
-  {id: '222', resultType: 'average'},
-  {id: '444', resultType: 'average'},
-  {id: '555', resultType: 'average'},
-  {id: '666', resultType: 'average'},
-  {id: '777', resultType: 'average'},
-  {id: '333bf', resultType: 'best'},
-  {id: '333fm', resultType: 'average'},
-  {id: '333oh', resultType: 'average'},
-  {id: 'clock', resultType: 'average'},
-  {id: 'minx', resultType: 'average'},
-  {id: 'pyram', resultType: 'average'},
-  {id: 'skewb', resultType: 'average'},
-  {id: 'sq1', resultType: 'average'},
-  {id: '444bf', resultType: 'best'},
-  {id: '555bf', resultType: 'best'},
-  {id: '333mbf', resultType: 'best'}
+  {id: '333', resultType: 'average', wr: 1816},
+  {id: '222', resultType: 'average', wr: 421},
+  {id: '444', resultType: 'average', wr: 6775},
+  {id: '555', resultType: 'average', wr: 13194},
+  {id: '666', resultType: 'average', wr: 25415},
+  {id: '777', resultType: 'average', wr: 37313},
+  {id: '333bf', resultType: 'best', wr: 4858},
+  {id: '333fm', resultType: 'average', wr: 6867},
+  {id: '333oh', resultType: 'average', wr: 3080 },
+  {id: 'clock', resultType: 'average', wr: 1397},
+  {id: 'minx', resultType: 'average', wr: 10053},
+  {id: 'pyram', resultType: 'average', wr: 599},
+  {id: 'skewb', resultType: 'average', wr: 675},
+  {id: 'sq1', resultType: 'average', wr: 1749},
+  {id: '444bf', resultType: 'best', wr: 0},
+  {id: '555bf', resultType: 'best', wr: 0},
+  {id: '333mbf', resultType: 'best', wr: 0}
 ];
 
 const STATES = [
@@ -46,6 +46,7 @@ const convertTime = (milliseconds) => {
   if (milliseconds === -1) return "DNF";                  
   var seconds = Math.floor((milliseconds) / 100);
   var minutes = Math.floor((seconds) / 60);
+  seconds = seconds % 60;
   var milliseconds = milliseconds % 100;                                       
   return (!!minutes ? `${minutes}:` : "") + `${seconds}.${milliseconds.toString().padStart(2, '0')}`                                        
 }      
@@ -63,9 +64,9 @@ const calculateChampions = async () => {
 
       // Top 3
       let finalRound = event.rounds[event.rounds.length-1];
-      eventResponse.first = finalRound.results.filter(r => r.ranking === 1).map(r => ({person: persons.find(p => p.registrantId === r.personId).name, result: convertTime(r[EVENTS.find(e => e.id === event.id).resultType])}))[0];
-      eventResponse.second = finalRound.results.filter(r => r.ranking === 2).map(r => ({person: persons.find(p => p.registrantId === r.personId).name, result: convertTime(r[EVENTS.find(e => e.id === event.id).resultType])}))[0];
-      eventResponse.third = finalRound.results.filter(r => r.ranking === 3).map(r => ({person: persons.find(p => p.registrantId === r.personId).name, result: convertTime(r[EVENTS.find(e => e.id === event.id).resultType])}))[0];
+      eventResponse.first = finalRound.results.filter(r => r.ranking === 1).map(r => ({person: persons.find(p => p.registrantId === r.personId).name, result: convertTime(r[EVENTS.find(e => e.id === event.id).resultType]), resultOriginal: r[EVENTS.find(e => e.id === event.id).resultType]}))[0];
+      eventResponse.second = finalRound.results.filter(r => r.ranking === 2).map(r => ({person: persons.find(p => p.registrantId === r.personId).name, result: convertTime(r[EVENTS.find(e => e.id === event.id).resultType]), resultOriginal: r[EVENTS.find(e => e.id === event.id).resultType]}))[0];
+      eventResponse.third = finalRound.results.filter(r => r.ranking === 3).map(r => ({person: persons.find(p => p.registrantId === r.personId).name, result: convertTime(r[EVENTS.find(e => e.id === event.id).resultType]), resultOriginal: r[EVENTS.find(e => e.id === event.id).resultType]}))[0];
       
       event.rounds.slice().reverse().forEach(r => {
         r.results.forEach(result => {
@@ -152,22 +153,26 @@ const calculateChampions = async () => {
 
     let responseString = '';
     response.forEach(e => {
-      responseString += e.id + '  - 1st Place - ' + e.first.person + ' - ' + e.first.result + '\n';
-      responseString += e.id + '  - 2nd Place - ' + e.second.person + ' - ' + e.second.result + '\n';
-      responseString += e.id + '  - 3rd Place - ' + e.third.person + ' - ' + e.third.result + '\n';
-      responseString += e.id + '  - Southeast Champion - ' + e.Southeast.person + ' - ' + e.Southeast.result + '\n';
-      responseString += e.id + '  - Georgia Champion - ' + e.Georgia.person + ' - ' + e.Georgia.result + '\n';
-      responseString += e.id + '  - Alabama Champion - ' + e.Alabama.person + ' - ' + e.Alabama.result + '\n';
-      responseString += e.id + '  - South Carolina Champion - ' + e['South Carolina'].person + ' - ' + e['South Carolina'].result + '\n';
-      responseString += e.id + '  - North Carolina Champion - ' + e['North Carolina'].person + ' - ' + e['North Carolina'].result + '\n';
-      responseString += e.id + '  - Florida Champion - ' + e.Florida.person + ' - ' + e.Florida.result + '\n';
-      responseString += e.id + '  - Tennessee Champion - ' + e.Tennessee.person + ' - ' + e.Tennessee.result + '\n';
+      responseString += e.id + '\n';
+      if (e?.first?.resultOriginal + e?.second?.resultOriginal + e?.third?.resultOriginal <= EVENTS.find(ev => ev.id === e.id).wr) {
+        responseString += e.id + ' WR Podium\n';
+      }
+      responseString += e.id + '  - 1st Place - ' + e.first?.person + ' - ' + e.first?.result + '\n';
+      responseString += e.id + '  - 2nd Place - ' + e.second?.person + ' - ' + e.second?.result + '\n';
+      responseString += e.id + '  - 3rd Place - ' + e.third?.person + ' - ' + e.third?.result + '\n';
+      responseString += e.id + '  - Southeast Champion - ' + e.Southeast?.person + ' - ' + e.Southeast?.result + '\n';
+      responseString += e.id + '  - Georgia Champion - ' + e.Georgia?.person + ' - ' + e.Georgia?.result + '\n';
+      responseString += e.id + '  - Alabama Champion - ' + e.Alabama?.person + ' - ' + e.Alabama?.result + '\n';
+      responseString += e.id + '  - South Carolina Champion - ' + e['South Carolina']?.person + ' - ' + e['South Carolina']?.result + '\n';
+      responseString += e.id + '  - North Carolina Champion - ' + e['North Carolina']?.person + ' - ' + e['North Carolina']?.result + '\n';
+      responseString += e.id + '  - Florida Champion - ' + e.Florida?.person + ' - ' + e.Florida?.result + '\n';
+      responseString += e.id + '  - Tennessee Champion - ' + e.Tennessee?.person + ' - ' + e.Tennessee?.result + '\n';
       if (e.id === '333') {
-        responseString += e.id + '  - Fastest Female - ' + e.Female.person + ' - ' + e.Female.result + '\n';
-        responseString += e.id + '  - Fastest Newcomer - ' + e.Newcomer.person + ' - ' + e.Newcomer.result + '\n';
+        responseString += e.id + '  - Fastest Female - ' + e.Female?.person + ' - ' + e.Female?.result + '\n';
+        responseString += e.id + '  - Fastest Newcomer - ' + e.Newcomer?.person + ' - ' + e.Newcomer?.result + '\n';
+        responseString += 'SOR - ' + SorWinner?.name + ' - ' + SorWinner?.sor + '\n';
       }
     });
-    responseString += 'SOR - ' + SorWinner.name + ' - ' + SorWinner.sor + '\n';
 
     fs.writeFile('./export.txt', responseString, err => {
       if (err) {

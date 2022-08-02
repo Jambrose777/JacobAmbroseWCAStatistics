@@ -1,173 +1,179 @@
-333  - 1st Place - Luke Garrett - 7.21
-333  - 2nd Place - Zeke Mackay - 7.40
-333  - 3rd Place - Stanley Chapel - 8.05
-333  - Southeast Champion - Stanley Chapel - 8.05
-333  - Georgia Champion - Vishwa Sankar - 9.30
-333  - Alabama Champion - Stanley Chapel - 8.05
-333  - South Carolina Champion - Justin Barker - 8.60
-333  - North Carolina Champion - None - None
-333  - Florida Champion - None - None
-333  - Tennessee Champion - None - None
-333  - Fastest Female - Kate Grahame - 9.82
-333  - Fastest Newcomer - Trish Rose - DNF
-222  - 1st Place - Carter Kucala - 1.82
-222  - 2nd Place - Luke Garrett - 2.16
-222  - 3rd Place - Peter Weyers - 2.48
-222  - Southeast Champion - Justin Barker - 2.64
-222  - Georgia Champion - Vishwa Sankar - 4.18
-222  - Alabama Champion - Stanley Chapel - DNF
-222  - South Carolina Champion - Justin Barker - 2.64
-222  - North Carolina Champion - None - None
-222  - Florida Champion - None - None
-222  - Tennessee Champion - None - None
-444  - 1st Place - Luke Garrett - 28.62
-444  - 2nd Place - Vishwa Sankar - 31.15
-444  - 3rd Place - Peter Weyers - 31.89
-444  - Southeast Champion - Vishwa Sankar - 31.15
-444  - Georgia Champion - Vishwa Sankar - 31.15
-444  - Alabama Champion - Stanley Chapel - 32.30
-444  - South Carolina Champion - Justin Barker - 40.50
-444  - North Carolina Champion - None - None
-444  - Florida Champion - None - None
-444  - Tennessee Champion - None - None
-555  - 1st Place - Peter Weyers - 53.83
-555  - 2nd Place - Jacob Nokes - 53.84
-555  - 3rd Place - Carter Bitz - 56.24
-555  - Southeast Champion - Stanley Chapel - 1:62.79
-555  - Georgia Champion - Vishwa Sankar - 1:64.50
-555  - Alabama Champion - Stanley Chapel - 1:62.79
-555  - South Carolina Champion - Justin Barker - 1:90.79
-555  - North Carolina Champion - None - None
-555  - Florida Champion - None - None
-555  - Tennessee Champion - None - None
-666  - 1st Place - Jacob Nokes - 1:100.63
-666  - 2nd Place - Peter Weyers - 1:102.67
-666  - 3rd Place - Kate Grahame - 1:106.58
-666  - Southeast Champion - Vishwa Sankar - 1:111.43
-666  - Georgia Champion - Vishwa Sankar - 1:111.43
-666  - Alabama Champion - Stanley Chapel - 1:118.49
-666  - South Carolina Champion - Justin Barker - 3:182.67
-666  - North Carolina Champion - None - None
-666  - Florida Champion - None - None
-666  - Tennessee Champion - None - None
-777  - 1st Place - Kate Grahame - 2:159.03
-777  - 2nd Place - Jacob Nokes - 2:162.94
-777  - 3rd Place - Carter Bitz - 2:165.83
-777  - Southeast Champion - Vishwa Sankar - 2:178.40
-777  - Georgia Champion - Vishwa Sankar - 2:178.40
-777  - Alabama Champion - Stanley Chapel - 3:182.95
-777  - South Carolina Champion - Justin Barker - 0.00
-777  - North Carolina Champion - None - None
-777  - Florida Champion - None - None
-777  - Tennessee Champion - None - None
-333bf  - 1st Place - Stanley Chapel - 22.45
-333bf  - 2nd Place - Adel Mosallami - 25.70
-333bf  - 3rd Place - Mark Boyanowski - 28.43
-333bf  - Southeast Champion - Stanley Chapel - 22.45
-333bf  - Georgia Champion - Vishwa Sankar - DNF
-333bf  - Alabama Champion - Stanley Chapel - 22.45
-333bf  - South Carolina Champion - Justin Barker - 5:307.85
-333bf  - North Carolina Champion - None - None
-333bf  - Florida Champion - None - None
-333bf  - Tennessee Champion - None - None
-333fm  - 1st Place - Cale Schoon - 22.33
-333fm  - 2nd Place - James Quinn - 24.33
-333fm  - 3rd Place - Walker Welch - 26.00
-333fm  - Southeast Champion - Stanley Chapel - 27.67
-333fm  - Georgia Champion - Vishwa Sankar - DNF
-333fm  - Alabama Champion - Stanley Chapel - 27.67
-333fm  - South Carolina Champion - None - None
-333fm  - North Carolina Champion - None - None
-333fm  - Florida Champion - None - None
-333fm  - Tennessee Champion - None - None
-333oh  - 1st Place - Luke Garrett - 9.77
-333oh  - 2nd Place - Carter Kucala - 11.94
-333oh  - 3rd Place - Stanley Chapel - 13.71
-333oh  - Southeast Champion - Stanley Chapel - 13.71
-333oh  - Georgia Champion - Vishwa Sankar - 17.04
-333oh  - Alabama Champion - Stanley Chapel - 13.71
-333oh  - South Carolina Champion - Justin Barker - 21.62
-333oh  - North Carolina Champion - None - None
-333oh  - Florida Champion - None - None
-333oh  - Tennessee Champion - None - None
-clock  - 1st Place - Vishwa Sankar - 5.64
-clock  - 2nd Place - Carter Thomas - 5.71
-clock  - 3rd Place - Jake Buckley - 6.07
-clock  - Southeast Champion - Vishwa Sankar - 5.64
-clock  - Georgia Champion - Vishwa Sankar - 5.64
-clock  - Alabama Champion - Stanley Chapel - DNF
-clock  - South Carolina Champion - Justin Barker - 16.18
-clock  - North Carolina Champion - None - None
-clock  - Florida Champion - None - None
-clock  - Tennessee Champion - None - None
-minx  - 1st Place - Stanley Chapel - 44.78
-minx  - 2nd Place - Luke Garrett - 44.85
-minx  - 3rd Place - Vishwa Sankar - 46.67
-minx  - Southeast Champion - Stanley Chapel - 44.78
-minx  - Georgia Champion - Vishwa Sankar - 46.67
-minx  - Alabama Champion - Stanley Chapel - 44.78
-minx  - South Carolina Champion - Justin Barker - 0.00
-minx  - North Carolina Champion - None - None
-minx  - Florida Champion - None - None
-minx  - Tennessee Champion - None - None
-pyram  - 1st Place - Harsha Paladugu - 2.28
-pyram  - 2nd Place - Simon Kellum - 3.20
-pyram  - 3rd Place - Carter Kucala - 3.40
-pyram  - Southeast Champion - Stanley Chapel - 3.92
-pyram  - Georgia Champion - Vishwa Sankar - 5.96
-pyram  - Alabama Champion - Stanley Chapel - 3.92
-pyram  - South Carolina Champion - Justin Barker - 7.47
-pyram  - North Carolina Champion - None - None
-pyram  - Florida Champion - None - None
-pyram  - Tennessee Champion - None - None
-skewb  - 1st Place - Carter Kucala - 2.37
-skewb  - 2nd Place - Simon Kellum - 2.63
-skewb  - 3rd Place - Cale Schoon - 3.38
-skewb  - Southeast Champion - Stanley Chapel - 3.98
-skewb  - Georgia Champion - Vishwa Sankar - 6.83
-skewb  - Alabama Champion - Stanley Chapel - 3.98
-skewb  - South Carolina Champion - Justin Barker - 18.25
-skewb  - North Carolina Champion - None - None
-skewb  - Florida Champion - None - None
-skewb  - Tennessee Champion - None - None
-sq1  - 1st Place - Ian Southa - 6.94
-sq1  - 2nd Place - Stanley Chapel - 9.41
-sq1  - 3rd Place - Zeke Mackay - 11.30
-sq1  - Southeast Champion - Stanley Chapel - 9.41
-sq1  - Georgia Champion - Vishwa Sankar - 15.79
-sq1  - Alabama Champion - Stanley Chapel - 9.41
-sq1  - South Carolina Champion - Justin Barker - 30.49
-sq1  - North Carolina Champion - None - None
-sq1  - Florida Champion - None - None
-sq1  - Tennessee Champion - None - None
-444bf  - 1st Place - Cale Schoon - 2:137.59
-444bf  - 2nd Place - Mark Boyanowski - 4:272.47
-444bf  - 3rd Place - Thomas Reinke - 6:360.51
-444bf  - Southeast Champion - Stanley Chapel - DNF
-444bf  - Georgia Champion - None - None
-444bf  - Alabama Champion - Stanley Chapel - DNF
-444bf  - South Carolina Champion - None - None
-444bf  - North Carolina Champion - None - None
-444bf  - Florida Champion - None - None
+333
+333  - 1st Place - Max Park - 5.73
+333  - 2nd Place - Dylan Miller - 6.42
+333  - 3rd Place - Luke Garrett - 6.80
+333  - Southeast Champion - Nicolás Sánchez - 7.92
+333  - Georgia Champion - Nicolás Sánchez - 7.92
+333  - Alabama Champion - Sumanth Chandrupatla - 9.08
+333  - South Carolina Champion - Ethan Christopher Cates - 13.03
+333  - North Carolina Champion - Kerry Creech - 8.40
+333  - Florida Champion - Tommy Cherry - 8.61
+333  - Tennessee Champion - Dominic Redisi - 8.55
+333  - Fastest Female - Katie Hull - 9.62
+333  - Fastest Newcomer - Eli Smith - 13.43
+SOR - Tommy Cherry - 151
+222
+222  - 1st Place - Luke Garrett - 1.55
+222  - 2nd Place - Zachary Ochs - 1.65
+222  - 3rd Place - Luke Van Laningham - 1.83
+222  - Southeast Champion - Zachary Ochs - 1.65
+222  - Georgia Champion - Nicolás Sánchez - 2.30
+222  - Alabama Champion - Kevin Min - 3.30
+222  - South Carolina Champion - Ethan Christopher Cates - 3.67
+222  - North Carolina Champion - Zachary Ochs - 1.65
+222  - Florida Champion - Noah Swor - 1.97
+222  - Tennessee Champion - Dominic Redisi - 3.06
+444
+444  - 1st Place - Max Park - 20.58
+444  - 2nd Place - Ari Randers-Pehrson - 24.25
+444  - 3rd Place - Brandon Nunez - 25.79
+444  - Southeast Champion - Katie Hull - 29.51
+444  - Georgia Champion - Katie Hull - 29.51
+444  - Alabama Champion - Kevin Min - 34.91
+444  - South Carolina Champion - Ethan Christopher Cates - 59.96
+444  - North Carolina Champion - Ashten L. Jampayas - 35.99
+444  - Florida Champion - Tommy Cherry - 30.50
+444  - Tennessee Champion - Dominic Redisi - 38.04
+555
+555  - 1st Place - Max Park - 39.82
+555  - 2nd Place - Brandon Nunez - 47.04
+555  - 3rd Place - Christopher Sun - 48.81
+555  - Southeast Champion - Katie Hull - 53.78
+555  - Georgia Champion - Katie Hull - 53.78
+555  - Alabama Champion - Kevin Min - 1:6.54
+555  - South Carolina Champion - Ethan Christopher Cates - 1:41.57
+555  - North Carolina Champion - Kerry Creech - 1:0.38
+555  - Florida Champion - Noah Swor - 57.06
+555  - Tennessee Champion - Dominic Redisi - 1:19.45
+666
+666  - 1st Place - Max Park - 1:9.23
+666  - 2nd Place - Brandon Nunez - 1:33.45
+666  - 3rd Place - Ari Randers-Pehrson - 1:40.27
+666  - Southeast Champion - Sean Hartman - 1:46.61
+666  - Georgia Champion - Katie Hull - 1:47.48
+666  - Alabama Champion - Kevin Min - 1:59.33
+666  - South Carolina Champion - Ethan Christopher Cates - 3:11.42
+666  - North Carolina Champion - Kerry Creech - 1:55.36
+666  - Florida Champion - Sean Hartman - 1:46.61
+666  - Tennessee Champion - Max Goskie - 0.00
+777
+777  - 1st Place - Max Park - 1:52.82
+777  - 2nd Place - Brandon Nunez - 2:21.52
+777  - 3rd Place - Zachary White - 2:26.58
+777  - Southeast Champion - Sean Hartman - 2:30.46
+777  - Georgia Champion - Katie Hull - 3:0.26
+777  - Alabama Champion - Kevin Min - 3:12.41
+777  - South Carolina Champion - Ethan Christopher Cates - 5:10.16
+777  - North Carolina Champion - Kerry Creech - 2:44.03
+777  - Florida Champion - Sean Hartman - 2:30.46
+777  - Tennessee Champion - Max Goskie - 0.00
+333bf
+333bf  - 1st Place - Tommy Cherry - 16.71
+333bf  - 2nd Place - Noah Swor - 24.22
+333bf  - 3rd Place - Carter Kucala - 25.09
+333bf  - Southeast Champion - Tommy Cherry - 16.71
+333bf  - Georgia Champion - Noah Feld - 45.93
+333bf  - Alabama Champion - Kevin Min - DNF
+333bf  - South Carolina Champion - Chad Harris - 1:40.26
+333bf  - North Carolina Champion - Carson Claud - 3:23.30
+333bf  - Florida Champion - Tommy Cherry - 16.71
+333bf  - Tennessee Champion - Dominic Redisi - DNF
+333oh
+333oh  - 1st Place - Max Park - 8.77
+333oh  - 2nd Place - Luke Garrett - 11.50
+333oh  - 3rd Place - Brian Johnson - 12.51
+333oh  - Southeast Champion - Andreas Lambropoulos - 13.06
+333oh  - Georgia Champion - Kieran Dizon - 13.97
+333oh  - Alabama Champion - Kevin Min - 17.30
+333oh  - South Carolina Champion - Ethan Christopher Cates - 26.86
+333oh  - North Carolina Champion - Andreas Lambropoulos - 13.06
+333oh  - Florida Champion - Tommy Cherry - 13.75
+333oh  - Tennessee Champion - Dominic Redisi - 17.35
+clock
+clock  - 1st Place - Caleb Trelford - 4.29
+clock  - 2nd Place - Kerry Creech - 4.72
+clock  - 3rd Place - Lucas Nieuwland - 5.40
+clock  - Southeast Champion - Kerry Creech - 4.72
+clock  - Georgia Champion - Daniel Mullen - 6.10
+clock  - Alabama Champion - Kevin Min - DNF
+clock  - South Carolina Champion - NJ Kim - 8.71
+clock  - North Carolina Champion - Kerry Creech - 4.72
+clock  - Florida Champion - Tommy Cherry - 6.69
+clock  - Tennessee Champion - Dominic Redisi - 12.28
+minx
+minx  - 1st Place - Heewon Seo - 33.84
+minx  - 2nd Place - Dylan Miller - 39.37
+minx  - 3rd Place - Jared Stinson - 40.74
+minx  - Southeast Champion - Heewon Seo - 33.84
+minx  - Georgia Champion - Jared Stinson - 40.74
+minx  - Alabama Champion - Kevin Min - 1:10.14
+minx  - South Carolina Champion - Ethan Christopher Cates - 1:32.33
+minx  - North Carolina Champion - Zachary Ochs - 57.27
+minx  - Florida Champion - Heewon Seo - 33.84
+minx  - Tennessee Champion - Dominic Redisi - 54.48
+pyram
+pyram  - 1st Place - Kerry Creech - 1.89
+pyram  - 2nd Place - Luke Van Laningham - 2.06
+pyram  - 3rd Place - Kevin Min - 2.28
+pyram  - Southeast Champion - Kerry Creech - 1.89
+pyram  - Georgia Champion - Keon Wilson - 2.53
+pyram  - Alabama Champion - Kevin Min - 2.28
+pyram  - South Carolina Champion - Ethan Christopher Cates - 5.42
+pyram  - North Carolina Champion - Kerry Creech - 1.89
+pyram  - Florida Champion - Daniel Porter - 2.59
+pyram  - Tennessee Champion - Dominic Redisi - 6.07
+skewb
+skewb  - 1st Place - Carter Kucala - 2.15
+skewb  - 2nd Place - Dominic Redisi - 2.64
+skewb  - 3rd Place - Brian Johnson - 3.26
+skewb  - Southeast Champion - Dominic Redisi - 2.64
+skewb  - Georgia Champion - Jacob Evarts - 4.75
+skewb  - Alabama Champion - Kevin Min - 5.36
+skewb  - South Carolina Champion - Ethan Christopher Cates - 5.83
+skewb  - North Carolina Champion - Kerry Creech - 4.12
+skewb  - Florida Champion - Tommy Cherry - 3.95
+skewb  - Tennessee Champion - Dominic Redisi - 2.64
+sq1
+sq1  - 1st Place - Brian Johnson - 7.78
+sq1  - 2nd Place - Noah Swor - 9.67
+sq1  - 3rd Place - Tommy Cherry - 9.99
+sq1  - Southeast Champion - Noah Swor - 9.67
+sq1  - Georgia Champion - Kyra Joiner - 12.61
+sq1  - Alabama Champion - Kevin Min - 16.07
+sq1  - South Carolina Champion - Ethan Christopher Cates - 16.92
+sq1  - North Carolina Champion - Kerry Creech - 10.38
+sq1  - Florida Champion - Noah Swor - 9.67
+sq1  - Tennessee Champion - Dominic Redisi - 12.15
+444bf
+444bf  - 1st Place - Christopher Sun - 3:38.60
+444bf  - 2nd Place - Catherine Trace - 5:58.73
+444bf  - 3rd Place - Carson Claud - 7:58.33
+444bf  - Southeast Champion - Carson Claud - 7:58.33
+444bf  - Georgia Champion - Jacob Ambrose - 8:26.56
+444bf  - Alabama Champion - None - None
+444bf  - South Carolina Champion - Chad Harris - DNF
+444bf  - North Carolina Champion - Carson Claud - 7:58.33
+444bf  - Florida Champion - Noah Swor - DNF
 444bf  - Tennessee Champion - None - None
-555bf  - 1st Place - Cale Schoon - 5:325.10
-555bf  - 2nd Place - Thomas Reinke - 13:818.00
-555bf  - 3rd Place - Stanley Chapel - DNF
-555bf  - Southeast Champion - Stanley Chapel - DNF
-555bf  - Georgia Champion - None - None
-555bf  - Alabama Champion - Stanley Chapel - DNF
-555bf  - South Carolina Champion - None - None
-555bf  - North Carolina Champion - None - None
-555bf  - Florida Champion - None - None
+555bf
+555bf  - 1st Place - Christopher Sun - 9:37.98
+555bf  - 2nd Place - Carter Kucala - 9:45.24
+555bf  - 3rd Place - Tommy Cherry - 9:54.14
+555bf  - Southeast Champion - Tommy Cherry - 9:54.14
+555bf  - Georgia Champion - Noah Feld - 18:38.00
+555bf  - Alabama Champion - None - None
+555bf  - South Carolina Champion - Chad Harris - DNF
+555bf  - North Carolina Champion - Carson Claud - DNF
+555bf  - Florida Champion - Tommy Cherry - 9:54.14
 555bf  - Tennessee Champion - None - None
-333mbf  - 1st Place - Mark Boyanowski - 95058:5703509.02
-333mbf  - 2nd Place - Stanley Chapel - 115053:6903198.09
-333mbf  - 3rd Place - Cale Schoon - 126724:7603498.05
-333mbf  - Southeast Champion - Stanley Chapel - 115053:6903198.09
-333mbf  - Georgia Champion - Vishwa Sankar - DNF
-333mbf  - Alabama Champion - Stanley Chapel - 115053:6903198.09
-333mbf  - South Carolina Champion - None - None
-333mbf  - North Carolina Champion - None - None
-333mbf  - Florida Champion - None - None
-333mbf  - Tennessee Champion - None - None
-SOR - Carter Kucala - 109
+333mbf
+333mbf  - 1st Place - Christopher Sun - 133393:20.03
+333mbf  - 2nd Place - Sean Hartman - 141724:10.01
+333mbf  - 3rd Place - Noah Feld - 143391:39.02
+333mbf  - Southeast Champion - Sean Hartman - 141724:10.01
+333mbf  - Georgia Champion - Noah Feld - 143391:39.02
+333mbf  - Alabama Champion - None - None
+333mbf  - South Carolina Champion - Chad Harris - 165045:17.04
+333mbf  - North Carolina Champion - Carson Claud - 148377:22.00
+333mbf  - Florida Champion - Sean Hartman - 141724:10.01
+333mbf  - Tennessee Champion - Nathan Scott - 155057:23.03
