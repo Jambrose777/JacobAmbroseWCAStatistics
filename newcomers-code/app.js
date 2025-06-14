@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const competitionId = 'SoutheastChampionship2022';
+const competitionId = 'SoutheastChampionship2024';
 const Authorization = '';
 
 const getLiveResults = async () => {
@@ -51,4 +51,31 @@ const calculateFastestNewcomers = async () => {
   });
 }
 
+const calculateFastestFemales = async () => {
+  const response = [];
+  const liveResults = await getLiveResults();
+
+  if (liveResults.data) {
+    let persons = liveResults.data.persons;
+    results3x3 = liveResults.data.events.find(event => event.id === '333');
+    if (results3x3) {
+      results3x3.rounds.slice().reverse().forEach(r => {
+        r.results.forEach(result => {
+          let person = persons.find(p => p.registrantId === result.personId);
+          if(person.gender === 'f' && !response.find(rs => rs.name === person.name)) {
+            response.push({name: person.name, result: convertTime(result.average), round: r.id})
+          }
+        })
+      })
+    }
+  }
+
+  fs.writeFile('./export2.json', JSON.stringify(response), err => {
+    if (err) {
+      console.error(err);
+    }
+  });
+}
+
 calculateFastestNewcomers();
+calculateFastestFemales();
